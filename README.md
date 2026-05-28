@@ -6,6 +6,14 @@ This repository contains the reproducible analysis code, derived non-restricted 
 
 Repository: https://github.com/Cristo198/af-hf-inflammation-mr-2026
 
+## Authors
+
+Yangfeng Qin, Langping Township Health Center, Bobai County.
+
+Runchuan Feng, Nanning Fourth People's Hospital.
+
+Yangfeng Qin and Runchuan Feng contributed equally. Runchuan Feng is the corresponding author for the manuscript.
+
 ## Overview
 
 The project evaluates circulating inflammatory proteins as genetically supported mediators of the atrial fibrillation (AF)-heart failure (HF) continuum. The workflow integrates:
@@ -47,7 +55,7 @@ Before rerunning the pipeline, download or request the raw datasets described in
 
 ## Citation
 
-If using this repository, please cite the manuscript and the archived Zenodo DOI once available. The current `CITATION.cff` still contains placeholder author metadata and should be updated with the final author list before Zenodo publication.
+If using this repository, please cite the manuscript and the archived Zenodo DOI once available. The code repository is available at https://github.com/Cristo198/af-hf-inflammation-mr-2026.
 
 ## License
 

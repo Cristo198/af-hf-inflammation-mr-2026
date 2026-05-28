@@ -4,8 +4,12 @@ title: "Genetically Supported Inflammatory Mediators of the Atrial Fibrillation-
 version: "0.1.0"
 date-released: "2026-05-28"
 authors:
-  - family-names: "To be updated"
-    given-names: "Author"
+  - family-names: "Qin"
+    given-names: "Yangfeng"
+    affiliation: "Langping Township Health Center, Bobai County"
+  - family-names: "Feng"
+    given-names: "Runchuan"
+    affiliation: "Nanning Fourth People's Hospital"
 repository-code: "https://github.com/Cristo198/af-hf-inflammation-mr-2026"
 license: "MIT"
 keywords:

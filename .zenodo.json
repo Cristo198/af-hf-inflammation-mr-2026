@@ -4,7 +4,12 @@
   "description": "Reproducible analysis code, derived non-restricted tables, and figures for a cis-pQTL Mendelian randomization, dual-outcome colocalization, mediation, and target-prioritization study of inflammatory mediators in the atrial fibrillation-heart failure continuum.",
   "creators": [
     {
-      "name": "To be updated"
+      "name": "Qin, Yangfeng",
+      "affiliation": "Langping Township Health Center, Bobai County"
+    },
+    {
+      "name": "Feng, Runchuan",
+      "affiliation": "Nanning Fourth People's Hospital"
     }
   ],
   "license": "MIT",

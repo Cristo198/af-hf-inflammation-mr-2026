@@ -14,6 +14,14 @@ Derived non-restricted summary tables, figure files, analysis scripts, and file 
 
 All custom analysis scripts used for exposure selection, cis-pQTL instrument construction, outcome extraction, allele harmonization, Wald ratio MR, replication, formal coloc.abf-style colocalization, sensitivity checks, reverse MR, mediation analysis, target prioritization, and table generation are available at https://github.com/Cristo198/af-hf-inflammation-mr-2026. The repository includes the frozen software environment table, derived non-restricted output tables, and a manifest of required external input files. A Zenodo DOI will be added after release archiving.
 
+## Author Information
+
+Yangfeng Qin, Langping Township Health Center, Bobai County, Guangxi, China.
+
+Runchuan Feng, Nanning Fourth People's Hospital, Nanning, Guangxi, China.
+
+Yangfeng Qin and Runchuan Feng contributed equally to this work. Runchuan Feng is the corresponding author. Corresponding author email: [email to be inserted].
+
 ## Protocol Registration
 
 This study was not prospectively registered. The analytic workflow, prespecified candidate-selection rule, and reproducibility scripts are provided with the manuscript and supplementary materials.

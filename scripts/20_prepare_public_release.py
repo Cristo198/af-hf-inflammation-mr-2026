@@ -62,6 +62,7 @@ INCLUDE_GLOBS = [
 
 
 EXCLUDE_PARTS = {
+    ".git",
     "__pycache__",
     "data",
     "raw",
@@ -83,6 +84,15 @@ EXCLUDE_SUFFIXES = {
 def is_allowed(path: Path) -> bool:
     rel = path.relative_to(ROOT)
     if any(part in EXCLUDE_PARTS for part in rel.parts):
+        return False
+    if path.suffix.lower() in EXCLUDE_SUFFIXES:
+        return False
+    return True
+
+
+def is_release_file_allowed(path: Path) -> bool:
+    rel = path.relative_to(OUT)
+    if any(part in {".git", "__pycache__"} for part in rel.parts):
         return False
     if path.suffix.lower() in EXCLUDE_SUFFIXES:
         return False
@@ -125,7 +135,7 @@ def main() -> None:
         ZIP_PATH.unlink()
     with zipfile.ZipFile(ZIP_PATH, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         for file_path in sorted(OUT.rglob("*")):
-            if file_path.is_file():
+            if file_path.is_file() and is_release_file_allowed(file_path):
                 zf.write(file_path, file_path.relative_to(OUT.parent))
 
     print(f"Release folder: {OUT}")
