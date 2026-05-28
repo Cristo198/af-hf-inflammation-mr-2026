@@ -7,7 +7,7 @@ LICENSE,1068
 README.md,3481
 analysis_plan.md,3349
 data_sources.md,3829
-manuscript_draft_en_v0_1_2026-05-28.md,44764
+manuscript_draft_en_v0_1_2026-05-28.md,44748
 protocol.md,2151
 references_seed.md,7722
 requirements.txt,160
@@ -73,7 +73,7 @@ scripts/19_run_af_mediation_analysis.py,29149
 scripts/20_prepare_public_release.py,5009
 strobe_mr_checklist_2026-05-28.md,8529
 submission_formatting_notes_2026-05-28.md,3931
-submission_statements_2026-05-28.md,4806
+submission_statements_2026-05-28.md,4790
 tables/extraction_template.csv,1360
 tables/supplementary_table_exposure_instruments_qc.csv,129330
 tables/supplementary_table_outcome_harmonisation_qc.csv,339

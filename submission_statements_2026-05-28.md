@@ -20,7 +20,7 @@ Yangfeng Qin, Langping Township Health Center, Bobai County, Guangxi, China.
 
 Runchuan Feng, Nanning Fourth People's Hospital, Nanning, Guangxi, China.
 
-Yangfeng Qin and Runchuan Feng contributed equally to this work. Yangfeng Qin is the corresponding author. Corresponding author email: [Yangfeng Qin email to be inserted].
+Yangfeng Qin and Runchuan Feng contributed equally to this work. Yangfeng Qin is the corresponding author. Corresponding author email: 13277728591@163.com.
 
 ## Protocol Registration
 

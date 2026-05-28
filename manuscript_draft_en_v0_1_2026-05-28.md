@@ -8,7 +8,7 @@ Yangfeng Qin^1* and Runchuan Feng^2*
 
 *Yangfeng Qin and Runchuan Feng contributed equally to this work.
 
-Correspondence: Yangfeng Qin, Langping Township Health Center, Bobai County, Guangxi, China. Email: [Yangfeng Qin email to be inserted].
+Correspondence: Yangfeng Qin, Langping Township Health Center, Bobai County, Guangxi, China. Email: 13277728591@163.com.
 
 Manuscript draft: v0.1 unified English version, 2026-05-28
 
