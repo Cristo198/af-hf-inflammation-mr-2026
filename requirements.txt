@@ -1,0 +1,3 @@
+# Core analysis scripts use Python 3.12.4 standard-library modules.
+# Optional helper used only for controlled UKB-PPP Synapse downloads:
+synapseclient==4.12.0

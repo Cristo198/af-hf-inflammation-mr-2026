@@ -1,0 +1,5 @@
+protein,protein_name,outcome_id,SNP,exposure_effect_allele,exposure_other_allele,exposure_eaf,exposure_beta,outcome_effect_allele,outcome_other_allele,outcome_eaf_raw,outcome_eaf_aligned_to_exposure_effect,outcome_beta_raw,harmonise_action,outcome_beta_aligned,wald_or,wald_ci,wald_p,wald_fdr
+FGF5,Fibroblast growth factor 5,AF,rs12509595,C,T,0.293417,0.682078,C,T,0.3069,0.3069,0.0416,aligned,0.0416,1.0628884,1.0411235-1.0851083,7.5693691e-09,3.70142e-06
+LPA,Apolipoprotein(a),AF,rs56393506,T,C,0.172142,0.761378,C,T,0.8351,0.1649,-0.026,flipped,0.026,1.0347384,1.0097401-1.0603555,0.0062032059,0.216669
+FGF5,Fibroblast growth factor 5,HF,rs12509595,C,T,0.293417,0.682078,T,C,0.6948,0.3052,-0.0197,flipped,0.0197,1.0293035,1.0044669-1.0547541,0.02046851,0.441689
+LPA,Apolipoprotein(a),HF,rs56393506,T,C,0.172142,0.761378,T,C,0.1649,0.1649,0.0584,aligned,0.0584,1.0797214,1.0495757-1.1107329,1.1017337e-07,2.25855e-05

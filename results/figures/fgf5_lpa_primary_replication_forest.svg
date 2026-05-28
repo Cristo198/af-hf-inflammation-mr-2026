@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="416" viewBox="0 0 1120 416">
+<style>text{font-family:Arial,Helvetica,sans-serif}.small{font-size:12px}.axis{stroke:#252a31;stroke-width:1}.grid{stroke:#e7e9ee;stroke-width:1}.note{fill:#666}.title{font-size:20px;font-weight:700}.label{font-size:11px}</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28" y="36" class="title">FGF5/LPA primary and FinnGen replication</text>
+<text x="28" y="62" class="small note">Squares show OR; horizontal lines show 95% CI. Vertical line marks OR=1.</text>
+<text x="28" y="74" class="small" font-weight="700">Protein / outcome</text>
+<text x="840" y="74" class="small" font-weight="700">OR (95% CI), P/FDR</text>
+<line x1="503.4" y1="84" x2="503.4" y2="372" class="grid"/>
+<text x="503.4" y="398" text-anchor="middle" class="small">1</text>
+<line x1="637.2" y1="84" x2="637.2" y2="372" class="grid"/>
+<text x="637.2" y="398" text-anchor="middle" class="small">1.1</text>
+<line x1="816.6" y1="84" x2="816.6" y2="372" class="grid"/>
+<text x="816.6" y="398" text-anchor="middle" class="small">1.25</text>
+<line x1="503.4" y1="84" x2="503.4" y2="372" stroke="#252a31" stroke-dasharray="4 4"/>
+<rect x="18" y="72" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="637.2" y1="92.0" x2="712.0" y2="92.0" stroke="#8a3ffc" stroke-width="2"/>
+<rect x="669.6" y="87.0" width="10" height="10" fill="#8a3ffc"/>
+<text x="28" y="96" class="small">FGF5 FinnGen I9_AF</text>
+<text x="840" y="96" class="small">1.13 (1.1-1.16), P=2.68e-19</text>
+<line x1="560.0" y1="130.0" x2="618.1" y2="130.0" stroke="#8a3ffc" stroke-width="2"/>
+<rect x="584.0" y="125.0" width="10" height="10" fill="#8a3ffc"/>
+<text x="28" y="134" class="small">FGF5 primary AF</text>
+<text x="840" y="134" class="small">1.063 (1.041-1.085), P=7.57e-09, FDR=3.70e-06</text>
+<rect x="18" y="148" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="509.7" y1="168.0" x2="578.2" y2="168.0" stroke="#8a3ffc" stroke-width="2"/>
+<rect x="538.9" y="163.0" width="10" height="10" fill="#8a3ffc"/>
+<text x="28" y="172" class="small">FGF5 primary HF</text>
+<text x="840" y="172" class="small">1.029 (1.004-1.055), P=0.0205, FDR=0.4417</text>
+<line x1="552.1" y1="206.0" x2="632.7" y2="206.0" stroke="#00856f" stroke-width="2"/>
+<rect x="587.4" y="201.0" width="10" height="10" fill="#00856f"/>
+<text x="28" y="210" class="small">LPA FinnGen I9_AF</text>
+<text x="840" y="210" class="small">1.065 (1.035-1.096), P=1.49e-05</text>
+<rect x="18" y="224" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="507.0" y1="244.0" x2="583.2" y2="244.0" stroke="#00856f" stroke-width="2"/>
+<rect x="540.1" y="239.0" width="10" height="10" fill="#00856f"/>
+<text x="28" y="248" class="small">LPA FinnGen I9_HEARTFAIL</text>
+<text x="840" y="248" class="small">1.03 (1.003-1.059), P=0.0318</text>
+<line x1="517.0" y1="282.0" x2="585.7" y2="282.0" stroke="#00856f" stroke-width="2"/>
+<rect x="546.3" y="277.0" width="10" height="10" fill="#00856f"/>
+<text x="28" y="286" class="small">LPA primary AF</text>
+<text x="840" y="286" class="small">1.035 (1.01-1.06), P=0.0062, FDR=0.2167</text>
+<rect x="18" y="300" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="571.3" y1="320.0" x2="650.8" y2="320.0" stroke="#00856f" stroke-width="2"/>
+<rect x="606.1" y="315.0" width="10" height="10" fill="#00856f"/>
+<text x="28" y="324" class="small">LPA primary HF</text>
+<text x="840" y="324" class="small">1.08 (1.05-1.111), P=1.10e-07, FDR=2.26e-05</text>
+<text x="605.0" y="414" text-anchor="middle" class="small">Odds ratio</text>
+</svg>

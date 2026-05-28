@@ -1,0 +1,6 @@
+category,name,id_or_accession,source_url,trait,sample_size,cases,controls,ancestry,build,effect_unit,download_date,license_or_terms,notes
+outcome,Atrial fibrillation,ebi-a-GCST006414,https://gwas.mrcieu.ac.uk/datasets/ebi-a-GCST006414/,Atrial fibrillation,1030836,60620,970216,European,GRCh37,logOR,,,"Main AF outcome"
+outcome,Heart failure,ebi-a-GCST009541,https://gwas.mrcieu.ac.uk/datasets/ebi-a-GCST009541/,Heart failure,977323,47309,930014,European,GRCh37,,,,"Main HF outcome"
+exposure,UKB-PPP Olink Explore inflammation-related pQTL,UKB-PPP,https://registry.opendata.aws/ukbppp/,Inflammation and Inflammation_II plasma proteins,54219,,,Mixed; discovery EUR n=34557,hg38,beta per SD,2026-05-26,CC BY / controlled access AWS/Synapse,"Main exposure; 737 panel proteins; 529 lead cis-pQTL instruments after MHC exclusion; cis-pQTL within 1Mb"
+validation,deCODE plasma proteomics pQTL,Ferkingstad 2021,https://www.decode.com/summarydata/,Plasma proteins,35559,,,Icelandic European,,beta per SD,,deCODE terms,"Cross-platform validation; SomaScan; map overlapping proteins by UniProt/gene"
+validation,Zhao/SCALLOP Olink Target Inflammation pQTL,GCST90274758-GCST90274848,https://www.phpc.cam.ac.uk/ceu/proteins/,91 inflammation-related plasma proteins,14824,,,European,,beta per SD,,GWAS Catalog / source terms,"Classic inflammation panel sensitivity analysis"

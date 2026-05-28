@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<style>text{font-family:Arial,Helvetica,sans-serif}.title{font-size:20px;font-weight:700}.small{font-size:12px}.label{font-size:14px;font-weight:700}.note{fill:#5f6368}.axis{stroke:#252a31;stroke-width:1}.grid{stroke:#e6e8ee;stroke-width:1}</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="48" y="38" class="title">AF/HF nominal MR signal overlap</text>
+<text x="48" y="62" class="small note">Nominal threshold: Wald ratio P&lt;0.05. Shared candidates require additional FDR and concordant-direction criteria.</text>
+<circle cx="390" cy="280" r="175" fill="#b12a34" fill-opacity="0.28" stroke="#b12a34" stroke-width="3"/>
+<circle cx="570" cy="280" r="175" fill="#00856f" fill-opacity="0.28" stroke="#00856f" stroke-width="3"/>
+<text x="305" y="130" class="label" fill="#8c1d28">AF nominal</text>
+<text x="595" y="130" class="label" fill="#006b5a">HF nominal</text>
+<text x="315" y="288" class="title" text-anchor="middle">31</text>
+<text x="480" y="288" class="title" text-anchor="middle">6</text>
+<text x="650" y="288" class="title" text-anchor="middle">35</text>
+<text x="315" y="313" class="small" text-anchor="middle">AF only</text>
+<text x="480" y="313" class="small" text-anchor="middle">overlap</text>
+<text x="650" y="313" class="small" text-anchor="middle">HF only</text>
+<rect x="65" y="400" width="830" height="92" rx="6" fill="#f7f8fb" stroke="#d8dce3"/>
+<text x="85" y="426" class="small"><tspan font-weight="700">Nominal overlap proteins:</tspan> CXCL17, FGF5, HEG1, HRG, LPA, ZBP1</text>
+<text x="85" y="452" class="small"><tspan font-weight="700">Shared candidates after FDR + direction rule:</tspan> FGF5, LPA</text>
+<text x="85" y="478" class="small"><tspan font-weight="700">FDR sets:</tspan> AF=5, HF=4, both FDR=0</text>
+</svg>

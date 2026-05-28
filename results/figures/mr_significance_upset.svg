@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="660" viewBox="0 0 1080 660">
+<style>text{font-family:Arial,Helvetica,sans-serif}.title{font-size:20px;font-weight:700}.small{font-size:12px}.label{font-size:14px;font-weight:700}.note{fill:#5f6368}.axis{stroke:#252a31;stroke-width:1}.grid{stroke:#e6e8ee;stroke-width:1}</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="42" y="38" class="title">MR significance UpSet plot</text>
+<text x="42" y="62" class="small note">Exact membership across nominal and FDR sets. FDR sets are nested within their corresponding nominal sets.</text>
+<text x="42" y="425" class="small">AF P&lt;0.05</text>
+<text x="192" y="425" class="small" text-anchor="end">37</text>
+<line x1="210" y1="420" x2="298.8" y2="420" stroke="#5f6368" stroke-width="7"/>
+<text x="42" y="467" class="small">AF FDR&lt;0.05</text>
+<text x="192" y="467" class="small" text-anchor="end">5</text>
+<line x1="210" y1="462" x2="222.0" y2="462" stroke="#5f6368" stroke-width="7"/>
+<text x="42" y="509" class="small">HF P&lt;0.05</text>
+<text x="192" y="509" class="small" text-anchor="end">41</text>
+<line x1="210" y1="504" x2="308.4" y2="504" stroke="#5f6368" stroke-width="7"/>
+<text x="42" y="551" class="small">HF FDR&lt;0.05</text>
+<text x="192" y="551" class="small" text-anchor="end">4</text>
+<line x1="210" y1="546" x2="219.6" y2="546" stroke="#5f6368" stroke-width="7"/>
+<rect x="287" y="90.0" width="36" height="260.0" fill="#3b63a3"/>
+<text x="305" y="82.0" class="small" text-anchor="middle">32</text>
+<circle cx="305" cy="420" r="5" fill="#d4d8df"/>
+<circle cx="305" cy="462" r="5" fill="#d4d8df"/>
+<circle cx="305" cy="504" r="7" fill="#252a31"/>
+<circle cx="305" cy="546" r="5" fill="#d4d8df"/>
+<text x="305" y="605" class="small" text-anchor="middle" transform="rotate(45 305 605)">ACHE, ADA, ADAMTS4, ALDH3A1...</text>
+<rect x="377" y="130.6" width="36" height="219.4" fill="#3b63a3"/>
+<text x="395" y="122.6" class="small" text-anchor="middle">27</text>
+<circle cx="395" cy="420" r="7" fill="#252a31"/>
+<circle cx="395" cy="462" r="5" fill="#d4d8df"/>
+<circle cx="395" cy="504" r="5" fill="#d4d8df"/>
+<circle cx="395" cy="546" r="5" fill="#d4d8df"/>
+<text x="395" y="605" class="small" text-anchor="middle" transform="rotate(45 395 605)">ADAM12, AFAP1, APCS, ATP5IF1...</text>
+<rect x="467" y="317.5" width="36" height="32.5" fill="#3b63a3"/>
+<text x="485" y="309.5" class="small" text-anchor="middle">4</text>
+<circle cx="485" cy="420" r="7" fill="#252a31"/>
+<circle cx="485" cy="462" r="7" fill="#252a31"/>
+<circle cx="485" cy="504" r="5" fill="#d4d8df"/>
+<circle cx="485" cy="546" r="5" fill="#d4d8df"/>
+<line x1="485" y1="420" x2="485" y2="462" stroke="#252a31" stroke-width="2"/>
+<text x="485" y="605" class="small" text-anchor="middle" transform="rotate(45 485 605)">NFATC1, PKLR, SPON1, TNFSF12</text>
+<rect x="557" y="317.5" width="36" height="32.5" fill="#3b63a3"/>
+<text x="575" y="309.5" class="small" text-anchor="middle">4</text>
+<circle cx="575" cy="420" r="7" fill="#252a31"/>
+<circle cx="575" cy="462" r="5" fill="#d4d8df"/>
+<circle cx="575" cy="504" r="7" fill="#252a31"/>
+<circle cx="575" cy="546" r="5" fill="#d4d8df"/>
+<line x1="575" y1="420" x2="575" y2="504" stroke="#252a31" stroke-width="2"/>
+<text x="575" y="605" class="small" text-anchor="middle" transform="rotate(45 575 605)">CXCL17, HEG1, HRG, ZBP1</text>
+<rect x="647" y="325.6" width="36" height="24.4" fill="#3b63a3"/>
+<text x="665" y="317.6" class="small" text-anchor="middle">3</text>
+<circle cx="665" cy="420" r="5" fill="#d4d8df"/>
+<circle cx="665" cy="462" r="5" fill="#d4d8df"/>
+<circle cx="665" cy="504" r="7" fill="#252a31"/>
+<circle cx="665" cy="546" r="7" fill="#252a31"/>
+<line x1="665" y1="504" x2="665" y2="546" stroke="#252a31" stroke-width="2"/>
+<text x="665" y="605" class="small" text-anchor="middle" transform="rotate(45 665 605)">ABO, APOA2, CELSR2</text>
+<rect x="737" y="341.9" width="36" height="8.1" fill="#3b63a3"/>
+<text x="755" y="333.9" class="small" text-anchor="middle">1</text>
+<circle cx="755" cy="420" r="7" fill="#252a31"/>
+<circle cx="755" cy="462" r="7" fill="#252a31"/>
+<circle cx="755" cy="504" r="7" fill="#252a31"/>
+<circle cx="755" cy="546" r="5" fill="#d4d8df"/>
+<line x1="755" y1="420" x2="755" y2="504" stroke="#252a31" stroke-width="2"/>
+<text x="755" y="605" class="small" text-anchor="middle" transform="rotate(45 755 605)">FGF5</text>
+<rect x="827" y="341.9" width="36" height="8.1" fill="#3b63a3"/>
+<text x="845" y="333.9" class="small" text-anchor="middle">1</text>
+<circle cx="845" cy="420" r="7" fill="#252a31"/>
+<circle cx="845" cy="462" r="5" fill="#d4d8df"/>
+<circle cx="845" cy="504" r="7" fill="#252a31"/>
+<circle cx="845" cy="546" r="7" fill="#252a31"/>
+<line x1="845" y1="420" x2="845" y2="546" stroke="#252a31" stroke-width="2"/>
+<text x="845" y="605" class="small" text-anchor="middle" transform="rotate(45 845 605)">LPA</text>
+<line x1="270" y1="350" x2="1030" y2="350" class="axis"/>
+<text x="305" y="638" class="small note">Columns show exact set combinations; labels list representative proteins.</text>
+</svg>

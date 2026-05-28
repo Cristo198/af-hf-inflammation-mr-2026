@@ -1,0 +1,5 @@
+protein,protein_name,outcome_id,SNP,effect_allele,other_allele,palindromic_alleles,instrument_f,exposure_r2_proxy,outcome_r2_proxy,steiger_proxy_direction,harmonise_action,mr_or,mr_p,mr_fdr
+FGF5,Fibroblast growth factor 5,AF,rs12509595,C,T,False,7582.335,0.19290636,0.00071757139,protein_to_disease_supported,aligned,1.0628884,7.5693691e-09,3.70142e-06
+LPA,Apolipoprotein(a),AF,rs56393506,T,C,False,5377.806,0.16522408,0.00019267235,protein_to_disease_supported,flipped,1.0347384,0.0062032059,0.216669
+FGF5,Fibroblast growth factor 5,HF,rs12509595,C,T,False,7582.335,0.19290636,0.00016092033,protein_to_disease_supported,flipped,1.0293035,0.02046851,0.441689
+LPA,Apolipoprotein(a),HF,rs56393506,T,C,False,5377.806,0.16522408,0.00097207189,protein_to_disease_supported,aligned,1.0797214,1.1017337e-07,2.25855e-05

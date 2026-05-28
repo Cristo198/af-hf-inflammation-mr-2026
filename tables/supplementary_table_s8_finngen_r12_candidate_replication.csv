@@ -1,0 +1,4 @@
+protein,protein_name,outcome_id,phenocode,SNP,finngen_varid,exposure_effect_allele,outcome_effect_allele,harmonise_action,or,or_lci95,or_uci95,pval_mr,outcome_beta,outcome_se,n_case,n_control,replication_direction
+FGF5,Fibroblast growth factor 5,FG_AF,I9_AF,rs12509595,4:80261400:T:C,C,C,aligned_to_exposure_effect_allele,1.1297251,1.1000495,1.1602012,2.6804024e-19,0.083196,0.00926344,63532,252810,same_risk
+LPA,Apolipoprotein(a),FG_AF,I9_AF,rs56393506,6:160668275:C:T,T,T,aligned_to_exposure_effect_allele,1.0654534,1.0353081,1.0964765,1.4940323e-05,0.0482717,0.0111493,63532,252810,same_risk
+LPA,Apolipoprotein(a),FG_HF,I9_HEARTFAIL,rs56393506,6:160668275:C:T,T,T,aligned_to_exposure_effect_allele,1.0301798,1.0025919,1.0585267,0.031799479,0.0226383,0.0105446,37653,462695,same_risk

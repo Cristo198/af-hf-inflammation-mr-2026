@@ -1,0 +1,35 @@
+# Local raw and access-controlled data
+data/
+*.gz
+*.zip
+*.tar
+*.tgz
+*.tbi
+*.bcf
+*.vcf
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.token
+.synapseConfig
+synapseConfig
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local release archives
+public_release/*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

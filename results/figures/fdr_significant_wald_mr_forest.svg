@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="492" viewBox="0 0 1120 492">
+<style>text{font-family:Arial,Helvetica,sans-serif}.small{font-size:12px}.axis{stroke:#252a31;stroke-width:1}.grid{stroke:#e7e9ee;stroke-width:1}.note{fill:#666}.title{font-size:20px;font-weight:700}.label{font-size:11px}</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28" y="36" class="title">FDR-significant primary MR results</text>
+<text x="28" y="62" class="small note">Squares show OR; horizontal lines show 95% CI. Vertical line marks OR=1.</text>
+<text x="28" y="74" class="small" font-weight="700">Protein / outcome</text>
+<text x="840" y="74" class="small" font-weight="700">OR (95% CI), P/FDR</text>
+<line x1="414.4" y1="84" x2="414.4" y2="448" class="grid"/>
+<text x="414.4" y="474" text-anchor="middle" class="small">0.5</text>
+<line x1="517.9" y1="84" x2="517.9" y2="448" class="grid"/>
+<text x="517.9" y="474" text-anchor="middle" class="small">0.67</text>
+<line x1="557.8" y1="84" x2="557.8" y2="448" class="grid"/>
+<text x="557.8" y="474" text-anchor="middle" class="small">0.75</text>
+<line x1="622.3" y1="84" x2="622.3" y2="448" class="grid"/>
+<text x="622.3" y="474" text-anchor="middle" class="small">0.9</text>
+<line x1="659.5" y1="84" x2="659.5" y2="448" class="grid"/>
+<text x="659.5" y="474" text-anchor="middle" class="small">1</text>
+<line x1="693.2" y1="84" x2="693.2" y2="448" class="grid"/>
+<text x="693.2" y="474" text-anchor="middle" class="small">1.1</text>
+<line x1="738.4" y1="84" x2="738.4" y2="448" class="grid"/>
+<text x="738.4" y="474" text-anchor="middle" class="small">1.25</text>
+<line x1="802.9" y1="84" x2="802.9" y2="448" class="grid"/>
+<text x="802.9" y="474" text-anchor="middle" class="small">1.5</text>
+<line x1="659.5" y1="84" x2="659.5" y2="448" stroke="#252a31" stroke-dasharray="4 4"/>
+<rect x="18" y="72" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="673.8" y1="92.0" x2="688.4" y2="92.0" stroke="#b12a34" stroke-width="2"/>
+<rect x="676.1" y="87.0" width="10" height="10" fill="#b12a34"/>
+<text x="28" y="96" class="small">FGF5 (AF)</text>
+<text x="840" y="96" class="small">1.063 (1.041-1.085), P=7.57e-09, FDR=3.70e-06</text>
+<line x1="606.8" y1="130.0" x2="634.7" y2="130.0" stroke="#2f6fbb" stroke-width="2"/>
+<rect x="615.8" y="125.0" width="10" height="10" fill="#2f6fbb"/>
+<text x="28" y="134" class="small">TNFSF12 (AF)</text>
+<text x="840" y="134" class="small">0.896 (0.862-0.932), P=5.33e-08, FDR=1.30e-05</text>
+<rect x="18" y="148" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="681.9" y1="168.0" x2="713.3" y2="168.0" stroke="#b12a34" stroke-width="2"/>
+<rect x="692.6" y="163.0" width="10" height="10" fill="#b12a34"/>
+<text x="28" y="172" class="small">SPON1 (AF)</text>
+<text x="840" y="172" class="small">1.114 (1.065-1.164), P=1.96e-06, FDR=3.19e-04</text>
+<line x1="580.6" y1="206.0" x2="633.2" y2="206.0" stroke="#2f6fbb" stroke-width="2"/>
+<rect x="601.9" y="201.0" width="10" height="10" fill="#2f6fbb"/>
+<text x="28" y="210" class="small">PKLR (AF)</text>
+<text x="840" y="210" class="small">0.862 (0.8-0.928), P=8.84e-05, FDR=0.0108</text>
+<rect x="18" y="224" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="699.4" y1="244.0" x2="792.8" y2="244.0" stroke="#b12a34" stroke-width="2"/>
+<rect x="741.1" y="239.0" width="10" height="10" fill="#b12a34"/>
+<text x="28" y="248" class="small">NFATC1 (AF)</text>
+<text x="840" y="248" class="small">1.277 (1.119-1.458), P=2.78e-04, FDR=0.0272</text>
+<line x1="600.8" y1="282.0" x2="630.0" y2="282.0" stroke="#2f6fbb" stroke-width="2"/>
+<rect x="610.4" y="277.0" width="10" height="10" fill="#2f6fbb"/>
+<text x="28" y="286" class="small">CELSR2 (HF)</text>
+<text x="840" y="286" class="small">0.883 (0.847-0.92), P=3.27e-09, FDR=1.34e-06</text>
+<rect x="18" y="300" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="676.6" y1="320.0" x2="696.7" y2="320.0" stroke="#b12a34" stroke-width="2"/>
+<rect x="681.6" y="315.0" width="10" height="10" fill="#b12a34"/>
+<text x="28" y="324" class="small">LPA (HF)</text>
+<text x="840" y="324" class="small">1.08 (1.05-1.111), P=1.10e-07, FDR=2.26e-05</text>
+<line x1="666.5" y1="358.0" x2="676.5" y2="358.0" stroke="#b12a34" stroke-width="2"/>
+<rect x="666.5" y="353.0" width="10" height="10" fill="#b12a34"/>
+<text x="28" y="362" class="small">ABO (HF)</text>
+<text x="840" y="362" class="small">1.034 (1.02-1.049), P=3.18e-06, FDR=4.35e-04</text>
+<rect x="18" y="376" width="1084" height="38" fill="#f8f9fb"/>
+<line x1="419.5" y1="396.0" x2="586.7" y2="396.0" stroke="#2f6fbb" stroke-width="2"/>
+<rect x="498.1" y="391.0" width="10" height="10" fill="#2f6fbb"/>
+<text x="28" y="400" class="small">APOA2 (HF)</text>
+<text x="840" y="400" class="small">0.643 (0.507-0.814), P=2.46e-04, FDR=0.0252</text>
+<text x="605.0" y="490" text-anchor="middle" class="small">Odds ratio</text>
+</svg>

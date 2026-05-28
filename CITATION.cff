@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and archived Zenodo record."
+title: "Genetically Supported Inflammatory Mediators of the Atrial Fibrillation-Heart Failure Continuum"
+version: "0.1.0"
+date-released: "2026-05-28"
+authors:
+  - family-names: "To be updated"
+    given-names: "Author"
+repository-code: "https://github.com/TO-BE-UPDATED/cardio-no-lab-af-hf-inflammation-mr"
+license: "MIT"
+keywords:
+  - "atrial fibrillation"
+  - "heart failure"
+  - "Mendelian randomization"
+  - "cis-pQTL"
+  - "colocalization"
+  - "inflammatory proteins"

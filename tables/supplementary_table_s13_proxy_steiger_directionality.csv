@@ -1,0 +1,900 @@
+protein,protein_name,outcome_id,SNP,effect_allele,other_allele,palindromic_alleles,instrument_f,exposure_r2_proxy,outcome_r2_proxy,steiger_proxy_direction,harmonise_action,mr_or,mr_p,mr_fdr
+AGRN,Agrin,AF,rs3121560,A,C,False,2363.537,0.064020532,1.4591789e-05,protein_to_disease_supported,flipped,0.98501625,0.4532547,0.886121
+MXRA8,Matrix remodeling-associated protein 8,AF,rs200138692,C,G,True,113.787,0.0028354307,0.00037623674,protein_to_disease_supported,flipped,0.69470495,0.030529037,0.564475
+TNFRSF14,Tumor necrosis factor receptor superfamily member 14,AF,rs2495366,A,G,False,240.036,0.0065877828,5.0996884e-05,protein_to_disease_supported,flipped,1.0919703,0.1316921,0.702553
+PER3,Period circadian protein homolog 3,AF,rs228647,A,G,False,2339.608,0.067398653,3.8569972e-06,protein_to_disease_supported,flipped,0.99246371,0.67601259,0.904093
+DFFA,DNA fragmentation factor subunit alpha,AF,rs183281838,T,G,False,65.583,0.0023106385,2.2324802e-05,protein_to_disease_supported,flipped,0.90638223,0.36343886,0.869993
+CTRC,Chymotrypsin-C,AF,rs497078,T,C,False,2267.815,0.057408376,1.7710854e-07,protein_to_disease_supported,flipped,0.99824511,0.93188768,0.986349
+CASP9,Caspase-9,AF,rs12024833,G,A,False,112.471,0.0033080281,8.4291664e-05,protein_to_disease_supported,aligned,1.1730738,0.052343423,0.570142
+DDI2,Protein DDI1 homolog 2,AF,rs41270291,A,G,False,58.078,0.0015549171,9.9215034e-06,protein_to_disease_supported,flipped,1.0831565,0.55449602,0.904093
+PADI2,Protein-arginine deiminase type-2,AF,rs2235913,A,G,False,238.347,0.0070406309,4.8371999e-06,protein_to_disease_supported,flipped,1.026558,0.64281389,0.904093
+AKR7L,Aflatoxin B1 aldehyde reductase member 4,AF,rs59622577,T,C,False,602.257,0.017622713,1.1250112e-05,protein_to_disease_supported,flipped,0.9750502,0.49779319,0.904093
+C1QA,Complement C1q subcomponent subunit A,AF,rs12058824,A,G,False,2191.390,0.060411972,4.5861947e-06,protein_to_disease_supported,flipped,0.99132491,0.64943628,0.904093
+MYOM3,Myomesin-3,AF,rs6700245,C,T,False,113.830,0.0028473225,6.2605099e-06,protein_to_disease_supported,aligned,1.0480074,0.60622888,0.904093
+IL22RA1,Interleukin-22 receptor subunit alpha-1,AF,rs7355101,T,A,True,1092.835,0.031698068,2.5466393e-07,protein_to_disease_supported,aligned,0.99716957,0.91365164,0.986349
+IFNLR1,Interferon lambda receptor 1,AF,rs139958347,C,G,True,1938.043,0.067548142,1.6660585e-05,protein_to_disease_supported,flipped,1.015829,0.61588214,0.904093
+RPA2,Replication protein A 32 kDa subunit,AF,rs17185038,G,C,True,174.926,0.0051953514,4.8751477e-05,protein_to_disease_supported,aligned,1.1017164,0.21876689,0.769429
+ATP5IF1,"ATPase inhibitor, mitochondrial",AF,rs510379,C,T,False,201.182,0.0057293376,0.00011646439,protein_to_disease_supported,aligned,0.86712224,0.021203126,0.471288
+CSF3R,Granulocyte colony-stimulating factor receptor,AF,rs3917999,T,C,False,907.921,0.026794114,3.3707885e-06,protein_to_disease_supported,flipped,1.0112793,0.6791079,0.904093
+FOXJ3,Forkhead box protein J3,AF,rs1139978,G,T,False,86.526,0.0025188907,7.4954858e-06,protein_to_disease_supported,aligned,1.0560653,0.57162727,0.904093
+ERMAP,Erythroid membrane-associated protein,AF,rs11210710,T,G,False,168.315,0.0040963228,2.6584365e-05,protein_to_disease_supported,flipped,0.92260013,0.26870029,0.810461
+UROD,Uroporphyrinogen decarboxylase,AF,rs12749939,T,C,False,3153.838,0.087261771,1.289013e-05,protein_to_disease_supported,flipped,1.0122281,0.43932513,0.876857
+CTBS,Di-N-acetylchitobiase,AF,rs79723172,A,G,False,4161.066,0.11045103,9.8328134e-06,protein_to_disease_supported,flipped,0.99060911,0.52799609,0.904093
+GBP2,Guanylate-binding protein 2,AF,rs7531439,C,A,False,172.959,0.0051303736,4.2298314e-05,protein_to_disease_supported,aligned,1.0950502,0.15780279,0.717809
+EVI5,Ecotropic viral integration site 5 protein homolog,AF,rs11808092,A,C,False,282.928,0.008014644,5.4759197e-07,protein_to_disease_supported,flipped,1.0083001,0.87453975,0.97637
+AMY1A_AMY1B_AMY1C,Alpha-amylase 1A_Alpha-amylase 1B_Alpha-amylase 1C,AF,rs72694438,A,G,False,1742.700,0.053358899,1.7965427e-05,protein_to_disease_supported,flipped,1.0185185,0.38397902,0.869993
+CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,AF,rs12740374,T,G,False,2569.883,0.072912356,8.165581e-05,protein_to_disease_supported,flipped,0.9670886,0.054229358,0.570142
+CSF1,Macrophage colony-stimulating factor 1,AF,rs11577194,C,T,False,624.598,0.01737467,7.2032777e-06,protein_to_disease_supported,aligned,0.97984453,0.57060264,0.904093
+PROK1,Prokineticin-1,AF,rs1857513,A,G,False,3938.417,0.061252636,2.6707503e-05,protein_to_disease_supported,flipped,1.0211007,0.27181121,0.810461
+BCL2L15,Bcl-2-like protein 15,AF,rs1230715,C,A,False,489.816,0.013810502,1.4297245e-05,protein_to_disease_supported,aligned,0.9683369,0.42855506,0.873181
+CD58,Lymphocyte function-associated antigen 3,AF,rs10801908,T,C,False,520.845,0.014047298,1.9090971e-05,protein_to_disease_supported,flipped,1.0375532,0.3372586,0.859547
+REG4,Regenerating islet-derived protein 4,AF,rs79795228,A,C,False,520.827,0.013672686,2.2679614e-05,protein_to_disease_supported,flipped,0.96009043,0.45846349,0.886121
+CD160,CD160 antigen,AF,rs9728526,A,G,False,2740.365,0.076670556,3.5917323e-06,protein_to_disease_supported,flipped,0.99317893,0.72239245,0.904093
+PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,AF,rs1471633,C,A,False,216.228,0.0061752319,9.754943e-07,protein_to_disease_supported,aligned,1.0126479,0.84791389,0.955368
+ECM1,Extracellular matrix protein 1,AF,rs3737240,T,C,False,7459.740,0.2189455,4.4946219e-05,protein_to_disease_supported,flipped,0.98577438,0.15978438,0.717809
+TNFAIP8L2,Tumor necrosis factor alpha-induced protein 8-like protein 2,AF,rs4970991,C,T,False,50.290,0.001447367,1.3868432e-05,protein_to_disease_supported,aligned,1.102838,0.42228164,0.869993
+S100A13,Protein S100-A13,AF,rs114678888,A,C,False,717.915,0.019721585,3.3322583e-05,protein_to_disease_supported,flipped,1.0419619,0.26831474,0.810461
+PKLR,Pyruvate kinase PKLR,AF,rs77350683,C,T,False,599.247,0.016714769,0.00036993085,protein_to_disease_supported,aligned,0.86176886,8.8442529e-05,0.0108121
+FCRL3,Fc receptor-like protein 3,AF,rs7522061,C,T,False,15767.634,0.4647859,3.4405453e-05,protein_to_disease_supported,aligned,1.0086409,0.20854523,0.769429
+FCRL2,Fc receptor-like protein 2,AF,rs12568320,G,A,False,6049.428,0.16432543,4.4655402e-06,protein_to_disease_supported,aligned,0.9948006,0.65311558,0.904093
+CD5L,CD5 antigen-like,AF,rs2765501,A,G,False,690.891,0.019157216,0.00013888686,protein_to_disease_supported,flipped_complement,0.91837817,0.17038501,0.732739
+APCS,Serum amyloid P-component,AF,rs36126250,G,T,False,514.272,0.01287078,8.740328e-05,protein_to_disease_supported,aligned,0.92089754,0.048981807,0.570142
+FCRL6,Fc receptor-like protein 6,AF,rs55650803,T,C,False,8898.571,0.24681225,0,protein_to_disease_supported,flipped,1,1,1
+CD84,SLAM family member 5,AF,rs11265440,G,A,False,227.916,0.0063649747,1.3588525e-05,protein_to_disease_supported,aligned,0.95484632,0.41681125,0.869993
+SLAMF1,Signaling lymphocytic activation molecule,AF,rs7535367,T,G,False,172.516,0.0050191277,1.8561818e-05,protein_to_disease_supported,flipped,0.94099923,0.3740628,0.869993
+CD48,CD48 antigen,AF,rs2295615,G,C,True,7349.871,0.20603366,1.0626509e-05,protein_to_disease_supported,aligned,0.99284404,0.51126917,0.904093
+SLAMF7,SLAM family member 7,AF,rs11581248,T,C,False,7158.024,0.20901877,3.9740709e-07,protein_to_disease_supported,flipped,1.0013798,0.90052355,0.985137
+LY9,T-lymphocyte surface antigen Ly-9,AF,rs12128261,G,T,False,4299.351,0.1223581,1.4372537e-05,protein_to_disease_supported,aligned,1.010897,0.42228164,0.869993
+CD244,Natural killer cell receptor 2B4,AF,rs115868021,G,C,True,1929.536,0.053053262,0.00011973799,protein_to_disease_supported,aligned,1.0486538,0.019196876,0.469364
+ADAMTS4,A disintegrin and metalloproteinase with thrombospondin motifs 4,AF,rs4656993,G,A,False,238.482,0.0067885922,4.8529799e-05,protein_to_disease_supported,aligned,1.0882274,0.13555834,0.705192
+APOA2,Apolipoprotein A-II,AF,rs4073054,A,C,False,79.209,0.00211021,4.048607e-05,protein_to_disease_supported,flipped,0.87065209,0.17771433,0.744598
+SELL,L-selectin,AF,rs2223286,C,T,False,2668.049,0.07084639,9.005405e-05,protein_to_disease_supported,aligned,1.0362959,0.0440212,0.570142
+FASLG,Tumor necrosis factor ligand superfamily member 6,AF,rs79419452,A,T,True,113.753,0.0026051935,1.8603523e-05,protein_to_disease_supported,flipped,0.91896792,0.36121968,0.869993
+SERPINC1,Antithrombin-III,AF,rs2227624,T,A,True,191.672,0.0051735624,0.00015128258,protein_to_disease_supported,aligned,0.84282041,0.025051899,0.490015
+RABGAP1L,Rab GTPase-activating protein 1-like,AF,rs6661868,G,A,False,95.657,0.0027272422,5.1465688e-06,protein_to_disease_supported,aligned,1.0443981,0.6298573,0.904093
+QSOX1,Sulfhydryl oxidase 1,AF,rs12371,G,A,False,6565.895,0.18863596,5.1945343e-06,protein_to_disease_supported,aligned,0.99476614,0.62613114,0.904093
+NCF2,Neutrophil cytosol factor 2,AF,rs35012521,A,T,True,698.363,0.017918824,2.5145602e-05,protein_to_disease_supported,flipped,1.0381712,0.37955698,0.869993
+CFHR5,Complement factor H-related protein 5,AF,rs72732234,C,T,False,2883.328,0.085688345,7.4337564e-06,protein_to_disease_supported,aligned,1.0093577,0.63846843,0.904093
+CFH,Complement factor H,AF,rs731557,A,C,False,1890.464,0.055469611,4.0523996e-06,protein_to_disease_supported,flipped,1.0085839,0.66823514,0.904093
+CFHR4,Complement factor H-related protein 4,AF,rs4915363,C,T,False,7792.881,0.22726626,9.761455e-06,protein_to_disease_supported,aligned,0.99346768,0.667376,0.904093
+CFHR2,Complement factor H-related protein 2,AF,rs4085749,T,C,False,13071.945,0.37774939,3.102004e-05,protein_to_disease_supported,flipped,1.0091031,0.23409615,0.777778
+F13B,Coagulation factor XIII B chain,AF,rs12134960,C,G,True,3096.279,0.083463552,5.7820737e-05,protein_to_disease_supported,flipped,1.0266699,0.10622743,0.634898
+PRELP,Prolargin,AF,rs41313926,A,G,False,4148.945,0.10534599,1.789457e-05,protein_to_disease_supported,flipped,1.0131185,0.41482794,0.869993
+CTSE,Cathepsin E,AF,rs41302235,C,T,False,4407.635,0.12600345,3.687732e-07,protein_to_disease_supported,aligned,0.9982907,0.91656474,0.986349
+IL10,Interleukin-10,AF,rs3024495,T,C,False,175.988,0.0051439899,1.3112129e-05,protein_to_disease_supported,flipped,1.051784,0.4548412,0.886121
+CR1,Complement receptor type 1,AF,rs679515,C,T,False,3046.054,0.083872761,8.7132768e-06,protein_to_disease_supported,aligned,0.98985928,0.52726671,0.904093
+ENAH,Protein enabled homolog,AF,rs10799316,A,G,False,195.684,0.0057352146,0.00017116535,protein_to_disease_supported,flipped,1.188576,0.0052349726,0.213325
+PARP1,Poly [ADP-ribose] polymerase 1,AF,rs1433574,C,A,False,247.041,0.0067838311,6.3157771e-05,protein_to_disease_supported,aligned,0.90802027,0.078641956,0.582665
+WNT9A,Protein Wnt-9a,AF,rs4653881,T,C,False,321.559,0.0077952402,0.00017688689,protein_to_disease_supported,flipped,1.1625751,0.0049296653,0.213325
+AGT,Angiotensinogen,AF,rs4762,A,G,False,4048.994,0.11408521,6.6086892e-05,protein_to_disease_supported,flipped,1.0243601,0.073453911,0.570142
+EGLN1,Egl nine homolog 1,AF,rs77466488,G,A,False,289.425,0.0077895202,3.2274046e-05,protein_to_disease_supported,aligned,0.93765969,0.20443898,0.769429
+ACP1,Low molecular weight phosphotyrosine protein phosphatase,AF,rs11553746,T,C,False,2307.361,0.065624925,5.8469413e-05,protein_to_disease_supported,flipped,0.97059207,0.10148822,0.634898
+HPCAL1,Hippocalcin-like protein 1,AF,rs375285744,C,T,False,426.433,0.01215962,0.059654901,direction_uncertain,aligned_complement,0.10915945,0.52172611,0.904093
+FKBP1B,Peptidyl-prolyl cis-trans isomerase FKBP1B,AF,rs872169,G,C,True,744.832,0.021174468,4.6914366e-05,protein_to_disease_supported,aligned,1.0481957,0.14823804,0.717809
+TP53I3,Quinone oxidoreductase PIG3,AF,rs1134516,A,G,False,3293.981,0.094954268,2.3585359e-05,protein_to_disease_supported,flipped,1.0158851,0.30690439,0.843125
+PTRHD1,Putative peptidyl-tRNA hydrolase PTRHD1,AF,rs138426814,C,T,False,98.219,0.0028033239,4.6209693e-06,protein_to_disease_supported,aligned,1.0414358,0.80237925,0.929771
+MDH1,"Malate dehydrogenase, cytoplasmic",AF,rs71422399,T,C,False,118.657,0.0032652201,1.6976411e-05,protein_to_disease_supported,flipped,1.0747684,0.39136594,0.869993
+SPRED2,"Sprouty-related, EVH1 domain-containing protein 2",AF,rs7569084,T,C,False,87.632,0.0025440642,9.3961056e-06,protein_to_disease_supported,flipped,1.0626575,0.51136328,0.904093
+BMP10,Bone morphogenetic protein 10,AF,rs34008398,A,G,False,3951.124,0.10310409,0.00011588575,protein_to_disease_supported,flipped,1.034094,0.061460805,0.570142
+TGOLN2,Trans-Golgi network integral membrane protein 2,AF,rs4247303,A,G,False,9172.998,0.25513157,4.1995902e-06,protein_to_disease_supported,flipped,1.0040654,0.66037612,0.904093
+VAMP8,Vesicle-associated membrane protein 8,AF,rs3731828,T,C,False,421.968,0.012177054,7.0723581e-05,protein_to_disease_supported,flipped,0.92662175,0.070572395,0.570142
+FABP1,"Fatty acid-binding protein, liver",AF,rs2241883,C,T,False,887.104,0.023890184,1.2403787e-05,protein_to_disease_supported,aligned,0.97747168,0.4469179,0.884789
+IL1R2,Interleukin-1 receptor type 2,AF,rs2310170,G,T,False,4695.183,0.12806628,4.3182353e-06,protein_to_disease_supported,aligned,0.99421004,0.65908525,0.904093
+IL1RL2,Interleukin-1 receptor-like 2,AF,rs3917265,C,T,False,3596.128,0.094923406,3.6174858e-06,protein_to_disease_supported,aligned,0.99384572,0.6869592,0.904093
+IL18R1,Interleukin-18 receptor 1,AF,rs10190555,G,A,False,10191.460,0.28202943,7.725745e-06,protein_to_disease_supported,aligned,0.9947798,0.55686795,0.904093
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,AF,rs140661471,A,G,False,2722.858,0.074324421,3.3432042e-05,protein_to_disease_supported,flipped,0.97901454,0.28903499,0.825746
+MERTK,Tyrosine-protein kinase Mer,AF,rs10188640,A,G,False,1291.064,0.033050367,2.3612147e-05,protein_to_disease_supported,flipped,1.0270892,0.30348649,0.838446
+IL36G,Interleukin-36 gamma,AF,rs13410389,A,G,False,105.571,0.0030813761,2.1957192e-07,protein_to_disease_supported,flipped,1.0084772,0.9212168,0.986349
+IL36A,Interleukin-36 alpha,AF,rs895497,G,A,False,54.560,0.0016308305,1.7089175e-05,protein_to_disease_supported,aligned,1.107789,0.38711296,0.869993
+IL1RN,Interleukin-1 receptor antagonist protein,AF,rs55709272,C,T,False,788.518,0.022388065,1.7781388e-06,protein_to_disease_supported,aligned,0.99112761,0.77673066,0.922471
+DPP10,Inactive dipeptidyl peptidase 10,AF,rs17355498,T,G,False,1224.256,0.034070647,2.8877759e-05,protein_to_disease_supported,flipped,1.0295412,0.25665684,0.80452
+C1QL2,Complement C1q-like protein 2,AF,rs34475538,A,G,False,955.258,0.025061272,8.2674442e-07,protein_to_disease_supported,flipped,0.99427286,0.84713825,0.955368
+INHBB,Inhibin beta B chain,AF,rs17050272,A,G,False,2367.165,0.064395271,4.0745623e-06,protein_to_disease_supported,flipped,1.0079862,0.67427372,0.904093
+KYNU,Kynureninase,AF,rs78189771,G,A,False,1113.557,0.02953892,1.4534981e-08,protein_to_disease_supported,aligned,1.0007017,0.98065924,0.995872
+LY75,Lymphocyte antigen 75,AF,rs72957586,A,G,False,14940.201,0.43076621,9.1226158e-06,protein_to_disease_supported,flipped,0.99540865,0.52100886,0.904093
+ITGB6,Integrin beta-6,AF,rs6432601,G,A,False,1380.363,0.035551523,2.2529245e-06,protein_to_disease_supported,aligned,1.0079923,0.74598069,0.909608
+GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,AF,rs2116546,C,T,False,2217.998,0.063372159,4.5557344e-06,protein_to_disease_supported,aligned,0.99155713,0.65122951,0.904093
+METAP1D,"Methionine aminopeptidase 1D, mitochondrial",AF,rs138869820,A,G,False,76.595,0.0021922214,2.1958337e-05,protein_to_disease_supported,flipped,0.9047629,0.48111767,0.904093
+ITGA6,Integrin alpha-6,AF,rs6714597,C,T,False,802.064,0.022729686,1.7465792e-05,protein_to_disease_supported,aligned,1.028108,0.3740628,0.869993
+ADAM23,Disintegrin and metalloproteinase domain-containing protein 23,AF,rs72933203,A,T,True,5032.309,0.1423686,5.189545e-06,protein_to_disease_supported,flipped,0.99398068,0.63905066,0.904093
+FN1,Fibronectin,AF,rs1250259,A,T,True,2790.979,0.07775808,7.2848087e-05,protein_to_disease_supported,flipped,0.96985559,0.067749903,0.570142
+EPHA4,Ephrin type-A receptor 4,AF,rs10932916,A,G,False,379.738,0.0097163527,1.6187048e-06,protein_to_disease_supported,flipped,0.98717574,0.78819386,0.922471
+CCL20,C-C motif chemokine 20,AF,rs1395338,A,G,False,150.093,0.0041913987,2.7712522e-05,protein_to_disease_supported,flipped,1.0847101,0.26371776,0.810461
+DNER,Delta and Notch-like epidermal growth factor-related receptor,AF,rs34412673,T,A,True,1255.227,0.034828832,3.356161e-05,protein_to_disease_supported,aligned,0.9694347,0.22044258,0.769429
+IL5RA,Interleukin-5 receptor subunit alpha,AF,rs77400868,G,A,False,2213.208,0.061732195,3.2715528e-05,protein_to_disease_supported,aligned,1.0232879,0.25252795,0.803668
+LRRN1,Leucine-rich repeat neuronal protein 1,AF,rs9839475,A,G,False,10271.850,0.29879616,1.3241548e-05,protein_to_disease_supported,flipped,1.0066793,0.43385693,0.87326
+SUMF1,Formylglycine-generating enzyme,AF,rs10494172,C,G,True,202.414,0.0060537364,1.5677994e-05,protein_to_disease_supported,flipped,0.95038309,0.40325567,0.869993
+CRELD1,Protein disulfide isomerase CRELD1,AF,rs9878047,C,T,False,9202.917,0.25890834,4.5250478e-05,protein_to_disease_supported,aligned,1.013308,0.15312745,0.717809
+BTD,Biotinidase,AF,rs13078881,C,G,True,7741.991,0.21691612,3.6525507e-07,protein_to_disease_supported,flipped,0.99870321,0.90608546,0.986349
+TOP2B,DNA topoisomerase 2-beta,AF,rs3806631,T,A,True,106.605,0.0030592829,4.7598785e-05,protein_to_disease_supported,aligned,1.1328481,0.14639571,0.717809
+CLEC3B,Tetranectin,AF,rs13065490,T,A,True,804.473,0.022277079,9.8351138e-06,protein_to_disease_supported,aligned,0.97920754,0.51060577,0.904093
+LZTFL1,Leucine zipper transcription factor-like protein 1,AF,rs1129183,T,C,False,355.735,0.010166172,3.5823331e-06,protein_to_disease_supported,flipped,1.018949,0.67944314,0.904093
+PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,AF,rs121434601,T,C,False,939.625,0.027072884,4.7367989e-05,protein_to_disease_supported,flipped,0.95903397,0.28940989,0.825746
+MST1,Hepatocyte growth factor-like protein,AF,rs11130213,T,C,False,15474.945,0.45557909,3.4713749e-06,protein_to_disease_supported,flipped,1.0027642,0.68711171,0.904093
+MANF,Mesencephalic astrocyte-derived neurotrophic factor,AF,rs11721253,G,A,False,79.739,0.0022557374,5.8471424e-06,protein_to_disease_supported,aligned,0.95036147,0.60622888,0.904093
+ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,AF,rs678,T,A,True,310.197,0.009030931,7.8803172e-05,protein_to_disease_supported,aligned,0.91081759,0.057623572,0.570142
+ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,AF,rs2710331,C,T,False,1050.510,0.027620832,5.4456647e-05,protein_to_disease_supported,aligned,1.045403,0.1108906,0.653319
+IL17RB,Interleukin-17 receptor B,AF,rs6445607,T,G,False,10598.818,0.30549327,2.2324772e-05,protein_to_disease_supported,flipped,1.0085852,0.31024605,0.847544
+ROBO1,Roundabout homolog 1,AF,rs3773244,A,G,False,649.035,0.017648492,6.9854239e-06,protein_to_disease_supported,flipped,1.0200942,0.57121361,0.904093
+PROS1,Vitamin K-dependent protein S,AF,rs528128538,T,C,False,214.261,0.0059164498,6.2797269e-06,protein_to_disease_supported,flipped,0.96794583,0.71521228,0.904093
+CPOX,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",AF,rs1729988,T,C,False,193.737,0.0056112161,1.0040925e-06,protein_to_disease_supported,flipped,1.0134669,0.82860204,0.944252
+CD200,OX-2 membrane glycoprotein,AF,rs2399420,A,C,False,490.818,0.013190761,3.2539034e-05,protein_to_disease_supported,flipped,1.050921,0.23696426,0.777778
+CD200R1,Cell surface glycoprotein CD200 receptor 1,AF,rs16860233,T,C,False,8591.096,0.24925238,2.0365091e-05,protein_to_disease_supported,flipped,0.99100166,0.36462185,0.869993
+HCLS1,Hematopoietic lineage cell-specific protein,AF,rs3732410,C,T,False,114.300,0.0031244686,7.8497701e-05,protein_to_disease_supported,aligned,1.1717567,0.05447039,0.570142
+HEG1,Protein HEG homolog 1,AF,rs6438868,G,C,True,225.401,0.005608439,0.00011060186,protein_to_disease_supported,aligned,1.1507686,0.024448945,0.490015
+MGLL,Monoglyceride lipase,AF,rs7578,A,G,False,63.959,0.0017872931,4.2678126e-05,protein_to_disease_supported,flipped,1.167106,0.16511887,0.727416
+TF,Serotransferrin,AF,rs8177247,G,T,False,1748.405,0.04866474,8.824419e-07,protein_to_disease_supported,aligned,1.0042674,0.84368426,0.955004
+CLSTN2,Calsyntenin-2,AF,rs41265459,A,T,True,2470.263,0.069180662,9.533784e-06,protein_to_disease_supported,flipped,0.98832939,0.6285601,0.904093
+PTX3,Pentraxin-related protein PTX3,AF,rs56025932,C,A,False,63.597,0.0018415499,1.4887559e-05,protein_to_disease_supported,aligned,0.91401117,0.40754543,0.869993
+BCHE,Cholinesterase,AF,rs73165060,A,C,False,4230.431,0.11328963,5.3430264e-05,protein_to_disease_supported,flipped,1.0219545,0.1214345,0.682546
+SERPINI1,Neuroserpin,AF,rs11717419,A,G,False,2692.331,0.073431775,1.1583045e-05,protein_to_disease_supported,flipped,0.98751913,0.47396086,0.898321
+TNFSF10,Tumor necrosis factor ligand superfamily member 10,AF,rs79287178,A,G,False,611.160,0.016852623,2.9111089e-05,protein_to_disease_supported,flipped,0.95928995,0.3018813,0.838446
+LAMP3,Lysosome-associated membrane glycoprotein 3,AF,rs11921884,T,G,False,957.797,0.024665323,1.2317516e-05,protein_to_disease_supported,flipped,1.0225985,0.45756818,0.886121
+AHSG,Alpha-2-HS-glycoprotein,AF,rs1900618,T,C,False,7289.029,0.21059499,1.4928631e-06,protein_to_disease_supported,flipped,1.002666,0.7941931,0.922471
+HRG,Histidine-rich glycoprotein,AF,rs9898,T,C,False,3951.618,0.11093994,0.0001033503,protein_to_disease_supported,flipped,1.0309925,0.031167345,0.564475
+ADIPOQ,Adiponectin,AF,rs143257534,T,C,False,907.646,0.019135941,5.0622214e-08,protein_to_disease_supported,flipped,0.99837485,0.96032062,0.995872
+GP5,Platelet glycoprotein V,AF,rs10638925,CCATAAA,C,False,222.519,0.0066058879,2.0381689e-05,protein_to_disease_supported,flipped,0.9459683,0.70252846,0.904093
+APOD,Apolipoprotein D,AF,rs139828053,C,T,False,589.806,0.017469361,4.8051701e-06,protein_to_disease_supported,aligned,0.98355176,0.7012596,0.904093
+ADD1,Alpha-adducin,AF,rs1263339,C,G,True,358.175,0.0094605422,3.3447404e-05,protein_to_disease_supported,flipped,0.94227344,0.21672106,0.769429
+HGFAC,Hepatocyte growth factor activator,AF,rs4690097,T,C,False,3523.757,0.10063108,6.2372266e-06,protein_to_disease_supported,flipped,0.9921581,0.60759216,0.904093
+AFAP1,Actin filament-associated protein 1,AF,rs41264705,T,C,False,16663.601,0.48999803,0.00013246902,protein_to_disease_supported,flipped,0.98369223,0.016154534,0.415767
+SOD3,Extracellular superoxide dismutase,AF,rs1799895,G,C,True,5031.462,0.12471687,7.3807226e-06,protein_to_disease_supported,aligned,0.99233667,0.6037178,0.904093
+TLR1,Toll-like receptor 1,AF,rs5743618,A,C,False,2930.880,0.088006726,1.5624738e-05,protein_to_disease_supported,flipped,1.0134136,0.39035466,0.869993
+SPINK2,Serine protease inhibitor Kazal-type 2,AF,rs28656303,G,A,False,3690.055,0.085460049,6.3675309e-06,protein_to_disease_supported,aligned,0.9914053,0.56682937,0.904093
+GC,Vitamin D-binding protein,AF,rs1352846,G,A,False,20929.176,0.59786572,1.5903451e-05,protein_to_disease_supported,aligned,1.0051709,0.40212178,0.869993
+AFM,Afamin,AF,rs553977556,A,G,False,392.763,0.012364599,5.8729976e-05,protein_to_disease_supported,flipped,1.0713496,0.2012769,0.769429
+CXCL8,Interleukin-8,AF,rs74468557,A,G,False,117.528,0.0033429162,9.6317893e-05,protein_to_disease_supported,flipped,0.84388204,0.054288397,0.570142
+CXCL6,C-X-C motif chemokine 6,AF,rs16850073,T,C,False,5143.258,0.14694117,8.6749555e-05,protein_to_disease_supported,flipped,1.0245951,0.052033421,0.570142
+CXCL1,Growth-regulated alpha protein,AF,rs3097411,G,C,True,5621.243,0.16373782,1.9727336e-05,protein_to_disease_supported,aligned,0.98908363,0.34276408,0.859547
+PF4,Platelet factor 4,AF,rs11574452,A,C,False,119.223,0.0034777024,5.2110085e-05,protein_to_disease_supported,flipped,1.1302167,0.15742266,0.717809
+PPBP,Platelet basic protein,AF,rs202224981,T,C,False,164.737,0.0046124881,1.1615042e-05,protein_to_disease_supported,flipped,1.0514618,0.6780341,0.904093
+CXCL9,C-X-C motif chemokine 9,AF,rs13118503,T,C,False,345.080,0.0081751661,3.3021367e-05,protein_to_disease_supported,flipped,1.065618,0.21729003,0.769429
+CXCL10,C-X-C motif chemokine 10,AF,rs11548618,A,G,False,1565.243,0.04056176,1.5395537e-05,protein_to_disease_supported,flipped,0.98070631,0.51934236,0.904093
+FGF5,Fibroblast growth factor 5,AF,rs12509595,C,T,False,7582.335,0.19290636,0.00071757139,protein_to_disease_supported,aligned,1.0628884,7.5693691e-09,3.70142e-06
+MEPE,Matrix extracellular phosphoglycoprotein,AF,rs17013212,T,C,False,311.389,0.0078524332,2.3590414e-09,protein_to_disease_supported,flipped,0.99945204,0.99142076,0.997541
+ADH1B,All-trans-retinol dehydrogenase,AF,rs41275699,G,A,False,208.294,0.007475293,0.00011728814,protein_to_disease_supported,aligned,0.88226735,0.076827328,0.579367
+DAPP1,Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide,AF,rs7688733,G,A,False,174.935,0.0049726278,3.6377521e-06,protein_to_disease_supported,aligned,0.97331522,0.68247295,0.904093
+BANK1,B-cell scaffold protein with ankyrin repeats,AF,rs3113676,C,T,False,248.157,0.0067549771,6.8168124e-07,protein_to_disease_supported,aligned,0.99000462,0.89392977,0.984187
+CFI,Complement factor I,AF,rs10033900,C,T,False,858.001,0.02331971,2.8769516e-06,protein_to_disease_supported,aligned,0.98895425,0.72018695,0.904093
+EGF,Pro-epidermal growth factor,AF,rs3831508,GT,G,False,299.613,0.0086287675,3.8939131e-05,protein_to_disease_supported,aligned,0.93502996,0.60079625,0.904093
+PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",AF,rs58583086,G,A,False,409.532,0.011685772,1.266862e-05,protein_to_disease_supported,aligned,0.96761038,0.4444467,0.883473
+FGF2,Fibroblast growth factor 2,AF,rs2922979,G,C,True,7605.030,0.21634504,2.1545257e-05,protein_to_disease_supported,aligned,0.99007028,0.33075078,0.858912
+FGA,Fibrinogen alpha chain,AF,rs140473879,T,C,False,454.493,0.012871862,7.3399287e-06,protein_to_disease_supported,flipped,0.97640336,0.69653655,0.904093
+CTSO,Cathepsin O,AF,rs2334114,A,C,False,581.829,0.016002013,4.594559e-06,protein_to_disease_supported,flipped,0.98319803,0.65575391,0.904093
+TLR3,Toll-like receptor 3,AF,rs3775291,T,C,False,19464.436,0.55298051,0.00011099135,protein_to_disease_supported,flipped,0.9859325,0.039084975,0.570142
+KLKB1,Plasma kallikrein,AF,rs4253306,T,G,False,2321.446,0.057079107,1.9679842e-06,protein_to_disease_supported,flipped,0.99414539,0.76417716,0.920401
+F11,Coagulation factor XI,AF,rs2289252,T,C,False,2999.538,0.071102777,4.3180616e-08,protein_to_disease_supported,flipped,0.99922101,0.96481063,0.995872
+LIFR,Leukemia inhibitory factor receptor,AF,rs62353655,A,G,False,417.936,0.011273855,1.3916484e-08,protein_to_disease_supported,flipped,1.0011117,0.98089082,0.995872
+C9,Complement component C9,AF,rs34000044,T,G,False,206.332,0.0057399132,4.7657732e-07,protein_to_disease_supported,flipped,1.0091536,0.92028225,0.986349
+C7,Complement component C7,AF,rs74480769,G,A,False,4200.432,0.12579653,0.00010663274,protein_to_disease_supported,aligned,0.97130514,0.033434272,0.570142
+GHR,Growth hormone receptor,AF,rs4073476,C,A,False,6428.516,0.18645453,1.5270239e-05,protein_to_disease_supported,aligned,1.0090908,0.41462055,0.869993
+SELENOP,Selenoprotein P,AF,rs10038285,A,G,False,147.241,0.0041792492,2.2032419e-05,protein_to_disease_supported,flipped,1.0753085,0.32372005,0.857964
+MOCS2,Molybdopterin synthase catalytic subunit,AF,rs6880055,G,A,False,3176.562,0.090586952,1.0129448e-06,protein_to_disease_supported,aligned,0.99666163,0.83032426,0.944252
+FST,Follistatin,AF,rs31226,C,T,False,347.023,0.0096318987,6.334588e-05,protein_to_disease_supported,aligned,1.0844758,0.090803103,0.614454
+ESM1,Endothelial cell-specific molecule 1,AF,rs4242051,C,T,False,501.152,0.013922739,1.3653539e-07,protein_to_disease_supported,aligned,0.99687334,0.93789004,0.987363
+GZMA,Granzyme A,AF,rs2047745,C,T,False,60.406,0.0016057816,4.5989874e-05,protein_to_disease_supported,aligned,1.1843974,0.15014361,0.717809
+IL31RA,Interleukin-31 receptor subunit alpha,AF,rs161651,T,C,False,5788.118,0.16871236,1.5781358e-05,protein_to_disease_supported,flipped,0.99037501,0.39687127,0.869993
+F2R,Proteinase-activated receptor 1,AF,rs168753,T,A,True,229.846,0.0066039876,2.9252428e-06,protein_to_disease_supported,aligned,1.0212694,0.72217343,0.904093
+CRHBP,Corticotropin-releasing factor-binding protein,AF,rs6896257,A,G,False,5795.107,0.15987511,2.7370402e-05,protein_to_disease_supported,flipped,1.0131703,0.28486945,0.825746
+TBCA,Tubulin-specific chaperone A,AF,rs254415,T,G,False,289.778,0.0082985776,1.8693959e-06,protein_to_disease_supported,flipped,0.98510317,0.77657608,0.922471
+TNFAIP8,Tumor necrosis factor alpha-induced protein 8,AF,rs1035376,A,G,False,106.256,0.0031221677,3.6697224e-05,protein_to_disease_supported,flipped,0.89725536,0.18351827,0.750044
+MEGF10,Multiple epidermal growth factor-like domains protein 10,AF,rs112394041,CT,C,False,2958.653,0.078637328,0.0002026031,protein_to_disease_supported,flipped,1.0520688,0.1230773,0.683918
+CXCL14,C-X-C motif chemokine 14,AF,rs13171268,G,C,True,94.196,0.0023642962,2.5831111e-05,protein_to_disease_supported,aligned,0.90075219,0.27005271,0.810461
+MZB1,Marginal zone B- and B1-cell-specific protein,AF,rs140248321,AGAT,A,False,221.058,0.0074130063,0.0001272583,protein_to_disease_supported,aligned,0.87719804,0.22697863,0.769429
+PCDH1,Protocadherin-1,AF,rs4645358,T,C,False,119.107,0.0031946247,1.7597825e-07,protein_to_disease_supported,flipped,1.0074496,0.92968967,0.986349
+CSF1R,Macrophage colony-stimulating factor 1 receptor,AF,rs56048668,C,A,False,1196.969,0.0313166,1.6021106e-06,protein_to_disease_supported,aligned,0.992873,0.83887932,0.951768
+IL12B,Interleukin-12 subunit beta,AF,rs4244437,A,G,False,5264.930,0.13686458,5.6653811e-06,protein_to_disease_supported,flipped,1.0064546,0.61707508,0.904093
+FGFR4,Fibroblast growth factor receptor 4,AF,rs351855,A,G,False,15990.219,0.42442902,7.7058743e-06,protein_to_disease_supported,flipped,1.0042701,0.55583371,0.904093
+F12,Coagulation factor XII,AF,rs1801020,G,A,False,18609.048,0.53115223,4.0315756e-05,protein_to_disease_supported,aligned,0.99132564,0.18666386,0.753626
+PHYKPL,5-phosphohydroxy-L-lysine phospho-lyase,AF,rs142181517,A,T,True,2101.856,0.060723753,9.4361905e-06,protein_to_disease_supported,flipped,0.98761161,0.5619762,0.904093
+MAPK9,Mitogen-activated protein kinase 9,AF,rs3763131,C,T,False,227.155,0.0064255971,2.6414171e-06,protein_to_disease_supported,aligned,1.020482,0.7235948,0.904093
+SCGB3A1,Secretoglobin family 3A member 1,AF,rs307802,C,T,False,249.359,0.0066917065,3.0866873e-05,protein_to_disease_supported,aligned,1.0702764,0.25309791,0.803668
+CD83,CD83 antigen,AF,rs12526086,A,G,False,512.763,0.013786353,1.4619379e-05,protein_to_disease_supported,flipped,0.96796035,0.41650479,0.869993
+GMPR,GMP reductase 1,AF,rs1042391,A,T,True,1118.767,0.029932873,9.1203485e-06,protein_to_disease_supported,flipped,0.982696,0.51759387,0.904093
+PI16,Peptidase inhibitor 16,AF,rs62406524,C,G,True,1149.682,0.032219531,2.8104353e-05,protein_to_disease_supported,flipped,1.0299748,0.27771351,0.823042
+TREM2,Triggering receptor expressed on myeloid cells 2,AF,rs143332484,T,C,False,1910.299,0.043220501,1.2981897e-05,protein_to_disease_supported,flipped,1.0174821,0.51740211,0.904093
+DNPH1,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,AF,rs77321231,T,C,False,1453.162,0.039578641,9.6824958e-06,protein_to_disease_supported,flipped,1.0157639,0.5165655,0.904093
+VEGFA,Vascular endothelial growth factor A,AF,rs6921438,A,G,False,8670.031,0.23648073,7.1973403e-07,protein_to_disease_supported,flipped,1.0017461,0.85785567,0.959935
+ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,AF,rs9472701,A,G,False,11030.270,0.27799338,6.3941758e-05,protein_to_disease_supported,flipped,1.0152817,0.087239077,0.609427
+CRISP3,Cysteine-rich secretory protein 3,AF,rs1025347,A,G,False,5882.640,0.16309043,1.6244059e-05,protein_to_disease_supported,flipped,0.99006958,0.38778768,0.869993
+LAMA4,Laminin subunit alpha-4,AF,rs7765769,C,T,False,494.754,0.013745874,1.5991646e-06,protein_to_disease_supported,aligned,0.98927196,0.78819386,0.922471
+TSPYL1,Testis-specific Y-encoded-like protein 1,AF,rs61746508,A,C,False,191.258,0.0055322718,1.9722808e-05,protein_to_disease_supported,flipped,0.94203956,0.42295629,0.869993
+SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,AF,rs28385609,T,C,False,9354.108,0.24619694,0.00022124489,protein_to_disease_supported,flipped,1.0304313,0.0014876428,0.103922
+LEG1,Protein LEG1 homolog,AF,rs1550942,G,A,False,2519.563,0.069136616,2.1121829e-05,protein_to_disease_supported,aligned,1.0176325,0.3319721,0.858912
+CCN2,CCN family member 2,AF,rs7767139,G,C,True,1500.522,0.042804682,8.1382618e-05,protein_to_disease_supported,aligned,1.044568,0.052684253,0.570142
+STX7,Syntaxin-7,AF,rs3813356,T,C,False,6179.499,0.17252306,2.4965424e-05,protein_to_disease_supported,flipped,0.98804261,0.29643096,0.833073
+IL20RA,Interleukin-20 receptor subunit alpha,AF,rs143005532,T,C,False,67.423,0.0020060791,1.697643e-07,protein_to_disease_supported,flipped,0.990843,0.94092232,0.987363
+IFNGR1,Interferon gamma receptor 1,AF,rs9376267,T,C,False,551.377,0.01484077,6.6973495e-05,protein_to_disease_supported,flipped,0.9350293,0.081230653,0.584579
+LPA,Apolipoprotein(a),AF,rs56393506,T,C,False,5377.806,0.16522408,0.00019267235,protein_to_disease_supported,flipped,1.0347384,0.0062032059,0.216669
+PLG,Plasminogen,AF,rs73015965,G,A,False,1816.965,0.060937396,7.1558821e-05,protein_to_disease_supported,aligned,0.96631243,0.15579559,0.717809
+SMOC2,SPARC-related modular calcium-binding protein 2,AF,rs56296467,C,T,False,2553.855,0.06268535,4.3669671e-06,protein_to_disease_supported,aligned,0.99168819,0.65993711,0.904093
+PSMG3,Proteasome assembly chaperone 3,AF,rs34407549,G,C,True,46.659,0.0013431373,7.9605689e-06,protein_to_disease_supported,aligned,0.9259028,0.65559725,0.904093
+ANKMY2,Ankyrin repeat and MYND domain-containing protein 2,AF,rs4719474,A,C,False,104.665,0.003146865,1.8040675e-05,protein_to_disease_supported,flipped,0.92707951,0.36889202,0.869993
+SCRN1,Secernin-1,AF,rs17324153,C,T,False,206.657,0.0058374491,7.7092851e-06,protein_to_disease_supported,aligned,1.0370093,0.60588413,0.904093
+NT5C3A,Cytosolic 5'-nucleotidase 3A,AF,rs10252880,C,G,True,183.407,0.0051813814,3.7972039e-05,protein_to_disease_supported,flipped,1.0893781,0.23314062,0.777778
+BMPER,BMP-binding endothelial regulator protein,AF,rs201897458,T,C,False,514.965,0.015088751,6.4678766e-06,protein_to_disease_supported,flipped,1.0209198,0.65936541,0.904093
+SFRP4,Secreted frizzled-related protein 4,AF,rs75207237,A,T,True,705.312,0.019546258,4.7319929e-06,protein_to_disease_supported,flipped,0.98456111,0.64878874,0.904093
+DBNL,Drebrin-like protein,AF,rs7799945,G,A,False,52.771,0.0014650899,6.1291056e-05,protein_to_disease_supported,aligned,1.2269537,0.10599957,0.634898
+CLIP2,CAP-Gly domain-containing linker protein 2,AF,rs117471007,T,C,False,261.752,0.0073702207,4.4859441e-05,protein_to_disease_supported,flipped,1.0811405,0.1546325,0.717809
+CCL26,C-C motif chemokine 26,AF,rs41463245,T,C,False,666.187,0.018171184,1.5611446e-06,protein_to_disease_supported,flipped,0.99077389,0.78943416,0.922471
+CCL24,C-C motif chemokine 24,AF,rs2024050,G,A,False,12636.090,0.3545444,8.4308163e-05,protein_to_disease_supported,aligned,1.01554,0.05837687,0.570142
+CD36,Platelet glycoprotein 4,AF,rs6961069,T,C,False,1274.655,0.035903714,0.00017008226,protein_to_disease_supported,flipped,1.071251,0.0050165339,0.213325
+HGF,Hepatocyte growth factor,AF,rs5745687,T,C,False,158.531,0.0041868049,4.0980775e-06,protein_to_disease_supported,flipped,0.96919844,0.67427372,0.904093
+SAMD9L,Sterile alpha motif domain-containing protein 9-like,AF,rs17165120,C,A,False,1482.854,0.041288222,0.00016542663,protein_to_disease_supported,aligned,0.93866376,0.006135362,0.216669
+PON1,Serum paraoxonase/arylesterase 1,AF,rs705379,A,G,False,9961.915,0.28567936,4.7952222e-06,protein_to_disease_supported,flipped,1.0041054,0.67527539,0.904093
+PON3,Serum paraoxonase/lactonase 3,AF,rs149867961,C,T,False,2061.598,0.056760364,3.9428254e-05,protein_to_disease_supported,aligned,1.0267065,0.24645789,0.801264
+EPO,Erythropoietin,AF,rs11976235,T,C,False,123.518,0.0035161359,7.9465575e-08,protein_to_disease_supported,flipped,0.99525731,0.96123956,0.995872
+ACHE,Acetylcholinesterase,AF,rs6976053,T,C,False,1856.875,0.048868109,7.97238e-06,protein_to_disease_supported,flipped,0.98730857,0.55049742,0.904093
+FIS1,Mitochondrial fission 1 protein,AF,rs7778271,C,T,False,439.370,0.01230057,9.6645349e-06,protein_to_disease_supported,aligned,0.9723589,0.50351747,0.904093
+CPA4,Carboxypeptidase A4,AF,rs34587586,T,G,False,4648.429,0.13715889,3.4911456e-06,protein_to_disease_supported,flipped,1.0050579,0.69557229,0.904093
+PLXNA4,Plexin-A4,AF,rs6467443,T,G,False,125.850,0.0036845147,2.6892631e-05,protein_to_disease_supported,flipped,0.9181145,0.28936129,0.825746
+EPHA1,Ephrin type-A receptor 1,AF,rs75045569,G,T,False,783.681,0.019317423,1.0749583e-05,protein_to_disease_supported,aligned,1.0238701,0.49535393,0.904093
+CNTNAP2,Contactin-associated protein-like 2,AF,rs7810370,G,A,False,4713.173,0.12536052,3.529186e-05,protein_to_disease_supported,aligned,0.98336133,0.20884173,0.769429
+GIMAP7,GTPase IMAP family member 7,AF,rs3735080,T,C,False,4662.230,0.13094141,0.00010894086,protein_to_disease_supported,flipped,1.0292641,0.02485881,0.490015
+AOC1,Amiloride-sensitive amine oxidase [copper-containing],AF,rs1049742,T,C,False,1235.452,0.036488478,6.4414856e-05,protein_to_disease_supported,flipped,1.0429112,0.093460507,0.617597
+NUB1,NEDD8 ultimate buster 1,AF,rs113920358,T,C,False,527.199,0.015849549,1.4384706e-05,protein_to_disease_supported,flipped,0.97032323,0.45041882,0.886121
+SHH,Sonic hedgehog protein,AF,rs10225434,C,T,False,51.977,0.001566536,3.2730429e-05,protein_to_disease_supported,aligned,1.1555147,0.22786286,0.769429
+DNAJB6,DnaJ homolog subfamily B member 6,AF,rs12668458,C,T,False,606.970,0.018112954,6.4349582e-06,protein_to_disease_supported,aligned,1.0190273,0.60185198,0.904093
+FGL1,Fibrinogen-like protein 1,AF,rs3739404,A,C,False,7405.361,0.18441709,0.00017423705,protein_to_disease_supported,flipped,1.0312149,0.0044401605,0.213325
+BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,AF,rs201672609,CAAAAT,C,False,46.129,0.0013426432,0.00026395834,protein_to_disease_supported,flipped,1.5579822,0.16957732,0.732739
+CLU,Clusterin,AF,rs553014,T,C,False,156.951,0.0044330209,1.2491683e-07,protein_to_disease_supported,flipped,1.0053225,0.9405116,0.987363
+GSR,"Glutathione reductase, mitochondrial",AF,rs8190982,TCC,T,False,238.104,0.0068994848,7.766206e-05,protein_to_disease_supported,aligned,1.1119278,0.34211225,0.859547
+UNC5D,Netrin receptor UNC5D,AF,rs13260977,G,A,False,67.023,0.0019934208,0.0001168886,protein_to_disease_supported,aligned,1.2739868,0.21129955,0.769429
+IDO1,"Indoleamine 2,3-dioxygenase 1",AF,rs7010461,T,C,False,1185.839,0.033994947,0.00018516586,protein_to_disease_supported,flipped,0.92885478,0.010772292,0.329228
+PENK,Proenkephalin-A,AF,rs2576575,T,C,False,1617.246,0.044957194,1.7917837e-07,protein_to_disease_supported,flipped,0.99800561,0.92756483,0.986349
+IL7,Interleukin-7,AF,rs146201210,T,C,False,198.821,0.0057557576,5.2171574e-05,protein_to_disease_supported,flipped,0.90918534,0.1336144,0.702553
+FABP9,Fatty acid-binding protein 9,AF,rs28497692,T,G,False,145.714,0.0037193233,2.7492691e-06,protein_to_disease_supported,flipped,0.9731783,0.74294418,0.909608
+NBN,Nibrin,AF,rs74378230,G,A,False,111.065,0.0032289528,2.2138567e-06,protein_to_disease_supported,aligned,0.97415536,0.73782361,0.909608
+DECR1,"2,4-dienoyl-CoA reductase, mitochondrial",AF,rs189045259,A,G,False,284.925,0.008227144,1.4708723e-05,protein_to_disease_supported,flipped,1.0431894,0.53588499,0.904093
+MATN2,Matrilin-2,AF,rs1869609,G,A,False,2604.326,0.070058366,5.603022e-05,protein_to_disease_supported,aligned,1.0286838,0.10454914,0.634898
+RIDA,2-iminobutanoate/2-iminopropanoate deaminase,AF,rs77539382,TC,T,False,1582.241,0.043837861,2.1300162e-07,protein_to_disease_supported,aligned,1.0022067,0.96676443,0.995872
+LY6D,Lymphocyte antigen 6D,AF,rs2572925,T,C,False,3397.323,0.094629463,5.5693473e-06,protein_to_disease_supported,flipped,1.0077012,0.61707508,0.904093
+RLN2,Prorelaxin H2,AF,rs2273782,T,C,False,313.518,0.0087612358,3.094296e-05,protein_to_disease_supported,flipped,1.0612304,0.22815381,0.769429
+IL33,Interleukin-33,AF,rs185705622,C,G,True,45.797,0.0013826079,4.5247378e-05,protein_to_disease_supported,flipped,0.83451581,0.20346582,0.769429
+TYRP1,"5,6-dihydroxyindole-2-carboxylic acid oxidase",AF,rs10960751,C,T,False,102.976,0.0030777258,9.0304152e-06,protein_to_disease_supported,aligned,1.0556614,0.52368125,0.904093
+B4GALT1,"Beta-1,4-galactosyltransferase 1",AF,rs7019909,T,C,False,759.540,0.020196312,3.0877504e-06,protein_to_disease_supported,flipped,1.0124415,0.71431178,0.904093
+SPINK4,Serine protease inhibitor Kazal-type 4,AF,rs4879679,T,C,False,11624.256,0.32864095,1.8693439e-05,protein_to_disease_supported,flipped,0.99248642,0.36121968,0.869993
+CCL21,C-C motif chemokine 21,AF,rs10814138,A,C,False,168.662,0.0046104151,6.5876225e-06,protein_to_disease_supported,flipped,1.0385237,0.59317095,0.904093
+CD72,B-cell differentiation antigen CD72,AF,rs869487,G,C,True,335.433,0.009496317,1.5128895e-06,protein_to_disease_supported,aligned,1.0127019,0.79293599,0.922471
+CEMIP2,Cell surface hyaluronidase,AF,rs191912523,G,T,False,325.534,0.0098421354,1.916496e-05,protein_to_disease_supported,aligned,1.0451156,0.5292093,0.904093
+TXN,Thioredoxin,AF,rs146018216,A,G,False,147.467,0.0041264948,0.00013850224,protein_to_disease_supported,flipped,0.83259731,0.1407151,0.71745
+ORM1,Alpha-1-acid glycoprotein 1,AF,rs10982156,A,T,True,2262.680,0.07072127,1.5603582e-05,protein_to_disease_supported,flipped,0.98525599,0.42202114,0.869993
+PAPPA,Pappalysin-1,AF,rs117448041,C,T,False,50.306,0.0013486761,8.5502623e-06,protein_to_disease_supported,aligned,1.0828782,0.55590635,0.904093
+TLR4,Toll-like receptor 4,AF,rs4986790,G,A,False,404.055,0.012021535,1.4594554e-05,protein_to_disease_supported,aligned,0.96575704,0.42533326,0.870243
+C5,Complement C5,AF,rs4837810,C,T,False,349.132,0.0099790338,9.0248163e-06,protein_to_disease_supported,aligned,0.97037482,0.514714,0.904093
+GSN,Gelsolin,AF,rs116185403,T,C,False,527.302,0.014692948,0.00017010555,protein_to_disease_supported,flipped,1.1136001,0.064422266,0.570142
+PTGES2,Prostaglandin E synthase 2,AF,rs13283456,T,C,False,107.725,0.0031200155,4.0918221e-05,protein_to_disease_supported,flipped,1.1213347,0.21232747,0.769429
+HMCN2,Hemicentin-2,AF,rs6415851,G,A,False,6789.361,0.19465069,0.00024406588,protein_to_disease_supported,aligned,0.96520963,0.00097200296,0.0792182
+ABO,Histo-blood group ABO system transferase,AF,rs505922,C,T,False,20588.826,0.59362,3.6646892e-05,protein_to_disease_supported,aligned,1.0078881,0.19505313,0.763048
+DBH,Dopamine beta-hydroxylase,AF,rs1611115,C,T,False,15558.285,0.44792843,8.8450959e-06,protein_to_disease_supported,aligned,1.0044536,0.53588499,0.904093
+COL5A1,Collagen alpha-1(V) chain,AF,rs12002679,G,C,True,764.524,0.022531487,4.9842185e-05,protein_to_disease_supported,aligned,1.0481567,0.16000246,0.717809
+FCN1,Ficolin-1,AF,rs11103604,T,G,False,2751.138,0.076406738,0,protein_to_disease_supported,flipped,1,1,1
+IL15RA,Interleukin-15 receptor subunit alpha,AF,rs3136630,T,C,False,975.022,0.027941027,7.3470768e-06,protein_to_disease_supported,flipped,1.0163479,0.57032863,0.904093
+MRC1,Macrophage mannose receptor 1,AF,rs74118031,C,T,False,1126.808,0.029095417,8.7150175e-05,protein_to_disease_supported,aligned,1.0562549,0.25135731,0.803668
+CXCL12,Stromal cell-derived factor 1,AF,rs11239028,T,C,False,580.530,0.017094851,1.2109594e-05,protein_to_disease_supported,flipped,1.0269727,0.4639279,0.892952
+PRKG1,cGMP-dependent protein kinase 1,AF,rs1937682,T,A,True,603.697,0.017210954,9.1596203e-05,protein_to_disease_supported,aligned,0.9296456,0.038929145,0.570142
+MBL2,Mannose-binding protein C,AF,rs7899547,G,T,False,13273.985,0.37894033,1.043278e-05,protein_to_disease_supported,aligned,0.9947667,0.4928933,0.904093
+PCBD1,Pterin-4-alpha-carbinolamine dehydratase,AF,rs2630336,T,G,False,547.649,0.015155029,1.3942416e-05,protein_to_disease_supported,flipped,1.030796,0.43203489,0.87326
+ANXA11,Annexin A11,AF,rs2784773,C,T,False,70.560,0.0020131953,4.1259688e-08,protein_to_disease_supported,aligned,1.0045374,0.96581541,0.995872
+BLNK,B-cell linker protein,AF,rs55769428,C,A,False,55.024,0.0016344431,1.7374783e-05,protein_to_disease_supported,aligned,1.1086065,0.40261701,0.869993
+PIK3AP1,Phosphoinositide 3-kinase adapter protein 1,AF,rs41317268,G,A,False,615.679,0.016608227,1.2548383e-06,protein_to_disease_supported,aligned,0.99134542,0.81398046,0.939303
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,AF,rs79671623,A,G,False,55.032,0.0015513752,2.7032125e-06,protein_to_disease_supported,flipped,1.0426263,0.73653261,0.909608
+PNLIPRP2,Pancreatic lipase-related protein 2,AF,rs4751995,G,A,False,22389.212,0.64404406,1.248239e-07,protein_to_disease_supported,aligned,1.0004403,0.93961197,0.987363
+PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",AF,rs7358070,C,G,True,62.496,0.0018278517,1.1404888e-05,protein_to_disease_supported,flipped,0.92404867,0.47256625,0.898321
+ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,AF,rs11244909,C,T,False,274.958,0.0079700243,0.00013757811,protein_to_disease_supported,aligned,1.1404064,0.012419331,0.357238
+MGMT,Methylated-DNA--protein-cysteine methyltransferase,AF,rs1008982,C,T,False,2779.594,0.080219035,1.5199939e-05,protein_to_disease_supported,aligned,1.0138604,0.41548129,0.869993
+FUOM,Fucose mutarotase,AF,rs11816588,C,T,False,590.315,0.015943765,1.9290163e-05,protein_to_disease_supported,aligned,1.0353955,0.40688722,0.869993
+LSP1,Lymphocyte-specific protein 1,AF,rs907612,T,C,False,384.315,0.01047516,2.1120997e-05,protein_to_disease_supported,flipped,1.0459266,0.33849515,0.859547
+TRIM21,E3 ubiquitin-protein ligase TRIM21,AF,rs199881122,T,A,True,219.978,0.0060026243,0.00011167196,protein_to_disease_supported,aligned,0.8724971,0.14829465,0.717809
+TRIM5,Tripartite motif-containing protein 5,AF,rs11821656,C,G,True,1434.649,0.040018945,7.288207e-06,protein_to_disease_supported,flipped,0.98659551,0.56670112,0.904093
+TPP1,Tripeptidyl-peptidase 1,AF,rs140726254,A,G,False,1342.078,0.036927337,0.00013420411,protein_to_disease_supported,flipped,1.0621392,0.091728322,0.614454
+LYVE1,Lymphatic vessel endothelial hyaluronic acid receptor 1,AF,rs7119709,A,G,False,337.070,0.009354092,2.8741946e-05,protein_to_disease_supported,flipped,1.0569967,0.46747608,0.892952
+SPON1,Spondin-1,AF,rs10832164,T,C,False,1661.998,0.042417969,0.00049222293,protein_to_disease_supported,flipped,1.1137385,1.9593173e-06,0.000319369
+SAA4,Serum amyloid A-4 protein,AF,rs7117890,A,G,False,2307.488,0.066029828,9.6578827e-06,protein_to_disease_supported,flipped,0.98797881,0.51136328,0.904093
+CAT,Catalase,AF,rs2284368,C,T,False,453.611,0.011615849,1.9807501e-06,protein_to_disease_supported,aligned,1.013144,0.7612822,0.919178
+F2,Prothrombin,AF,rs1799963,A,G,False,385.438,0.011547511,2.474366e-06,protein_to_disease_supported,flipped,0.98546841,0.79262822,0.922471
+FOLH1,Glutamate carboxypeptidase 2,AF,rs61886488,T,G,False,124.099,0.0039462254,0.00045250378,protein_to_disease_supported,flipped,1.4030184,0.04351321,0.570142
+SERPING1,Plasma protease C1 inhibitor,AF,rs28362944,C,T,False,636.962,0.0168158,4.9327889e-07,protein_to_disease_supported,aligned,1.0054308,0.88913886,0.984187
+TCN1,Transcobalamin-1,AF,rs34324219,A,C,False,4057.294,0.10870751,8.5816736e-06,protein_to_disease_supported,flipped,0.99115438,0.54246418,0.904093
+CD6,T-cell differentiation antigen CD6,AF,rs11230563,T,C,False,11048.651,0.2974446,7.6253177e-06,protein_to_disease_supported,flipped,1.005076,0.55806753,0.904093
+PGA4,Pepsin A-4,AF,rs4414241,T,C,False,65.675,0.0022594357,4.5386785e-05,protein_to_disease_supported,flipped,0.86785472,0.28118109,0.825746
+SCGB1A1,Uteroglobin,AF,rs3741240,A,G,False,1990.737,0.052457969,1.2327157e-05,protein_to_disease_supported,flipped,0.98478748,0.45756818,0.886121
+UBXN1,UBX domain-containing protein 1,AF,rs142782985,C,G,True,47.932,0.0013383808,5.3037923e-06,protein_to_disease_supported,flipped,1.0649748,0.70666111,0.904093
+VEGFB,Vascular endothelial growth factor B,AF,rs660442,A,G,False,148.549,0.0042346084,1.0352593e-06,protein_to_disease_supported,flipped,0.98448588,0.82831163,0.944252
+PRDX5,"Peroxiredoxin-5, mitochondrial",AF,rs77269065,A,G,False,345.769,0.010267141,3.2333368e-05,protein_to_disease_supported,flipped,1.0577223,0.29939305,0.83659
+SNX15,Sorting nexin-15,AF,rs2670910,A,G,False,3465.033,0.096241129,3.9477446e-06,protein_to_disease_supported,flipped,1.0064252,0.69149622,0.904093
+CTSC,Dipeptidyl peptidase 1,AF,rs11600158,G,A,False,6258.999,0.173605,3.578801e-05,protein_to_disease_supported,aligned,1.0144614,0.21691142,0.769429
+MMP10,Stromelysin-2,AF,rs486055,T,C,False,1486.088,0.042649211,1.370259e-05,protein_to_disease_supported,flipped,1.0180861,0.43526152,0.87326
+MMP1,Interstitial collagenase,AF,rs534191,T,C,False,3263.421,0.099566637,5.2593701e-05,protein_to_disease_supported,flipped,0.97727893,0.1298469,0.702553
+IL18,Interleukin-18,AF,rs2250417,C,T,False,1605.617,0.043224535,1.5577286e-05,protein_to_disease_supported,aligned,1.019165,0.40325567,0.869993
+APOA4,Apolipoprotein A-IV,AF,rs1729407,G,C,True,344.631,0.0099104602,2.3969873e-06,protein_to_disease_supported,aligned,1.0156736,0.74629434,0.909608
+APOA1,Apolipoprotein A-I,AF,rs2727784,T,C,False,72.347,0.0018404518,1.6385417e-07,protein_to_disease_supported,flipped,1.0094802,0.93169355,0.986349
+IL10RA,Interleukin-10 receptor subunit alpha,AF,rs3135932,G,A,False,334.162,0.0098536343,1.767702e-07,protein_to_disease_supported,aligned,0.99577344,0.92994655,0.986349
+C1QTNF5,Complement C1q tumor necrosis factor-related protein 5,AF,rs2509656,A,G,False,244.563,0.0065658855,1.6604497e-06,protein_to_disease_supported,flipped,1.0160296,0.78866758,0.922471
+CDON,Cell adhesion molecule-related/down-regulated by oncogenes,AF,rs607980,A,G,False,207.511,0.0056311285,2.0035838e-05,protein_to_disease_supported,flipped,1.0614643,0.33056673,0.858912
+JAM3,Junctional adhesion molecule C,AF,rs94499,G,A,False,183.617,0.0052089351,1.8218432e-05,protein_to_disease_supported,aligned,0.94257484,0.35545995,0.869993
+NTF3,Neurotrophin-3,AF,rs73039984,T,C,False,375.124,0.010739689,4.4112681e-06,protein_to_disease_supported,flipped,1.0204736,0.66342802,0.904093
+LTBR,Tumor necrosis factor receptor superfamily member 3,AF,rs10849449,G,A,False,1605.121,0.043761712,6.3996951e-05,protein_to_disease_supported,aligned,1.0389819,0.10307255,0.634898
+CD4,T-cell surface glycoprotein CD4,AF,rs73053728,G,A,False,1979.111,0.054456212,7.0199134e-05,protein_to_disease_supported,aligned,1.0365563,0.081291135,0.584579
+C1S,Complement C1s subcomponent,AF,rs12146727,A,G,False,3705.693,0.10423572,2.543439e-06,protein_to_disease_supported,flipped,0.99507246,0.73631691,0.909608
+C1R,Complement C1r subcomponent,AF,rs10849546,A,G,False,1749.084,0.049357946,1.2376104e-06,protein_to_disease_supported,flipped,0.9950051,0.81444634,0.939303
+C1RL,Complement C1r subcomponent-like protein,AF,rs191448232,C,G,True,3912.501,0.11156412,2.6710378e-05,protein_to_disease_supported,flipped,0.98464598,0.4234323,0.869993
+CLEC4C,C-type lectin domain family 4 member C,AF,rs10845821,T,C,False,12576.329,0.34999845,1.3542598e-05,protein_to_disease_supported,flipped,0.99379891,0.4357372,0.87326
+CLEC4A,C-type lectin domain family 4 member A,AF,rs117213717,A,G,False,4046.509,0.1116629,4.9811668e-06,protein_to_disease_supported,flipped,1.0067013,0.68011391,0.904093
+CLEC4D,C-type lectin domain family 4 member D,AF,rs4242896,C,A,False,4919.351,0.1380468,0.00018051639,protein_to_disease_supported,aligned,0.96448462,0.0041612562,0.213325
+PZP,Pregnancy zone protein,AF,rs7311982,C,T,False,2986.581,0.045675104,2.8325366e-05,protein_to_disease_supported,aligned,1.0252155,0.25554401,0.80452
+KLRB1,Killer cell lectin-like receptor subfamily B member 1,AF,rs563890415,C,T,False,590.385,0.016017496,1.108196e-06,protein_to_disease_supported,aligned,0.99171665,0.96741404,0.995872
+KLRF1,Killer cell lectin-like receptor subfamily F member 1,AF,rs146460124,A,G,False,911.389,0.024381693,0.00010946904,protein_to_disease_supported,flipped,1.0693019,0.089327594,0.614454
+CLEC12A,C-type lectin domain family 12 member A,AF,rs12230629,C,T,False,3196.252,0.095461084,6.8194711e-05,protein_to_disease_supported,aligned,0.97362629,0.37885931,0.869993
+CLEC7A,C-type lectin domain family 7 member A,AF,rs16910526,C,A,False,13711.180,0.38104447,1.224606e-06,protein_to_disease_supported,aligned,0.99820889,0.81847395,0.939516
+KLRD1,Natural killer cells antigen CD94,AF,rs2537752,A,T,True,3252.711,0.083805062,3.0013836e-06,protein_to_disease_supported,flipped,0.9940334,0.71313642,0.904093
+PRR4,Proline-rich protein 4,AF,rs1063193,T,C,False,10273.503,0.30133904,1.5927591e-06,protein_to_disease_supported,flipped,0.9977036,0.78819386,0.922471
+IRAK4,Interleukin-1 receptor-associated kinase 4,AF,rs183549317,A,G,False,70.859,0.0019918614,6.2140809e-06,protein_to_disease_supported,flipped,0.94567663,0.74509987,0.909608
+NELL2,Protein kinase C-binding protein NELL2,AF,rs382115,C,T,False,549.794,0.014467222,5.1754435e-05,protein_to_disease_supported,aligned,1.0616359,0.26856079,0.810461
+ERBB3,Receptor tyrosine-protein kinase erbB-3,AF,rs75526830,G,A,False,2236.135,0.060011304,0.00025245126,protein_to_disease_supported,aligned,1.0670089,0.015041739,0.408634
+SLC39A5,Zinc transporter ZIP5,AF,rs147572362,C,T,False,273.676,0.007190482,5.5303291e-07,protein_to_disease_supported,aligned,1.0088085,0.89563071,0.984187
+STAT2,Signal transducer and activator of transcription 2,AF,rs61754171,G,A,False,374.887,0.011408996,1.4569303e-06,protein_to_disease_supported,aligned,0.98876316,0.88019841,0.97926
+APOF,Apolipoprotein F,AF,rs2020854,C,T,False,601.777,0.016013696,1.7441708e-05,protein_to_disease_supported,aligned,0.967536,0.34169592,0.859547
+LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,AF,rs11172841,C,A,False,97.818,0.0028288988,8.9188426e-05,protein_to_disease_supported,aligned,0.83731062,0.059788111,0.570142
+APPL2,DCC-interacting protein 13-beta,AF,rs10778371,A,G,False,272.542,0.0077645187,3.6640253e-06,protein_to_disease_supported,flipped,1.0219608,0.68051189,0.904093
+CKAP4,Cytoskeleton-associated protein 4,AF,rs2704895,A,G,False,658.161,0.017221041,6.3856805e-06,protein_to_disease_supported,flipped,0.98092787,0.59551289,0.904093
+SELPLG,P-selectin glycoprotein ligand 1,AF,rs7294337,T,C,False,4340.489,0.12227843,2.7153929e-06,protein_to_disease_supported,flipped,1.0047235,0.71533097,0.904093
+MVK,Mevalonate kinase,AF,rs28934897,A,G,False,115.415,0.0041149218,0.00015723261,protein_to_disease_supported,flipped,0.82244417,0.04078215,0.570142
+ADGRD1,Adhesion G-protein coupled receptor D1,AF,rs4759533,A,G,False,2890.105,0.068582232,5.9932926e-06,protein_to_disease_supported,flipped,1.009392,0.59791775,0.904093
+IL17D,Interleukin-17D,AF,rs4770059,C,T,False,2540.523,0.061441415,3.7284998e-06,protein_to_disease_supported,aligned,1.0078204,0.67936241,0.904093
+C1QTNF9,Complement C1q and tumor necrosis factor-related protein 9A,AF,rs1961993,A,C,False,14309.988,0.41938712,3.8327807e-07,protein_to_disease_supported,flipped,1.0009564,0.89822259,0.984823
+NHLRC3,NHL repeat-containing protein 3,AF,rs149175958,T,G,False,1408.721,0.039638859,5.2773486e-05,protein_to_disease_supported,flipped,0.96416989,0.16432218,0.727416
+FOXO1,Forkhead box protein O1,AF,rs17061453,T,A,True,230.568,0.0064587427,0,protein_to_disease_supported,aligned,1,1,1
+TNFSF11,Tumor necrosis factor ligand superfamily member 11,AF,rs2062305,A,G,False,229.471,0.0062318295,7.2911805e-05,protein_to_disease_supported,flipped,1.1142328,0.070923002,0.570142
+CPB2,Carboxypeptidase B2,AF,rs6561283,G,A,False,6348.282,0.17685343,4.7679658e-06,protein_to_disease_supported,aligned,1.0052058,0.64943628,0.904093
+THSD1,Thrombospondin type-1 domain-containing protein 1,AF,rs149590732,G,A,False,315.859,0.0093970331,5.067688e-06,protein_to_disease_supported,aligned,0.97704504,0.60513238,0.904093
+OLFM4,Olfactomedin-4,AF,rs17552047,A,G,False,9004.599,0.29490001,1.600103e-08,protein_to_disease_supported,flipped,1.000233,0.97900546,0.995872
+SPRY2,Protein sprouty homolog 2,AF,rs504122,A,G,False,109.287,0.0031320865,2.5522158e-05,protein_to_disease_supported,flipped,0.91368477,0.29044639,0.825746
+SLITRK1,SLIT and NTRK-like protein 1,AF,rs2876803,A,T,True,258.239,0.0069932114,1.809204e-07,protein_to_disease_supported,flipped,0.99492657,0.9283765,0.986349
+F10,Coagulation factor X,AF,rs547138,A,T,True,536.467,0.015328687,6.1937365e-06,protein_to_disease_supported,flipped,0.9800994,0.58544093,0.904093
+RNASE4,Ribonuclease 4,AF,rs12588573,T,C,False,1637.850,0.045378381,3.7088866e-06,protein_to_disease_supported,flipped,1.0090816,0.67997298,0.904093
+RNASE6,Ribonuclease K6,AF,rs1045922,A,G,False,2726.600,0.071053555,7.3395697e-05,protein_to_disease_supported,flipped,1.0326618,0.063290832,0.570142
+RNASE1,Ribonuclease pancreatic,AF,rs17254387,A,G,False,743.473,0.02000264,1.4777186e-05,protein_to_disease_supported,flipped,0.97318588,0.41896442,0.869993
+GMPR2,GMP reductase 2,AF,rs199867463,C,T,False,259.969,0.0084411504,5.1943761e-05,protein_to_disease_supported,aligned,0.92455281,0.17426918,0.741023
+GZMB,Granzyme B,AF,rs8192918,CT,C,False,1677.580,0.043649953,0.00020698097,protein_to_disease_supported,flipped,0.93345642,0.22014951,0.769429
+NUMB,Protein numb homolog,AF,rs7141139,T,G,False,101.367,0.0028926744,8.6412968e-05,protein_to_disease_supported,flipped,0.84127374,0.050059003,0.570142
+ACYP1,Acylphosphatase-1,AF,rs75948138,G,C,True,1245.025,0.034743831,7.8467517e-09,protein_to_disease_supported,aligned,0.99952488,0.98772534,0.995872
+VASH1,Tubulinyl-Tyr carboxypeptidase 1,AF,rs11159226,G,T,False,173.596,0.0049439104,2.3935653e-05,protein_to_disease_supported,aligned,1.0720583,0.26506311,0.810461
+LGMN,Legumain,AF,rs148659834,A,G,False,971.559,0.026710715,3.4641732e-07,protein_to_disease_supported,flipped,0.9964052,0.90968741,0.986349
+SERPINA1,Alpha-1-antitrypsin,AF,rs17580,A,T,True,451.328,0.013212833,9.2400336e-06,protein_to_disease_supported,flipped,1.0267975,0.57158802,0.904093
+SERPINA4,Kallistatin,AF,rs5511,T,A,True,4664.533,0.1310058,3.7173409e-05,protein_to_disease_supported,aligned,1.0169877,0.18802114,0.753626
+SERPINA5,Plasma serine protease inhibitor,AF,rs1130267,A,G,False,695.221,0.019364719,6.9381124e-06,protein_to_disease_supported,flipped,0.98124957,0.57628216,0.904093
+SERPINA3,Alpha-1-antichymotrypsin,AF,rs61976127,G,A,False,2081.446,0.060414426,3.8554449e-05,protein_to_disease_supported,aligned,0.97505446,0.19399521,0.763048
+GLRX5,"Glutaredoxin-related protein 5, mitochondrial",AF,rs179133,T,C,False,241.617,0.0072327779,3.4170527e-05,protein_to_disease_supported,flipped,1.0711515,0.20809408,0.769429
+GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,AF,rs2289218,A,T,True,225.944,0.0061473474,3.2571606e-05,protein_to_disease_supported,flipped,1.0755054,0.22668005,0.769429
+CKMT1A_CKMT1B,"Creatine kinase U-type, mitochondrial",AF,rs690604,T,G,False,407.273,0.012592259,0.00015997108,protein_to_disease_supported,flipped,1.1193092,0.048165695,0.570142
+SCG3,Secretogranin-3,AF,rs2606134,C,G,True,6711.376,0.184392,2.0161055e-05,protein_to_disease_supported,flipped,0.989598,0.34890834,0.866072
+DAPK2,Death-associated protein kinase 2,AF,rs34772505,T,C,False,2545.520,0.073570588,4.4118504e-06,protein_to_disease_supported,flipped,0.99228603,0.65908525,0.904093
+ITGA11,Integrin alpha-11,AF,rs2306022,T,C,False,769.500,0.021115129,5.6999598e-06,protein_to_disease_supported,flipped,1.0165658,0.61707508,0.904093
+CD276,CD276 antigen,AF,rs2291014,A,G,False,11559.557,0.31626828,1.7343158e-05,protein_to_disease_supported,flipped,0.99262216,0.37245088,0.869993
+TPSAB1,Tryptase alpha/beta-1,AF,rs8051930,A,T,True,12152.427,0.34562246,3.7771585e-05,protein_to_disease_supported,flipped,0.98960047,0.27078098,0.810461
+NME3,Nucleoside diphosphate kinase 3,AF,rs749285440,A,G,False,803.284,0.025177305,2.1189151e-08,protein_to_disease_supported,flipped,0.99908303,0.98150764,0.995872
+PRSS22,Brain-specific serine protease 4,AF,rs8046218,T,C,False,1005.186,0.029580809,7.7581122e-05,protein_to_disease_supported,flipped,0.95007709,0.068467458,0.570142
+IL32,Interleukin-32,AF,rs45499297,C,T,False,983.556,0.026597142,3.7927758e-05,protein_to_disease_supported,aligned,1.0384846,0.23699163,0.777778
+PPL,Periplakin,AF,rs61499243,T,C,False,123.191,0.003692433,7.8628878e-06,protein_to_disease_supported,flipped,1.0472274,0.57032863,0.904093
+NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,AF,rs12599777,G,A,False,1730.073,0.050302389,7.7657815e-06,protein_to_disease_supported,aligned,0.98765182,0.55316559,0.904093
+IL4R,Interleukin-4 receptor subunit alpha,AF,rs8060025,G,T,False,1720.131,0.046873513,8.0244062e-05,protein_to_disease_supported,aligned,0.95946883,0.059557134,0.570142
+ITGAL,Integrin alpha-L,AF,rs11574938,C,G,True,424.250,0.01220368,3.9565762e-05,protein_to_disease_supported,flipped,1.0585919,0.1840598,0.750044
+PRSS8,Prostasin,AF,rs889555,T,C,False,216.333,0.005351887,1.507595e-05,protein_to_disease_supported,flipped,1.0545086,0.42218771,0.869993
+CCL22,C-C motif chemokine 22,AF,rs41398344,C,T,False,471.249,0.01324148,2.0675106e-06,protein_to_disease_supported,aligned,1.012574,0.78072192,0.922471
+CCL17,C-C motif chemokine 17,AF,rs9302690,A,G,False,813.076,0.02161706,7.2067903e-07,protein_to_disease_supported,flipped,1.0057906,0.85572542,0.959747
+AGRP,Agouti-related protein,AF,rs188707867,G,C,True,105.274,0.0031020048,3.5666807e-05,protein_to_disease_supported,aligned,1.1131888,0.28860745,0.825746
+LCAT,Phosphatidylcholine-sterol acyltransferase,AF,rs4986970,T,A,True,253.744,0.0068697835,4.2449012e-06,protein_to_disease_supported,aligned,0.97544863,0.69573137,0.904093
+IL17C,Interleukin-17C,AF,rs17700884,T,G,False,234.116,0.0066625028,5.9860719e-06,protein_to_disease_supported,flipped,0.97047026,0.60705225,0.904093
+SERPINF2,Alpha-2-antiplasmin,AF,rs11078597,C,T,False,486.129,0.013074733,5.5659259e-05,protein_to_disease_supported,aligned,1.0674213,0.11646922,0.678017
+SERPINF1,Pigment epithelium-derived factor,AF,rs62088172,T,C,False,1351.854,0.036566273,4.6792822e-06,protein_to_disease_supported,flipped,0.98875149,0.65672129,0.904093
+ASGR2,Asialoglycoprotein receptor 2,AF,rs2304978,T,C,False,1555.614,0.043465326,4.4828456e-06,protein_to_disease_supported,flipped,1.0102073,0.66413557,0.904093
+TNFSF12,Tumor necrosis factor ligand superfamily member 12,AF,rs80067372,A,G,False,2049.003,0.056948167,0.00068333889,protein_to_disease_supported,flipped,0.89624508,5.3280571e-08,1.30271e-05
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,AF,rs3803800,G,A,False,1403.277,0.035142419,2.0804568e-05,protein_to_disease_supported,aligned,1.0246296,0.33533949,0.859547
+SHBG,Sex hormone-binding globulin,AF,rs858519,C,T,False,1578.962,0.036957817,7.9552945e-05,protein_to_disease_supported,aligned,0.95466441,0.061811282,0.570142
+STX8,Syntaxin-8,AF,rs8077500,A,G,False,135.623,0.0038679854,4.7831113e-06,protein_to_disease_supported,flipped,0.96544593,0.65271044,0.904093
+TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,AF,rs34562254,A,G,False,196.406,0.0052917682,1.010878e-06,protein_to_disease_supported,flipped,1.0139173,0.82728745,0.944252
+SHMT1,"Serine hydroxymethyltransferase, cytosolic",AF,rs669340,C,G,True,8433.666,0.24020849,2.4554081e-06,protein_to_disease_supported,flipped,0.99680792,0.74247965,0.909608
+MFAP4,Microfibril-associated glycoprotein 4,AF,rs139356332,C,G,True,820.540,0.023622942,6.6333314e-06,protein_to_disease_supported,flipped,1.0168983,0.64795587,0.904093
+ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",AF,rs887241,C,A,False,3918.132,0.10530508,0.12603636,direction_uncertain,aligned,2.9862397,0.32276832,0.857964
+LGALS9,Galectin-9,AF,rs79526289,G,A,False,3786.421,0.099081503,4.5991842e-06,protein_to_disease_supported,aligned,1.0068364,0.81670262,0.939516
+GIT1,ARF GTPase-activating protein GIT1,AF,rs142511067,G,C,True,84.948,0.0025612547,1.1167337e-05,protein_to_disease_supported,aligned,1.0682599,0.54850624,0.904093
+CCL11,Eotaxin,AF,rs140905292,A,G,False,199.385,0.0050602204,0.00010167351,protein_to_disease_supported,flipped,0.86783929,0.17815528,0.744598
+CCL7,C-C motif chemokine 7,AF,rs6505397,A,T,True,207.586,0.0054265977,2.3917342e-07,protein_to_disease_supported,flipped,1.0066609,0.91679033,0.986349
+CCL13,C-C motif chemokine 13,AF,rs3136674,C,T,False,812.577,0.021735979,6.0308254e-06,protein_to_disease_supported,aligned,0.98348089,0.59791775,0.904093
+CCL23,C-C motif chemokine 23,AF,rs712048,C,A,False,2634.322,0.073639627,1.0838063e-05,protein_to_disease_supported,aligned,0.98794164,0.49019419,0.904093
+CCL3,C-C motif chemokine 3,AF,rs1634486,C,A,False,2327.859,0.061191731,4.4382714e-05,protein_to_disease_supported,aligned,0.97342792,0.55821679,0.904093
+CCL4,C-C motif chemokine 4,AF,rs1015673,T,C,False,1434.556,0.048273812,8.1327642e-05,protein_to_disease_supported,flipped,1.0418993,0.1201327,0.682546
+KRT19,"Keratin, type I cytoskeletal 19",AF,rs7405611,A,G,False,366.490,0.010168767,1.691487e-07,protein_to_disease_supported,flipped,0.99592981,0.93070607,0.986349
+HEXIM1,Protein HEXIM1,AF,rs36160143,T,C,False,78.885,0.0022368157,1.5981719e-05,protein_to_disease_supported,flipped,0.91894663,0.59621542,0.904093
+NXPH3,Neurexophilin-3,AF,rs147028083,G,C,True,2197.085,0.062278453,4.1277915e-06,protein_to_disease_supported,aligned,0.99189182,0.71247474,0.904093
+CHAD,Chondroadherin,AF,rs144030994,T,G,False,1174.967,0.031260933,7.2986732e-06,protein_to_disease_supported,flipped,1.0153973,0.64775677,0.904093
+WFIKKN2,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2",AF,rs4591185,A,T,True,7351.844,0.20814875,1.6754368e-05,protein_to_disease_supported,flipped,0.99106838,0.39687127,0.869993
+ACE,Angiotensin-converting enzyme,AF,rs4362,C,T,False,3520.820,0.1002891,4.0447704e-07,protein_to_disease_supported,aligned,0.99799375,0.89153382,0.984187
+CD79B,B-cell antigen receptor complex-associated protein beta chain,AF,rs12946669,T,C,False,483.706,0.012746228,3.2114167e-05,protein_to_disease_supported,flipped,0.95104428,0.22786286,0.769429
+MILR1,Allergin-1,AF,rs138176943,A,G,False,2381.351,0.069053349,2.4500971e-05,protein_to_disease_supported,flipped,0.98133984,0.32372005,0.857964
+SDK2,Protein sidekick-2,AF,rs11655934,A,G,False,3952.153,0.11551784,1.7181641e-06,protein_to_disease_supported,flipped,1.0038641,0.78651922,0.922471
+CD300A,CMRF35-like molecule 8,AF,rs62087202,A,G,False,1388.070,0.035804446,2.497775e-06,protein_to_disease_supported,flipped,1.0083873,0.74821975,0.909608
+SLC9A3R1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,AF,rs745666,C,G,True,133.807,0.0041250693,5.3269919e-05,protein_to_disease_supported,flipped,0.89258059,0.148614,0.717809
+LGALS3BP,Galectin-3-binding protein,AF,rs111526614,T,C,False,286.824,0.0082759133,0.00010781367,protein_to_disease_supported,flipped,0.89213514,0.072379874,0.570142
+ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,AF,rs8076533,T,C,False,14190.734,0.41926113,1.5046554e-06,protein_to_disease_supported,flipped,1.0018962,0.7941931,0.922471
+CD7,T-cell antigen CD7,AF,rs3176831,T,C,False,3568.779,0.10498849,2.0489292e-08,protein_to_disease_supported,flipped,1.0004419,0.97783939,0.995872
+COLEC12,Collectin-12,AF,rs149622251,T,C,False,349.776,0.0085658393,7.0044527e-05,protein_to_disease_supported,flipped,1.0946425,0.18166299,0.750044
+PTPRM,Receptor-type tyrosine-protein phosphatase mu,AF,rs72911294,T,C,False,106.224,0.0025066673,1.1951433e-05,protein_to_disease_supported,flipped,1.0714894,0.4917677,0.904093
+TTR,Transthyretin,AF,rs1667229,C,T,False,270.184,0.0068694691,2.164028e-05,protein_to_disease_supported,aligned,0.9454193,0.32458742,0.857964
+PSTPIP2,Proline-serine-threonine phosphatase-interacting protein 2,AF,rs72642432,A,G,False,392.901,0.011703575,1.576427e-05,protein_to_disease_supported,flipped,1.0373828,0.39702925,0.869993
+TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,AF,rs113339733,A,G,False,4074.048,0.11122055,5.4878081e-06,protein_to_disease_supported,flipped,1.0070491,0.66174878,0.904093
+SERPINB8,Serpin B8,AF,rs3826616,G,A,False,9245.266,0.25714494,3.0429267e-06,protein_to_disease_supported,aligned,1.0034459,0.72475376,0.904093
+CD226,CD226 antigen,AF,rs13381239,A,T,True,1190.970,0.034728645,8.7917226e-06,protein_to_disease_supported,flipped,1.0160381,0.53074729,0.904093
+NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",AF,rs657693,G,A,False,205.189,0.0055641097,0.00033352938,protein_to_disease_supported,aligned,1.2774074,0.00027783496,0.0271723
+BSG,Basigin,AF,rs56101188,C,T,False,353.809,0.0095969497,2.2930035e-05,protein_to_disease_supported,aligned,0.95229491,0.38558758,0.869993
+FSTL3,Follistatin-related protein 3,AF,rs916904,G,A,False,131.264,0.0034886015,7.4294658e-06,protein_to_disease_supported,aligned,1.0472294,0.57851472,0.904093
+CFD,Complement factor D,AF,rs71335276,T,G,False,411.901,0.012077957,6.6867282e-05,protein_to_disease_supported,flipped,1.0772445,0.12100673,0.682546
+ARHGAP45,Rho GTPase-activating protein 45,AF,rs34593562,G,A,False,89.029,0.0025096416,4.1886462e-05,protein_to_disease_supported,aligned,1.137907,0.19505313,0.763048
+LRG1,Leucine-rich alpha-2-glycoprotein,AF,rs8105192,G,C,True,5738.011,0.15665443,0.000142805,protein_to_disease_supported,aligned,0.97025865,0.020609184,0.471288
+NRTN,Neurturin,AF,rs36055559,A,G,False,50.771,0.0016540596,2.2377906e-06,protein_to_disease_supported,flipped,0.96388634,0.78574146,0.922471
+CD70,CD70 antigen,AF,rs7254538,C,G,True,10672.189,0.27950434,1.6695472e-05,protein_to_disease_supported,flipped,1.0077586,0.42049916,0.869993
+C3,Complement C3,AF,rs11569466,T,G,False,220.421,0.0065441986,8.4230968e-05,protein_to_disease_supported,flipped,1.1201368,0.082927851,0.587706
+MCEMP1,Mast cell-expressed membrane protein 1,AF,rs141879681,G,A,False,850.199,0.025946263,3.6566262e-08,protein_to_disease_supported,aligned,0.99881356,0.9726585,0.995872
+CLEC4G,C-type lectin domain family 4 member G,AF,rs76560987,T,C,False,686.726,0.018470679,1.1857823e-08,protein_to_disease_supported,flipped,0.99919908,0.98290378,0.995872
+CCL25,C-C motif chemokine 25,AF,rs2032887,G,A,False,8078.682,0.21451233,9.0393404e-06,protein_to_disease_supported,aligned,1.0065126,0.53197106,0.904093
+ANGPTL4,Angiopoietin-related protein 4,AF,rs2278236,A,G,False,1386.673,0.039141141,7.314523e-05,protein_to_disease_supported,flipped,0.95769195,0.070923002,0.570142
+ICAM4,Intercellular adhesion molecule 4,AF,rs5030377,G,A,False,301.876,0.0061894527,6.0059797e-05,protein_to_disease_supported,aligned,1.1035218,0.10646547,0.634898
+ADGRE2,Adhesion G protein-coupled receptor E2,AF,rs7251607,C,A,False,1161.894,0.03066587,3.4290254e-05,protein_to_disease_supported,aligned,1.0340047,0.24742499,0.801264
+PGLYRP2,N-acetylmuramoyl-L-alanine amidase,AF,rs34440547,T,C,False,15371.237,0.44837226,2.7732615e-05,protein_to_disease_supported,flipped,0.99216626,0.32794532,0.858912
+IL12RB1,Interleukin-12 receptor subunit beta-1,AF,rs369378,A,G,False,2489.321,0.069791928,1.3414474e-08,protein_to_disease_supported,flipped,0.99956168,0.98077573,0.995872
+PEPD,Xaa-Pro dipeptidase,AF,rs17569,A,G,False,2328.472,0.064159669,4.1946288e-05,protein_to_disease_supported,flipped,1.0258988,0.17082266,0.732739
+FXYD5,FXYD domain-containing ion transport regulator 5,AF,rs756845,G,A,False,1648.848,0.04954845,1.3733644e-08,protein_to_disease_supported,aligned,1.0005266,0.98549381,0.995872
+CD22,B-cell receptor CD22,AF,rs10411704,T,G,False,1150.795,0.02926047,2.0498775e-05,protein_to_disease_supported,flipped,1.0268215,0.35880367,0.869993
+SPINT2,Kunitz-type protease inhibitor 2,AF,rs45437199,A,G,False,404.508,0.010868066,0.49590047,direction_uncertain,flipped_complement,0.0011651165,0.1031917,0.634898
+LGALS4,Galectin-4,AF,rs140695578,T,A,True,208.038,0.0048426384,1.9582011e-05,protein_to_disease_supported,aligned,0.93838983,0.41420636,0.869993
+CEACAM21,Carcinoembryonic antigen-related cell adhesion molecule 21,AF,rs140838345,AGAATC,A,False,18845.907,0.55609131,0.0003222243,protein_to_disease_supported,aligned,0.97621575,0.13106869,0.702553
+CXCL17,C-X-C motif chemokine 17,AF,rs11668599,G,A,False,90.777,0.00200162,0.00014739061,protein_to_disease_supported,aligned,1.3117458,0.0087171855,0.28418
+PINLYP,phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein,AF,rs3213276,T,C,False,9895.202,0.28481012,3.9250997e-07,protein_to_disease_supported,flipped,1.0011746,0.89470513,0.984187
+PLAUR,Urokinase plasminogen activator surface receptor,AF,rs2302524,C,T,False,333.638,0.0086513569,2.0483379e-05,protein_to_disease_supported,aligned,1.0498618,0.34463083,0.859819
+APOE,Apolipoprotein E,AF,rs429358,C,T,False,9521.444,0.2692152,2.322752e-05,protein_to_disease_supported,aligned,1.0093319,0.32243144,0.857964
+APOC1,Apolipoprotein C-I,AF,rs5112,G,C,True,2029.740,0.059202882,3.9025917e-06,protein_to_disease_supported,aligned,1.0081521,0.71612957,0.904093
+SULT2A1,Bile salt sulfotransferase,AF,rs62129966,A,C,False,1405.104,0.03919287,1.0222273e-05,protein_to_disease_supported,flipped,0.9839798,0.50730271,0.904093
+CGB3_CGB5_CGB8,Choriogonadotropin subunit beta 3,AF,rs7252920,C,A,False,75.671,0.0018788032,6.8393351e-06,protein_to_disease_supported,aligned,0.94144949,0.59710278,0.904093
+KLK7,Kallikrein-7,AF,rs1991821,G,A,False,2768.756,0.078719287,3.7711556e-06,protein_to_disease_supported,aligned,0.99310245,0.70323858,0.904093
+SIGLEC10,Sialic acid-binding Ig-like lectin 10,AF,rs148783636,C,T,False,3030.237,0.096050964,9.6599895e-09,protein_to_disease_supported,aligned,0.99968292,0.98638488,0.995872
+OSCAR,Osteoclast-associated immunoglobulin-like receptor,AF,rs4442925,T,C,False,4694.407,0.13431055,1.7810954e-07,protein_to_disease_supported,flipped,1.0011522,0.93070607,0.986349
+LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,AF,rs111949142,A,T,True,5622.220,0.15718916,6.0866402e-06,protein_to_disease_supported,flipped,0.99379664,0.79123605,0.922471
+LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,AF,rs417477,G,A,False,1357.202,0.030278792,0.00023439377,protein_to_disease_supported,aligned,0.91577552,0.13303458,0.702553
+FCAR,Immunoglobulin alpha Fc receptor,AF,rs12608573,G,C,True,8452.456,0.24246948,3.06485e-06,protein_to_disease_supported,aligned,0.99645101,0.72098486,0.904093
+NCR1,Natural cytotoxicity triggering receptor 1,AF,rs7255591,C,G,True,1076.419,0.02938816,8.5551566e-05,protein_to_disease_supported,flipped,1.0554366,0.051277211,0.570142
+A1BG,Alpha-1B-glycoprotein,AF,rs145144275,G,A,False,3192.892,0.080883992,9.3319132e-05,protein_to_disease_supported,aligned,0.96660364,0.077011987,0.579367
+SIRPB1,Signal-regulatory protein beta-1,AF,rs79462675,A,C,False,7461.454,0.20655852,5.8552833e-07,protein_to_disease_supported,flipped,1.0016851,0.8811333,0.97926
+ATRN,"Attractin, Isoform 2",AF,rs78971233,A,T,True,6155.157,0.16883902,4.456458e-05,protein_to_disease_supported,flipped,0.98388481,0.15033302,0.717809
+SIGLEC1,Sialoadhesin,AF,rs189448562,C,G,True,2723.399,0.075545926,0.000102903,protein_to_disease_supported,flipped,0.96376578,0.29549001,0.833073
+ISM1,Isthmin-1,AF,rs1998123,G,A,False,539.728,0.014738213,1.056022e-07,protein_to_disease_supported,aligned,1.0026804,0.94385736,0.988322
+DTD1,D-aminoacyl-tRNA deacylase 1,AF,rs6081238,A,G,False,452.068,0.012882657,2.2711051e-06,protein_to_disease_supported,flipped,1.013366,0.7498474,0.909608
+CST1,Cystatin-SN,AF,rs4549181,T,C,False,4621.996,0.14250572,1.6793084e-08,protein_to_disease_supported,flipped,1.0003433,0.97900546,0.995872
+CST7,Cystatin-F,AF,rs227651,G,A,False,8599.938,0.24817288,7.4686113e-05,protein_to_disease_supported,aligned,0.98280187,0.073434067,0.570142
+ADA,Adenosine deaminase,AF,rs11555566,C,T,False,6870.606,0.19234052,8.3096701e-05,protein_to_disease_supported,aligned,0.97942922,0.062865741,0.570142
+CD40,Tumor necrosis factor receptor superfamily member 5,AF,rs4810485,G,T,False,2367.481,0.06718019,6.0190108e-05,protein_to_disease_supported,aligned,0.97051111,0.099075819,0.634898
+ZBP1,Z-DNA-binding protein 1,AF,rs45521631,T,C,False,1482.260,0.042929582,0.00012130446,protein_to_disease_supported,flipped,0.94823118,0.048674876,0.570142
+CXADR,Coxsackievirus and adenovirus receptor,AF,rs2849900,C,T,False,247.848,0.0067661532,6.4042697e-06,protein_to_disease_supported,aligned,0.96970295,0.75149654,0.909608
+IL10RB,Interleukin-10 receptor subunit beta,AF,rs2515717,A,G,False,5040.311,0.13994946,4.0983246e-05,protein_to_disease_supported,flipped,1.0172599,0.4905754,0.904093
+TFF2,Trefoil factor 2,AF,rs225344,A,G,False,240.496,0.006207857,7.0295771e-05,protein_to_disease_supported,flipped,1.1122809,0.072288435,0.570142
+BID,BH3-interacting domain death agonist,AF,rs183393610,A,G,False,73.315,0.0023854007,1.0575842e-06,protein_to_disease_supported,flipped,1.0212793,0.85031214,0.955868
+SERPIND1,Heparin cofactor 2,AF,rs117254553,T,G,False,131.707,0.0040821678,8.8492399e-06,protein_to_disease_supported,flipped,0.95450784,0.69541736,0.904093
+IGLC2,Immunoglobulin lambda constant 2,AF,rs2856876,A,C,False,390.106,0.010769383,1.1549589e-05,protein_to_disease_supported,flipped,1.0332904,0.4665185,0.892952
+BCR,Breakpoint cluster region protein,AF,rs149005797,C,T,False,66.507,0.0024591788,2.1867022e-05,protein_to_disease_supported,aligned,0.91001207,0.48117132,0.904093
+OSM,Oncostatin-M,AF,rs4823082,C,G,True,57.757,0.0015852606,6.9872728e-06,protein_to_disease_supported,flipped,1.0686435,0.56637762,0.904093
+TIMP3,Metalloproteinase inhibitor 3,AF,rs5749504,T,C,False,6009.119,0.16879325,3.5136348e-05,protein_to_disease_supported,flipped,1.0145324,0.21614571,0.769429
+APOL1,Apolipoprotein L1,AF,rs136168,A,G,False,1305.582,0.030671838,2.7336497e-06,protein_to_disease_supported,flipped,1.0094853,0.72721153,0.904851
+CSF2RB,Cytokine receptor common subunit beta,AF,rs2239749,G,A,False,20906.341,0.62523942,2.2290771e-05,protein_to_disease_supported,aligned,1.0059888,0.32447962,0.857964
+ST13,Hsc70-interacting protein,AF,rs1005402,C,T,False,53.173,0.001446477,9.8961776e-05,protein_to_disease_supported,aligned,0.7698466,0.035336806,0.570142
+NAGA,Alpha-N-acetylgalactosaminidase,AF,rs121434529,T,C,False,586.657,0.016494568,1.9958089e-05,protein_to_disease_supported,flipped,0.96581328,0.48334384,0.904093
+CRELD2,Protein disulfide isomerase CRELD2,AF,rs74510325,G,C,True,1623.519,0.044412117,5.8873932e-05,protein_to_disease_supported,aligned,1.0370801,0.14084899,0.71745
+SCG3,Secretogranin-3,HF,rs2606134,C,G,True,6711.376,0.184392,0.00014433784,protein_to_disease_supported,aligned,1.0283732,0.035171099,0.457404
+SERPINA4,Kallistatin,HF,rs5511,T,A,True,4664.533,0.1310058,2.323338e-06,protein_to_disease_supported,flipped,1.0042201,0.77980751,0.971009
+CXCL14,C-X-C motif chemokine 14,HF,rs13171268,G,C,True,94.196,0.0023642962,3.0129408e-05,protein_to_disease_supported,flipped,1.1195055,0.31129905,0.848366
+CCL7,C-C motif chemokine 7,HF,rs6505397,A,T,True,207.586,0.0054265977,1.5814732e-06,protein_to_disease_supported,aligned,1.0172179,0.81976433,0.971009
+KLRD1,Natural killer cells antigen CD94,HF,rs2537752,A,T,True,3252.711,0.083805062,0.00016613739,protein_to_disease_supported,aligned,1.0455305,0.02007196,0.441689
+APPL2,DCC-interacting protein 13-beta,HF,rs10778371,A,G,False,272.542,0.0077645187,2.691937e-06,protein_to_disease_supported,aligned,0.98155247,0.76417716,0.971009
+TIMP3,Metalloproteinase inhibitor 3,HF,rs5749504,T,C,False,6009.119,0.16879325,6.0160458e-05,protein_to_disease_supported,aligned,0.98129813,0.1669648,0.752259
+APOL1,Apolipoprotein L1,HF,rs136168,A,G,False,1305.582,0.030671838,1.1302123e-05,protein_to_disease_supported,aligned,1.0193814,0.54586997,0.946293
+SCGB3A2,Secretoglobin family 3A member 2,HF,rs17717320,G,C,True,700.391,0.019456855,1.0285244e-06,protein_to_disease_supported,flipped,0.99275575,0.85572542,0.971009
+GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,HF,rs2289218,A,T,True,225.944,0.0061473474,1.5017392e-05,protein_to_disease_supported,aligned,1.0506676,0.48073046,0.930125
+SAMD9L,Sterile alpha motif domain-containing protein 9-like,HF,rs17165120,C,A,False,1482.854,0.041288222,2.1692181e-05,protein_to_disease_supported,flipped,0.97733943,0.41357988,0.897184
+PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",HF,rs7358070,C,G,True,62.496,0.0018278517,2.1485564e-07,protein_to_disease_supported,aligned,0.98921672,0.93278822,0.988165
+CLEC4D,C-type lectin domain family 4 member D,HF,rs4242896,C,A,False,4919.351,0.1380468,1.2535861e-06,protein_to_disease_supported,flipped,0.99699109,0.83747196,0.971009
+VASH1,Tubulinyl-Tyr carboxypeptidase 1,HF,rs11159226,G,T,False,173.596,0.0049439104,2.5265162e-07,protein_to_disease_supported,flipped,1.0071743,0.92290572,0.988165
+JAM3,Junctional adhesion molecule C,HF,rs94499,G,A,False,183.617,0.0052089351,1.2341629e-06,protein_to_disease_supported,flipped,0.98472527,0.83811823,0.971009
+IL12B,Interleukin-12 subunit beta,HF,rs4244437,A,G,False,5264.930,0.13686458,3.4272058e-06,protein_to_disease_supported,aligned,1.0050166,0.73888268,0.971009
+SHH,Sonic hedgehog protein,HF,rs10225434,C,T,False,51.977,0.001566536,1.1687353e-05,protein_to_disease_supported,flipped,1.090215,0.53509112,0.946293
+SELENOP,Selenoprotein P,HF,rs10038285,A,G,False,147.241,0.0041792492,6.1201165e-05,protein_to_disease_supported,aligned,1.1286392,0.16486654,0.751059
+IL17C,Interleukin-17C,HF,rs17700884,T,G,False,234.116,0.0066625028,1.7754985e-05,protein_to_disease_supported,aligned,0.94968703,0.4495907,0.912536
+CAT,Catalase,HF,rs2284368,C,T,False,453.611,0.011615849,7.737305e-07,protein_to_disease_supported,flipped,0.99187173,0.87321629,0.972877
+CNTNAP2,Contactin-associated protein-like 2,HF,rs7810370,G,A,False,4713.173,0.12536052,2.4825492e-05,protein_to_disease_supported,flipped,0.98602614,0.36995817,0.871741
+PZP,Pregnancy zone protein,HF,rs7311982,C,T,False,2986.581,0.045675104,8.5259803e-05,protein_to_disease_supported,flipped,1.0441518,0.094048359,0.606285
+CXCL17,C-X-C motif chemokine 17,HF,rs11668599,G,A,False,90.777,0.00200162,0.00013214633,protein_to_disease_supported,flipped,1.2929714,0.032858925,0.457404
+MAPK9,Mitogen-activated protein kinase 9,HF,rs3763131,C,T,False,227.155,0.0064255971,5.3079607e-07,protein_to_disease_supported,flipped,0.99095237,0.89446777,0.976506
+ACHE,Acetylcholinesterase,HF,rs6976053,T,C,False,1856.875,0.048868109,0.00013401571,protein_to_disease_supported,aligned,1.0537633,0.035503891,0.457404
+CD36,Platelet glycoprotein 4,HF,rs6961069,T,C,False,1274.655,0.035903714,4.3309766e-06,protein_to_disease_supported,aligned,1.0110436,0.70413335,0.971009
+MOCS2,Molybdopterin synthase catalytic subunit,HF,rs6880055,G,A,False,3176.562,0.090586952,4.0517792e-08,protein_to_disease_supported,flipped,0.99933143,0.97081561,0.988726
+CLEC4C,C-type lectin domain family 4 member C,HF,rs10845821,T,C,False,12576.329,0.34999845,1.9135126e-05,protein_to_disease_supported,aligned,0.99263321,0.43098923,0.91207
+CSF2RB,Cytokine receptor common subunit beta,HF,rs2239749,G,A,False,20906.341,0.62523942,2.433165e-05,protein_to_disease_supported,flipped,1.0062577,0.3755766,0.872653
+SLITRK1,SLIT and NTRK-like protein 1,HF,rs2876803,A,T,True,258.239,0.0069932114,3.0784737e-06,protein_to_disease_supported,aligned,0.97923742,0.75555679,0.971009
+CD72,B-cell differentiation antigen CD72,HF,rs869487,G,C,True,335.433,0.009496317,3.1616303e-05,protein_to_disease_supported,flipped,1.0593974,0.3122432,0.848366
+CD22,B-cell receptor CD22,HF,rs10411704,T,G,False,1150.795,0.02926047,3.2378901e-06,protein_to_disease_supported,aligned,0.98953575,0.7541809,0.971009
+TTR,Transthyretin,HF,rs1667229,C,T,False,270.184,0.0068694691,1.8485648e-05,protein_to_disease_supported,flipped,1.0532438,0.44002447,0.912536
+ANXA11,Annexin A11,HF,rs2784773,C,T,False,70.560,0.0020131953,4.0507845e-05,protein_to_disease_supported,flipped,0.86775218,0.25165389,0.841464
+TNFAIP8,Tumor necrosis factor alpha-induced protein 8,HF,rs1035376,A,G,False,106.256,0.0031221677,7.9746807e-06,protein_to_disease_supported,aligned,0.95071664,0.59300757,0.946293
+ESM1,Endothelial cell-specific molecule 1,HF,rs4242051,C,T,False,501.152,0.013922739,7.9740463e-05,protein_to_disease_supported,flipped,1.0786166,0.11106901,0.615382
+GZMA,Granzyme A,HF,rs2047745,C,T,False,60.406,0.0016057816,8.5908979e-06,protein_to_disease_supported,flipped,1.075885,0.5990458,0.946293
+PRSS22,Brain-specific serine protease 4,HF,rs8046218,T,C,False,1005.186,0.029580809,7.3725968e-06,protein_to_disease_supported,aligned,0.98433676,0.63354429,0.957279
+APOA4,Apolipoprotein A-IV,HF,rs1729407,G,C,True,344.631,0.0099104602,1.6045948e-06,protein_to_disease_supported,flipped,1.0128057,0.81976433,0.971009
+PLXNA4,Plexin-A4,HF,rs6467443,T,G,False,125.850,0.0036845147,3.7431038e-05,protein_to_disease_supported,aligned,0.90412113,0.28886897,0.841464
+ITGAL,Integrin alpha-L,HF,rs11574938,C,G,True,424.250,0.01220368,0.00031469291,protein_to_disease_supported,aligned,1.1741946,0.0014869666,0.121931
+C1QTNF9,Complement C1q and tumor necrosis factor-related protein 9A,HF,rs1961993,A,C,False,14309.988,0.41938712,7.1270716e-07,protein_to_disease_supported,aligned,1.0013045,0.88193647,0.974199
+CKAP4,Cytoskeleton-associated protein 4,HF,rs2704895,A,G,False,658.161,0.017221041,8.633965e-06,protein_to_disease_supported,aligned,0.97785772,0.60248288,0.946293
+OSM,Oncostatin-M,HF,rs4823082,C,G,True,57.757,0.0015852606,3.3084569e-05,protein_to_disease_supported,aligned,0.86548527,0.30286778,0.848366
+IDO1,"Indoleamine 2,3-dioxygenase 1",HF,rs7010461,T,C,False,1185.839,0.033994947,2.1183551e-05,protein_to_disease_supported,aligned,0.97534626,0.42771755,0.91207
+IL10,Interleukin-10,HF,rs3024495,T,C,False,175.988,0.0051439899,1.2589308e-06,protein_to_disease_supported,aligned,0.98447762,0.84004583,0.971009
+IL1R2,Interleukin-1 receptor type 2,HF,rs2310170,G,T,False,4695.183,0.12806628,9.5389818e-05,protein_to_disease_supported,flipped,1.0276677,0.07429212,0.56407
+PROK1,Prokineticin-1,HF,rs1857513,A,G,False,3938.417,0.061252636,2.8886836e-05,protein_to_disease_supported,aligned,1.0219539,0.33556611,0.854294
+ITGB6,Integrin beta-6,HF,rs6432601,G,A,False,1380.363,0.035551523,3.005035e-05,protein_to_disease_supported,flipped,0.97134518,0.31731051,0.853675
+MGLL,Monoglyceride lipase,HF,rs7578,A,G,False,63.959,0.0017872931,1.0441313e-05,protein_to_disease_supported,aligned,1.0794296,0.55536257,0.946293
+CD83,CD83 antigen,HF,rs12526086,A,G,False,512.763,0.013786353,8.9692051e-05,protein_to_disease_supported,aligned,1.0840011,0.083419167,0.606285
+CFHR2,Complement factor H-related protein 2,HF,rs4085749,T,C,False,13071.945,0.37774939,6.5891255e-05,protein_to_disease_supported,aligned,1.0132948,0.13645302,0.672724
+FN1,Fibronectin,HF,rs1250259,A,T,True,2790.979,0.07775808,4.4867808e-06,protein_to_disease_supported,aligned,0.99243261,0.69594168,0.971009
+ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,HF,rs9472701,A,G,False,11030.270,0.27799338,0.00011175572,protein_to_disease_supported,aligned,0.98014952,0.057113783,0.495811
+ENAH,Protein enabled homolog,HF,rs10799316,A,G,False,195.684,0.0057352146,9.1272141e-05,protein_to_disease_supported,aligned,1.1344546,0.087910982,0.606285
+MERTK,Tyrosine-protein kinase Mer,HF,rs10188640,A,G,False,1291.064,0.033050367,5.0662364e-05,protein_to_disease_supported,aligned,1.0399286,0.19915923,0.79277
+CCN2,CCN family member 2,HF,rs7767139,G,C,True,1500.522,0.042804682,7.4197914e-05,protein_to_disease_supported,flipped,1.0425131,0.1192582,0.643367
+F13B,Coagulation factor XIII B chain,HF,rs12134960,C,G,True,3096.279,0.083463552,6.5955081e-05,protein_to_disease_supported,aligned,1.0285098,0.13857138,0.672724
+GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,HF,rs2116546,C,T,False,2217.998,0.063372159,3.7650698e-08,protein_to_disease_supported,flipped,1.0007711,0.97184521,0.988726
+IL22RA1,Interleukin-22 receptor subunit alpha-1,HF,rs7355101,T,A,True,1092.835,0.031698068,5.8132543e-06,protein_to_disease_supported,flipped,1.0136344,0.66082421,0.958188
+CSF1,Macrophage colony-stimulating factor 1,HF,rs11577194,C,T,False,624.598,0.01737467,5.1899516e-05,protein_to_disease_supported,flipped,1.0561753,0.19097769,0.782751
+SUMF1,Formylglycine-generating enzyme,HF,rs10494172,C,G,True,202.414,0.0060537364,3.4440594e-05,protein_to_disease_supported,aligned,0.92734795,0.28106853,0.841464
+EPHA4,Ephrin type-A receptor 4,HF,rs10932916,A,G,False,379.738,0.0097163527,1.7985608e-07,protein_to_disease_supported,aligned,1.0043117,0.93868474,0.988165
+CLEC3B,Tetranectin,HF,rs13065490,T,A,True,804.473,0.022277079,2.8679192e-06,protein_to_disease_supported,flipped,0.98871782,0.75898177,0.971009
+LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,HF,rs11172841,C,A,False,97.818,0.0028288988,6.14564e-06,protein_to_disease_supported,flipped,0.95446,0.65501333,0.958188
+TGOLN2,Trans-Golgi network integral membrane protein 2,HF,rs4247303,A,G,False,9172.998,0.25513157,1.6179158e-06,protein_to_disease_supported,aligned,0.99748494,0.81749409,0.971009
+CXCL9,C-X-C motif chemokine 9,HF,rs13118503,T,C,False,345.080,0.0081751661,3.5139857e-05,protein_to_disease_supported,aligned,0.93654105,0.28151463,0.841464
+CD5L,CD5 antigen-like,HF,rs2765501,A,G,False,690.891,0.019157216,3.8926767e-05,protein_to_disease_supported,aligned_complement,0.95592358,0.53197106,0.946293
+IL17RB,Interleukin-17 receptor B,HF,rs6445607,T,G,False,10598.818,0.30549327,6.7522939e-05,protein_to_disease_supported,aligned,0.98524292,0.13847832,0.672724
+HEG1,Protein HEG homolog 1,HF,rs6438868,G,C,True,225.401,0.005608439,0.00013335157,protein_to_disease_supported,flipped,1.1667216,0.035728841,0.457404
+ITGA6,Integrin alpha-6,HF,rs6714597,C,T,False,802.064,0.022729686,4.2641094e-05,protein_to_disease_supported,flipped,0.95761169,0.24491443,0.836791
+PADI2,Protein-arginine deiminase type-2,HF,rs2235913,A,G,False,238.347,0.0070406309,2.5173279e-05,protein_to_disease_supported,aligned,0.94195771,0.36746362,0.871741
+C5,Complement C5,HF,rs4837810,C,T,False,349.132,0.0099790338,9.8838578e-06,protein_to_disease_supported,flipped,0.96901846,0.56399142,0.946293
+GHR,Growth hormone receptor,HF,rs4073476,C,A,False,6428.516,0.18645453,7.0269318e-05,protein_to_disease_supported,flipped,1.0196028,0.13946727,0.672724
+SULT2A1,Bile salt sulfotransferase,HF,rs62129966,A,C,False,1405.104,0.03919287,8.0330416e-05,protein_to_disease_supported,aligned,0.95573681,0.10669942,0.60814
+IL31RA,Interleukin-31 receptor subunit alpha,HF,rs161651,T,C,False,5788.118,0.16871236,3.8276473e-05,protein_to_disease_supported,aligned,1.0151764,0.25807513,0.841464
+DTD1,D-aminoacyl-tRNA deacylase 1,HF,rs6081238,A,G,False,452.068,0.012882657,2.6394558e-05,protein_to_disease_supported,aligned,0.95574498,0.35448448,0.859992
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,HF,rs79671623,A,G,False,55.032,0.0015513752,1.6895078e-05,protein_to_disease_supported,aligned,1.1099967,0.47853461,0.930125
+TRIM5,Tripartite motif-containing protein 5,HF,rs11821656,C,G,True,1434.649,0.040018945,3.1224847e-06,protein_to_disease_supported,aligned,1.0088723,0.75216231,0.971009
+KRT19,"Keratin, type I cytoskeletal 19",HF,rs7405611,A,G,False,366.490,0.010168767,4.8113409e-06,protein_to_disease_supported,aligned,0.97848288,0.69279733,0.971009
+FCN1,Ficolin-1,HF,rs11103604,T,G,False,2751.138,0.076406738,1.7533039e-05,protein_to_disease_supported,aligned,1.0152636,0.4464399,0.912536
+SPINT2,Kunitz-type protease inhibitor 2,HF,rs45437199,A,G,False,404.508,0.010868066,1.0774694e-05,protein_to_disease_supported,aligned,0.9690039,0.54447451,0.946293
+SAA4,Serum amyloid A-4 protein,HF,rs7117890,A,G,False,2307.488,0.066029828,7.1835492e-07,protein_to_disease_supported,aligned,0.99670706,0.87926681,0.974199
+CD226,CD226 antigen,HF,rs13381239,A,T,True,1190.970,0.034728645,1.7942291e-07,protein_to_disease_supported,aligned,0.9977296,0.93868474,0.988165
+PINLYP,phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein,HF,rs3213276,T,C,False,9895.202,0.28481012,6.9973383e-06,protein_to_disease_supported,aligned,1.004969,0.63478697,0.957279
+SERPINA5,Plasma serine protease inhibitor,HF,rs1130267,A,G,False,695.221,0.019364719,4.804787e-07,protein_to_disease_supported,aligned,0.99503121,0.89927102,0.977987
+IL12RB1,Interleukin-12 receptor subunit beta-1,HF,rs369378,A,G,False,2489.321,0.069791928,1.9883605e-05,protein_to_disease_supported,aligned,0.98326272,0.42730347,0.91207
+EPHA1,Ephrin type-A receptor 1,HF,rs75045569,G,T,False,783.681,0.019317423,6.3649477e-05,protein_to_disease_supported,flipped,0.94421494,0.15634389,0.724734
+PRKG1,cGMP-dependent protein kinase 1,HF,rs1937682,T,A,True,603.697,0.017210954,6.3911911e-06,protein_to_disease_supported,flipped,0.98091419,0.64441233,0.957279
+IL17D,Interleukin-17D,HF,rs4770059,C,T,False,2540.523,0.061441415,1.2605511e-05,protein_to_disease_supported,flipped,1.0144266,0.51716136,0.946293
+TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,HF,rs113339733,A,G,False,4074.048,0.11122055,4.4798433e-07,protein_to_disease_supported,aligned,0.99799505,0.90725244,0.984057
+IL4R,Interleukin-4 receptor subunit alpha,HF,rs8060025,G,T,False,1720.131,0.046873513,8.5258129e-05,protein_to_disease_supported,flipped,0.95824812,0.093934232,0.606285
+DAPK2,Death-associated protein kinase 2,HF,rs34772505,T,C,False,2545.520,0.073570588,9.0639015e-06,protein_to_disease_supported,aligned,0.98896182,0.58623243,0.946293
+F2R,Proteinase-activated receptor 1,HF,rs168753,T,A,True,229.846,0.0066039876,0.00015375807,protein_to_disease_supported,flipped,1.1648431,0.028620162,0.457404
+ICAM4,Intercellular adhesion molecule 4,HF,rs5030377,G,A,False,301.876,0.0061894527,1.3593297e-06,protein_to_disease_supported,flipped,1.0149299,0.83376403,0.971009
+HMCN2,Hemicentin-2,HF,rs6415851,G,A,False,6789.361,0.19465069,6.0465534e-07,protein_to_disease_supported,flipped,1.001764,0.88784969,0.974199
+TNFSF12,Tumor necrosis factor ligand superfamily member 12,HF,rs80067372,A,G,False,2049.003,0.056948167,4.5257901e-05,protein_to_disease_supported,aligned,0.97220286,0.22747199,0.818101
+CXCL12,Stromal cell-derived factor 1,HF,rs11239028,T,C,False,580.530,0.017094851,2.7949696e-05,protein_to_disease_supported,aligned,1.0412635,0.34697336,0.856601
+PIK3AP1,Phosphoinositide 3-kinase adapter protein 1,HF,rs41317268,G,A,False,615.679,0.016608227,2.8233862e-06,protein_to_disease_supported,flipped,0.98704626,0.76186677,0.971009
+ADGRD1,Adhesion G-protein coupled receptor D1,HF,rs4759533,A,G,False,2890.105,0.068582232,4.2708148e-06,protein_to_disease_supported,aligned,0.99213974,0.7165089,0.971009
+STX7,Syntaxin-7,HF,rs3813356,T,C,False,6179.499,0.17252306,1.2678335e-06,protein_to_disease_supported,aligned,1.0027145,0.84148058,0.971009
+IL7,Interleukin-7,HF,rs146201210,T,C,False,198.821,0.0057557576,2.2394695e-05,protein_to_disease_supported,aligned,0.93952904,0.39136594,0.876831
+DNAJB6,DnaJ homolog subfamily B member 6,HF,rs12668458,C,T,False,606.970,0.018112954,3.0208554e-05,protein_to_disease_supported,flipped,1.0416839,0.33556611,0.854294
+ORM1,Alpha-1-acid glycoprotein 1,HF,rs10982156,A,T,True,2262.680,0.07072127,1.1153337e-05,protein_to_disease_supported,aligned,1.0126374,0.55861115,0.946293
+CD276,CD276 antigen,HF,rs2291014,A,G,False,11559.557,0.31626828,4.0769958e-06,protein_to_disease_supported,aligned,0.99641604,0.72018695,0.971009
+C1R,Complement C1r subcomponent,HF,rs10849546,A,G,False,1749.084,0.049357946,0.00011738816,protein_to_disease_supported,aligned,1.0499766,0.055552481,0.495811
+PSTPIP2,Proline-serine-threonine phosphatase-interacting protein 2,HF,rs72642432,A,G,False,392.901,0.011703575,4.036605e-06,protein_to_disease_supported,aligned,1.0187451,0.71961427,0.971009
+SERPINA3,Alpha-1-antichymotrypsin,HF,rs61976127,G,A,False,2081.446,0.060414426,5.5846432e-05,protein_to_disease_supported,flipped,0.97005378,0.17813015,0.778673
+PENK,Proenkephalin-A,HF,rs2576575,T,C,False,1617.246,0.044957194,4.6830257e-05,protein_to_disease_supported,aligned,0.96824046,0.21950399,0.808653
+SPINK4,Serine protease inhibitor Kazal-type 4,HF,rs4879679,T,C,False,11624.256,0.32864095,2.0770488e-06,protein_to_disease_supported,aligned,0.99748917,0.79543521,0.971009
+PCDH1,Protocadherin-1,HF,rs4645358,T,C,False,119.107,0.0031946247,2.8156519e-06,protein_to_disease_supported,aligned,1.030133,0.76417716,0.971009
+WFIKKN2,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2",HF,rs4591185,A,T,True,7351.844,0.20814875,5.8354371e-06,protein_to_disease_supported,aligned,0.99471919,0.66823514,0.961321
+TBCA,Tubulin-specific chaperone A,HF,rs254415,T,G,False,289.778,0.0082985776,6.1211058e-06,protein_to_disease_supported,aligned,1.0275311,0.65859018,0.958188
+CPB2,Carboxypeptidase B2,HF,rs6561283,G,A,False,6348.282,0.17685343,1.7472162e-05,protein_to_disease_supported,flipped,0.99010969,0.46157021,0.914221
+PEPD,Xaa-Pro dipeptidase,HF,rs17569,A,G,False,2328.472,0.064159669,1.4468246e-05,protein_to_disease_supported,aligned,1.0151301,0.49322707,0.944968
+SFRP4,Secreted frizzled-related protein 4,HF,rs75207237,A,T,True,705.312,0.019546258,8.0730124e-07,protein_to_disease_supported,aligned,1.0064474,0.87208005,0.972877
+RNASE1,Ribonuclease pancreatic,HF,rs17254387,A,G,False,743.473,0.02000264,2.7852087e-05,protein_to_disease_supported,aligned,0.96337248,0.35183573,0.858647
+CCL23,C-C motif chemokine 23,HF,rs712048,C,A,False,2634.322,0.073639627,9.105703e-05,protein_to_disease_supported,flipped,1.0357898,0.098352731,0.606285
+SHBG,Sex hormone-binding globulin,HF,rs858519,C,T,False,1578.962,0.036957817,1.7756253e-07,protein_to_disease_supported,flipped,0.99781049,0.94021471,0.988165
+CD4,T-cell surface glycoprotein CD4,HF,rs73053728,G,A,False,1979.111,0.054456212,3.0478261e-05,protein_to_disease_supported,flipped,1.0239397,0.32297045,0.853675
+CTSC,Dipeptidyl peptidase 1,HF,rs11600158,G,A,False,6258.999,0.173605,1.3433815e-05,protein_to_disease_supported,flipped,0.9912419,0.52841016,0.946293
+SHMT1,"Serine hydroxymethyltransferase, cytosolic",HF,rs669340,C,G,True,8433.666,0.24020849,1.3534915e-05,protein_to_disease_supported,aligned,0.99252167,0.5101934,0.946293
+APOA1,Apolipoprotein A-I,HF,rs2727784,T,C,False,72.347,0.0018404518,5.5073207e-05,protein_to_disease_supported,aligned,0.8411504,0.17977004,0.778673
+SERPINA1,Alpha-1-antitrypsin,HF,rs17580,A,T,True,451.328,0.013212833,1.3575807e-05,protein_to_disease_supported,aligned,0.9684541,0.54850624,0.946293
+MMP1,Interstitial collagenase,HF,rs534191,T,C,False,3263.421,0.099566637,3.4979843e-05,protein_to_disease_supported,aligned,0.98143101,0.29371811,0.842129
+ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,HF,rs8076533,T,C,False,14190.734,0.41926113,0.00015214202,protein_to_disease_supported,aligned,1.019232,0.027291915,0.457404
+PCBD1,Pterin-4-alpha-carbinolamine dehydratase,HF,rs2630336,T,G,False,547.649,0.015155029,2.9498005e-07,protein_to_disease_supported,aligned,1.0044216,0.92228091,0.988165
+NTF3,Neurotrophin-3,HF,rs73039984,T,C,False,375.124,0.010739689,2.1599038e-05,protein_to_disease_supported,aligned,1.0458665,0.42012664,0.906589
+GLRX5,"Glutaredoxin-related protein 5, mitochondrial",HF,rs179133,T,C,False,241.617,0.0072327779,7.6405405e-07,protein_to_disease_supported,aligned,1.010331,0.87288107,0.972877
+ASGR2,Asialoglycoprotein receptor 2,HF,rs2304978,T,C,False,1555.614,0.043465326,0.00023710919,protein_to_disease_supported,aligned,1.0766549,0.0070045216,0.285537
+SELPLG,P-selectin glycoprotein ligand 1,HF,rs7294337,T,C,False,4340.489,0.12227843,0.00015383773,protein_to_disease_supported,aligned,1.0361062,0.023489851,0.457404
+ATRN,"Attractin, Isoform 2",HF,rs78971233,A,T,True,6155.157,0.16883902,1.0513603e-05,protein_to_disease_supported,aligned,1.0079224,0.54134627,0.946293
+LIFR,Leukemia inhibitory factor receptor,HF,rs62353655,A,G,False,417.936,0.011273855,4.2097364e-05,protein_to_disease_supported,aligned,0.94072254,0.24441544,0.836791
+VEGFA,Vascular endothelial growth factor A,HF,rs6921438,A,G,False,8670.031,0.23648073,7.9970447e-08,protein_to_disease_supported,aligned,0.99941865,0.95961804,0.988726
+PAPPA,Pappalysin-1,HF,rs117448041,C,T,False,50.306,0.0013486761,3.1282152e-05,protein_to_disease_supported,flipped,1.1645073,0.28938144,0.841464
+FOXO1,Forkhead box protein O1,HF,rs17061453,T,A,True,230.568,0.0064587427,1.2543906e-06,protein_to_disease_supported,flipped,0.98616052,0.86116772,0.971009
+CLU,Clusterin,HF,rs553014,T,C,False,156.951,0.0044330209,4.2291843e-05,protein_to_disease_supported,aligned,0.90694463,0.24419837,0.836791
+CD84,SLAM family member 5,HF,rs11265440,G,A,False,227.916,0.0063649747,6.022615e-09,protein_to_disease_supported,flipped,0.99902774,0.98835246,0.994067
+SMOC2,SPARC-related modular calcium-binding protein 2,HF,rs56296467,C,T,False,2553.855,0.06268535,0.00012992629,protein_to_disease_supported,flipped,0.95549416,0.040810066,0.468736
+CASP9,Caspase-9,HF,rs12024833,G,A,False,112.471,0.0033080281,3.8624535e-05,protein_to_disease_supported,flipped,0.89757774,0.26531177,0.841464
+RABGAP1L,Rab GTPase-activating protein 1-like,HF,rs6661868,G,A,False,95.657,0.0027272422,6.3045468e-05,protein_to_disease_supported,flipped,0.85895175,0.15732039,0.724734
+LY75,Lymphocyte antigen 75,HF,rs72957586,A,G,False,14940.201,0.43076621,2.6099858e-06,protein_to_disease_supported,aligned,0.99754154,0.77094483,0.971009
+KLKB1,Plasma kallikrein,HF,rs4253306,T,G,False,2321.446,0.057079107,5.1004945e-05,protein_to_disease_supported,aligned,1.0303441,0.20653244,0.800798
+CFH,Complement factor H,HF,rs731557,A,C,False,1890.464,0.055469611,8.00474e-05,protein_to_disease_supported,aligned,1.0387187,0.10959858,0.615382
+BCL2L15,Bcl-2-like protein 15,HF,rs1230715,C,A,False,489.816,0.013810502,3.1049972e-05,protein_to_disease_supported,flipped,1.0485582,0.32303743,0.853675
+CR1,Complement receptor type 1,HF,rs679515,C,T,False,3046.054,0.083872761,1.0369519e-05,protein_to_disease_supported,flipped,0.98894251,0.54850624,0.946293
+PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",HF,rs58583086,G,A,False,409.532,0.011685772,3.4154675e-06,protein_to_disease_supported,flipped,1.017243,0.73888268,0.971009
+FCRL6,Fc receptor-like protein 6,HF,rs55650803,T,C,False,8898.571,0.24681225,8.4021399e-06,protein_to_disease_supported,aligned,0.99418238,0.60306358,0.946293
+AKR7L,Aflatoxin B1 aldehyde reductase member 4,HF,rs59622577,T,C,False,602.257,0.017622713,6.0813886e-05,protein_to_disease_supported,aligned,1.0605039,0.1839894,0.778673
+GBP2,Guanylate-binding protein 2,HF,rs7531439,C,A,False,172.959,0.0051303736,1.2733552e-05,protein_to_disease_supported,flipped,1.0510815,0.51399382,0.946293
+CXCL1,Growth-regulated alpha protein,HF,rs3097411,G,C,True,5621.243,0.16373782,3.6749189e-05,protein_to_disease_supported,flipped,1.0150941,0.27746948,0.841464
+GC,Vitamin D-binding protein,HF,rs1352846,G,A,False,20929.176,0.59786572,9.9334513e-06,protein_to_disease_supported,flipped,0.99593216,0.57328618,0.946293
+FGF5,Fibroblast growth factor 5,HF,rs12509595,C,T,False,7582.335,0.19290636,0.00016092033,protein_to_disease_supported,flipped,1.0293035,0.02046851,0.441689
+IL1RN,Interleukin-1 receptor antagonist protein,HF,rs55709272,C,T,False,788.518,0.022388065,7.1125551e-06,protein_to_disease_supported,flipped,0.98233393,0.6305075,0.957279
+PER3,Period circadian protein homolog 3,HF,rs228647,A,G,False,2339.608,0.067398653,9.9622694e-06,protein_to_disease_supported,aligned,0.98791585,0.56893529,0.946293
+ERMAP,Erythroid membrane-associated protein,HF,rs11210710,T,G,False,168.315,0.0040963228,6.7126893e-05,protein_to_disease_supported,aligned,0.87984269,0.13194053,0.672724
+ADD1,Alpha-adducin,HF,rs1263339,C,G,True,358.175,0.0094605422,6.9173175e-05,protein_to_disease_supported,aligned,0.91804506,0.13490152,0.672724
+CRISP3,Cysteine-rich secretory protein 3,HF,rs1025347,A,G,False,5882.640,0.16309043,6.0496496e-07,protein_to_disease_supported,aligned,1.0019278,0.88784969,0.974199
+PARP1,Poly [ADP-ribose] polymerase 1,HF,rs1433574,C,A,False,247.041,0.0067838311,7.4346428e-05,protein_to_disease_supported,flipped,0.90060641,0.10364135,0.607042
+DAPP1,Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide,HF,rs7688733,G,A,False,174.935,0.0049726278,3.9526248e-05,protein_to_disease_supported,flipped,1.093251,0.25385925,0.841464
+IL18,Interleukin-18,HF,rs2250417,C,T,False,1605.617,0.043224535,1.1176305e-06,protein_to_disease_supported,flipped,0.99492799,0.84940832,0.971009
+ITGA11,Integrin alpha-11,HF,rs2306022,T,C,False,769.500,0.021115129,3.9315149e-06,protein_to_disease_supported,aligned,0.98644737,0.72253531,0.971009
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,HF,rs3803800,G,A,False,1403.277,0.035142419,0.00015123898,protein_to_disease_supported,flipped,0.93650367,0.02495457,0.457404
+ISM1,Isthmin-1,HF,rs1998123,G,A,False,539.728,0.014738213,2.0444585e-06,protein_to_disease_supported,flipped,0.98829122,0.7957714,0.971009
+GIMAP7,GTPase IMAP family member 7,HF,rs3735080,T,C,False,4662.230,0.13094141,0.0001003999,protein_to_disease_supported,aligned,1.0280773,0.06486987,0.529308
+HGF,Hepatocyte growth factor,HF,rs5745687,T,C,False,158.531,0.0041868049,1.8731284e-05,protein_to_disease_supported,aligned,1.0691748,0.44118937,0.912536
+MATN2,Matrilin-2,HF,rs1869609,G,A,False,2604.326,0.070058366,8.7547219e-07,protein_to_disease_supported,flipped,0.99647123,0.86443473,0.971009
+SPRY2,Protein sprouty homolog 2,HF,rs504122,A,G,False,109.287,0.0031320865,9.4379783e-06,protein_to_disease_supported,aligned,0.94658575,0.58770231,0.946293
+RNASE6,Ribonuclease K6,HF,rs1045922,A,G,False,2726.600,0.071053555,1.0372809e-06,protein_to_disease_supported,aligned,1.0038281,0.85180711,0.971009
+PLAUR,Urokinase plasminogen activator surface receptor,HF,rs2302524,C,T,False,333.638,0.0086513569,1.5952442e-06,protein_to_disease_supported,flipped,1.0136717,0.8225246,0.971009
+ST13,Hsc70-interacting protein,HF,rs1005402,C,T,False,53.173,0.001446477,7.2878596e-05,protein_to_disease_supported,flipped,0.79894536,0.12560992,0.660257
+LY6D,Lymphocyte antigen 6D,HF,rs2572925,T,C,False,3397.323,0.094629463,1.4573768e-05,protein_to_disease_supported,aligned,1.0124874,0.49713004,0.946293
+ACE,Angiotensin-converting enzyme,HF,rs4362,C,T,False,3520.820,0.1002891,8.8086112e-06,protein_to_disease_supported,flipped,0.9906719,0.5949715,0.946293
+MDH1,"Malate dehydrogenase, cytoplasmic",HF,rs71422399,T,C,False,118.657,0.0032652201,4.8887075e-05,protein_to_disease_supported,aligned,1.1301613,0.20823738,0.800798
+VEGFB,Vascular endothelial growth factor B,HF,rs660442,A,G,False,148.549,0.0042346084,1.56567e-07,protein_to_disease_supported,aligned,1.0060991,0.94187243,0.988165
+C1QA,Complement C1q subcomponent subunit A,HF,rs12058824,A,G,False,2191.390,0.060411972,6.0643897e-09,protein_to_disease_supported,aligned,0.99968322,0.98852004,0.994067
+CCL17,C-C motif chemokine 17,HF,rs9302690,A,G,False,813.076,0.02161706,5.956025e-09,protein_to_disease_supported,aligned,1.000525,0.9892181,0.994067
+FST,Follistatin,HF,rs31226,C,T,False,347.023,0.0096318987,0.00020922581,protein_to_disease_supported,flipped,1.1587994,0.0089882692,0.306793
+DNPH1,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,HF,rs77321231,T,C,False,1453.162,0.039578641,1.0758329e-06,protein_to_disease_supported,aligned,0.99479992,0.8546363,0.971009
+ANGPTL4,Angiopoietin-related protein 4,HF,rs2278236,A,G,False,1386.673,0.039141141,4.4963259e-06,protein_to_disease_supported,aligned,1.0107756,0.70413335,0.971009
+ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,HF,rs11244909,C,T,False,274.958,0.0079700243,0.0001056876,protein_to_disease_supported,flipped,1.1220472,0.065840771,0.529308
+LEG1,Protein LEG1 homolog,HF,rs1550942,G,A,False,2519.563,0.069136616,1.5677646e-05,protein_to_disease_supported,flipped,0.98505415,0.47278891,0.927481
+CD79B,B-cell antigen receptor complex-associated protein beta chain,HF,rs12946669,T,C,False,483.706,0.012746228,1.0106124e-05,protein_to_disease_supported,aligned,0.97223476,0.57010203,0.946293
+ROBO1,Roundabout homolog 1,HF,rs3773244,A,G,False,649.035,0.017648492,7.4025255e-05,protein_to_disease_supported,aligned,1.0669076,0.11472201,0.627147
+TOP2B,DNA topoisomerase 2-beta,HF,rs3806631,T,A,True,106.605,0.0030592829,1.9456531e-05,protein_to_disease_supported,flipped,0.92334848,0.43539088,0.912536
+DPP10,Inactive dipeptidyl peptidase 10,HF,rs17355498,T,G,False,1224.256,0.034070647,5.4445776e-06,protein_to_disease_supported,aligned,1.0127215,0.67223914,0.963699
+TYRP1,"5,6-dihydroxyindole-2-carboxylic acid oxidase",HF,rs10960751,C,T,False,102.976,0.0030777258,0.00011792248,protein_to_disease_supported,flipped,1.2162127,0.052498368,0.495811
+DNER,Delta and Notch-like epidermal growth factor-related receptor,HF,rs34412673,T,A,True,1255.227,0.034828832,1.0216138e-05,protein_to_disease_supported,flipped,0.98301912,0.56305265,0.946293
+TNFRSF14,Tumor necrosis factor receptor superfamily member 14,HF,rs2495366,A,G,False,240.036,0.0065877828,5.4071395e-05,protein_to_disease_supported,aligned,1.0948278,0.18802114,0.778673
+FASLG,Tumor necrosis factor ligand superfamily member 6,HF,rs79419452,A,T,True,113.753,0.0026051935,1.276092e-06,protein_to_disease_supported,aligned,0.9781111,0.83558256,0.971009
+SCGB1A1,Uteroglobin,HF,rs3741240,A,G,False,1990.737,0.052457969,3.0653774e-05,protein_to_disease_supported,aligned,0.97611652,0.32317625,0.853675
+CDON,Cell adhesion molecule-related/down-regulated by oncogenes,HF,rs607980,A,G,False,207.511,0.0056311285,1.6507579e-06,protein_to_disease_supported,aligned,1.017269,0.8209857,0.971009
+B4GALT1,"Beta-1,4-galactosyltransferase 1",HF,rs7019909,T,C,False,759.540,0.020196312,1.4224592e-05,protein_to_disease_supported,aligned,0.97381011,0.50498508,0.946293
+ANKMY2,Ankyrin repeat and MYND domain-containing protein 2,HF,rs4719474,A,C,False,104.665,0.003146865,3.079211e-05,protein_to_disease_supported,aligned,0.90581588,0.32911223,0.854025
+IL15RA,Interleukin-15 receptor subunit alpha,HF,rs3136630,T,C,False,975.022,0.027941027,2.0408547e-05,protein_to_disease_supported,aligned,1.0273947,0.43156475,0.91207
+FGL1,Fibrinogen-like protein 1,HF,rs3739404,A,C,False,7405.361,0.18441709,3.8430876e-08,protein_to_disease_supported,aligned,1.0004566,0.97151018,0.988726
+CCL21,C-C motif chemokine 21,HF,rs10814138,A,C,False,168.662,0.0046104151,3.5082013e-05,protein_to_disease_supported,aligned,1.091149,0.30091053,0.848366
+IGLC2,Immunoglobulin lambda constant 2,HF,rs2856876,A,C,False,390.106,0.010769383,9.054878e-07,protein_to_disease_supported,aligned,1.0092117,0.85992425,0.971009
+COL5A1,Collagen alpha-1(V) chain,HF,rs12002679,G,C,True,764.524,0.022531487,0.00015699419,protein_to_disease_supported,flipped,1.087056,0.032249503,0.457404
+CCL24,C-C motif chemokine 24,HF,rs2024050,G,A,False,12636.090,0.3545444,4.5067275e-05,protein_to_disease_supported,flipped,1.0113382,0.24029794,0.836791
+PON3,Serum paraoxonase/lactonase 3,HF,rs149867961,C,T,False,2061.598,0.056760364,2.1806323e-05,protein_to_disease_supported,flipped,1.0197939,0.45543982,0.914221
+LGALS4,Galectin-4,HF,rs140695578,T,A,True,208.038,0.0048426384,4.4722064e-05,protein_to_disease_supported,flipped,0.90837387,0.27999913,0.841464
+C7,Complement component C7,HF,rs74480769,G,A,False,4200.432,0.12579653,1.5167859e-06,protein_to_disease_supported,flipped,1.0034784,0.82264998,0.971009
+LAMA4,Laminin subunit alpha-4,HF,rs7765769,C,T,False,494.754,0.013745874,7.897109e-08,protein_to_disease_supported,flipped,1.0023998,0.96012239,0.988726
+IL1RL2,Interleukin-1 receptor-like 2,HF,rs3917265,C,T,False,3596.128,0.094923406,5.4038985e-06,protein_to_disease_supported,flipped,1.0075737,0.67997298,0.96566
+AFAP1,Actin filament-associated protein 1,HF,rs41264705,T,C,False,16663.601,0.48999803,8.0943073e-06,protein_to_disease_supported,aligned,0.99594388,0.60891145,0.948167
+TF,Serotransferrin,HF,rs8177247,G,T,False,1748.405,0.04866474,1.0373195e-05,protein_to_disease_supported,flipped,1.014707,0.56770917,0.946293
+IL18R1,Interleukin-18 receptor 1,HF,rs10190555,G,A,False,10191.460,0.28202943,4.4658234e-05,protein_to_disease_supported,flipped,1.0126631,0.23425332,0.827964
+LY9,T-lymphocyte surface antigen Ly-9,HF,rs12128261,G,T,False,4299.351,0.1223581,3.7504667e-05,protein_to_disease_supported,flipped,1.0176617,0.26904558,0.841464
+ADAM23,Disintegrin and metalloproteinase domain-containing protein 23,HF,rs72933203,A,T,True,5032.309,0.1423686,2.9330444e-05,protein_to_disease_supported,aligned,0.9857492,0.33980761,0.854731
+CPOX,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",HF,rs1729988,T,C,False,193.737,0.0056112161,2.5582729e-05,protein_to_disease_supported,aligned,1.0698537,0.34821712,0.856601
+CCL20,C-C motif chemokine 20,HF,rs1395338,A,G,False,150.093,0.0041913987,2.3509584e-07,protein_to_disease_supported,aligned,0.99253864,0.93027409,0.988165
+CD58,Lymphocyte function-associated antigen 3,HF,rs10801908,T,C,False,520.845,0.014047298,0.00021932723,protein_to_disease_supported,aligned,1.1330962,0.0068123175,0.285537
+MGMT,Methylated-DNA--protein-cysteine methyltransferase,HF,rs1008982,C,T,False,2779.594,0.080219035,7.4853502e-06,protein_to_disease_supported,flipped,1.0097066,0.62568806,0.957279
+MMP10,Stromelysin-2,HF,rs486055,T,C,False,1486.088,0.042649211,2.4464057e-08,protein_to_disease_supported,aligned,0.99924292,0.97763234,0.992152
+CD6,T-cell differentiation antigen CD6,HF,rs11230563,T,C,False,11048.651,0.2974446,8.0018206e-06,protein_to_disease_supported,aligned,0.99482672,0.61283973,0.948167
+CLEC7A,C-type lectin domain family 7 member A,HF,rs16910526,C,A,False,13711.180,0.38104447,1.4097027e-05,protein_to_disease_supported,flipped,1.0061009,0.5094321,0.946293
+C1S,Complement C1s subcomponent,HF,rs12146727,A,G,False,3705.693,0.10423572,5.1158391e-05,protein_to_disease_supported,aligned,1.0224011,0.20200428,0.796363
+TNFSF11,Tumor necrosis factor ligand superfamily member 11,HF,rs2062305,A,G,False,229.471,0.0062318295,1.4392126e-06,protein_to_disease_supported,aligned,0.984918,0.83171698,0.971009
+SERPINF2,Alpha-2-antiplasmin,HF,rs11078597,C,T,False,486.129,0.013074733,0.00015736987,protein_to_disease_supported,flipped,1.1159539,0.02460651,0.457404
+ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",HF,rs887241,C,A,False,3918.132,0.10530508,0.00016776414,protein_to_disease_supported,flipped,0.9608721,0.02005586,0.441689
+CD40,Tumor necrosis factor receptor superfamily member 5,HF,rs4810485,G,T,False,2367.481,0.06718019,5.1961502e-05,protein_to_disease_supported,flipped,0.97257194,0.19473329,0.782751
+ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,HF,rs2710331,C,T,False,1050.510,0.027620832,5.2494408e-05,protein_to_disease_supported,flipped,1.0445594,0.1878141,0.778673
+TLR4,Toll-like receptor 4,HF,rs4986790,G,A,False,404.055,0.012021535,3.521739e-06,protein_to_disease_supported,flipped,0.98302979,0.72958396,0.971009
+RLN2,Prorelaxin H2,HF,rs2273782,T,C,False,313.518,0.0087612358,8.4081086e-06,protein_to_disease_supported,aligned,1.0314638,0.6021741,0.946293
+RNASE4,Ribonuclease 4,HF,rs12588573,T,C,False,1637.850,0.045378381,3.0093409e-05,protein_to_disease_supported,aligned,0.97457674,0.32749764,0.854025
+CCL13,C-C motif chemokine 13,HF,rs3136674,C,T,False,812.577,0.021735979,3.5569562e-05,protein_to_disease_supported,flipped,1.0412823,0.28800876,0.841464
+LRRN1,Leucine-rich repeat neuronal protein 1,HF,rs9839475,A,G,False,10271.850,0.29879616,3.2041278e-05,protein_to_disease_supported,aligned,1.0104092,0.30565099,0.848366
+SERPINI1,Neuroserpin,HF,rs11717419,A,G,False,2692.331,0.073431775,1.2395649e-05,protein_to_disease_supported,aligned,1.0130773,0.52766205,0.946293
+APOF,Apolipoprotein F,HF,rs2020854,C,T,False,601.777,0.016013696,2.2244141e-05,protein_to_disease_supported,flipped,1.0379735,0.38564091,0.876831
+C1QL2,Complement C1q-like protein 2,HF,rs34475538,A,G,False,955.258,0.025061272,2.066861e-07,protein_to_disease_supported,aligned,1.0028759,0.93493883,0.988165
+TFF2,Trefoil factor 2,HF,rs225344,A,G,False,240.496,0.006207857,9.671083e-05,protein_to_disease_supported,aligned,1.1329388,0.072956384,0.56407
+LAMP3,Lysosome-associated membrane glycoprotein 3,HF,rs11921884,T,G,False,957.797,0.024665323,1.639906e-07,protein_to_disease_supported,aligned,0.99742483,0.94237179,0.988165
+MBL2,Mannose-binding protein C,HF,rs7899547,G,T,False,13273.985,0.37894033,2.8300726e-06,protein_to_disease_supported,flipped,0.9972709,0.76325832,0.971009
+AMY1A_AMY1B_AMY1C,Alpha-amylase 1A_Alpha-amylase 1B_Alpha-amylase 1C,HF,rs72694438,A,G,False,1742.700,0.053358899,8.2018932e-08,protein_to_disease_supported,aligned,0.99876096,0.96012239,0.988726
+FGF2,Fibroblast growth factor 2,HF,rs2922979,G,C,True,7605.030,0.21634504,8.2744727e-06,protein_to_disease_supported,flipped,1.0062036,0.60470454,0.946293
+SLAMF7,SLAM family member 7,HF,rs11581248,T,C,False,7158.024,0.20901877,8.4654765e-08,protein_to_disease_supported,aligned,1.0006366,0.96077559,0.988726
+PNLIPRP2,Pancreatic lipase-related protein 2,HF,rs4751995,G,A,False,22389.212,0.64404406,1.4429643e-06,protein_to_disease_supported,flipped,0.9985043,0.82961929,0.971009
+LPA,Apolipoprotein(a),HF,rs56393506,T,C,False,5377.806,0.16522408,0.00097207189,protein_to_disease_supported,aligned,1.0797214,1.1017337e-07,2.25855e-05
+PI16,Peptidase inhibitor 16,HF,rs62406524,C,G,True,1149.682,0.032219531,2.94478e-05,protein_to_disease_supported,aligned,1.0306936,0.3319721,0.854294
+NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,HF,rs12599777,G,A,False,1730.073,0.050302389,0.00012917292,protein_to_disease_supported,flipped,0.95058782,0.043443847,0.468736
+APCS,Serum amyloid P-component,HF,rs36126250,G,T,False,514.272,0.01287078,2.4608337e-05,protein_to_disease_supported,flipped,0.9572163,0.33755049,0.854294
+CTBS,Di-N-acetylchitobiase,HF,rs79723172,A,G,False,4161.066,0.11045103,4.5614945e-05,protein_to_disease_supported,aligned,0.979883,0.26271376,0.841464
+CLEC4G,C-type lectin domain family 4 member G,HF,rs76560987,T,C,False,686.726,0.018470679,0.00012498672,protein_to_disease_supported,aligned,1.0857384,0.046911674,0.469117
+KYNU,Kynureninase,HF,rs78189771,G,A,False,1113.557,0.02953892,8.1986377e-06,protein_to_disease_supported,flipped,0.98347807,0.63979868,0.957279
+SPON1,Spondin-1,HF,rs10832164,T,C,False,1661.998,0.042417969,9.2308025e-06,protein_to_disease_supported,aligned,0.98535648,0.58623243,0.946293
+APOE,Apolipoprotein E,HF,rs429358,C,T,False,9521.444,0.2692152,0.00013545619,protein_to_disease_supported,flipped,1.0226845,0.042684332,0.468736
+LSP1,Lymphocyte-specific protein 1,HF,rs907612,T,C,False,384.315,0.01047516,1.2044944e-06,protein_to_disease_supported,aligned,0.98933415,0.84713825,0.971009
+CD300A,CMRF35-like molecule 8,HF,rs62087202,A,G,False,1388.070,0.035804446,3.4372118e-06,protein_to_disease_supported,aligned,1.0098461,0.75195532,0.971009
+SERPINF1,Pigment epithelium-derived factor,HF,rs62088172,T,C,False,1351.854,0.036566273,7.681517e-06,protein_to_disease_supported,aligned,0.9856107,0.62548238,0.957279
+ADGRE2,Adhesion G protein-coupled receptor E2,HF,rs7251607,C,A,False,1161.894,0.03066587,5.0936802e-06,protein_to_disease_supported,flipped,0.98719462,0.69992874,0.971009
+WNT9A,Protein Wnt-9a,HF,rs4653881,T,C,False,321.559,0.0077952402,3.7228214e-05,protein_to_disease_supported,aligned,1.0715507,0.27187039,0.841464
+FCRL3,Fc receptor-like protein 3,HF,rs7522061,C,T,False,15767.634,0.4647859,2.7348564e-05,protein_to_disease_supported,flipped,1.0077003,0.34890834,0.856601
+SELL,L-selectin,HF,rs2223286,C,T,False,2668.049,0.07084639,5.8636858e-06,protein_to_disease_supported,flipped,0.99094367,0.66334895,0.958188
+FOXJ3,Forkhead box protein J3,HF,rs1139978,G,T,False,86.526,0.0025188907,2.1511279e-06,protein_to_disease_supported,flipped,0.97119962,0.79592792,0.971009
+EVI5,Ecotropic viral integration site 5 protein homolog,HF,rs11808092,A,C,False,282.928,0.008014644,1.0989867e-06,protein_to_disease_supported,aligned,1.0117788,0.8501799,0.971009
+HCLS1,Hematopoietic lineage cell-specific protein,HF,rs3732410,C,T,False,114.300,0.0031244686,0.00027352088,protein_to_disease_supported,flipped,1.3443011,0.0026060101,0.178077
+CFI,Complement factor I,HF,rs10033900,C,T,False,858.001,0.02331971,2.4474068e-05,protein_to_disease_supported,flipped,1.0329265,0.3755766,0.872653
+AGT,Angiotensinogen,HF,rs4762,A,G,False,4048.994,0.11408521,4.1589716e-05,protein_to_disease_supported,aligned,1.0192766,0.2209002,0.808653
+HRG,Histidine-rich glycoprotein,HF,rs9898,T,C,False,3951.618,0.11093994,0.00013675847,protein_to_disease_supported,aligned,1.0357338,0.036149832,0.457404
+FCRL2,Fc receptor-like protein 2,HF,rs12568320,G,A,False,6049.428,0.16432543,1.0047465e-07,protein_to_disease_supported,flipped,1.0007823,0.95528225,0.988726
+IL36G,Interleukin-36 gamma,HF,rs13410389,A,G,False,105.571,0.0030813761,9.0780792e-05,protein_to_disease_supported,aligned,0.8422803,0.093171713,0.606285
+C8B,Complement component C8 beta chain,HF,rs626457,T,C,False,4356.628,0.1191539,4.6893577e-05,protein_to_disease_supported,aligned,1.0200363,0.220127,0.808653
+VAMP8,Vesicle-associated membrane protein 8,HF,rs3731828,T,C,False,421.968,0.012177054,5.3679944e-05,protein_to_disease_supported,aligned,0.93576123,0.18622174,0.778673
+APOA2,Apolipoprotein A-II,HF,rs4073054,A,C,False,79.209,0.00211021,0.00041290736,protein_to_disease_supported,aligned,0.64252639,0.00024573278,0.0251876
+ARHGAP45,Rho GTPase-activating protein 45,HF,rs34593562,G,A,False,89.029,0.0025096416,2.4249015e-07,protein_to_disease_supported,flipped,1.0098782,0.93197054,0.988165
+SCGB3A1,Secretoglobin family 3A member 1,HF,rs307802,C,T,False,249.359,0.0066917065,9.0521929e-05,protein_to_disease_supported,flipped,1.1233415,0.094774683,0.606285
+SLAMF1,Signaling lymphocytic activation molecule,HF,rs7535367,T,G,False,172.516,0.0050191277,2.396929e-09,protein_to_disease_supported,aligned,1.0006913,0.99312177,0.99555
+FSTL3,Follistatin-related protein 3,HF,rs916904,G,A,False,131.264,0.0034886015,0.00012186181,protein_to_disease_supported,flipped,0.8295271,0.053784089,0.495811
+SNX15,Sorting nexin-15,HF,rs2670910,A,G,False,3465.033,0.096241129,2.7514201e-05,protein_to_disease_supported,aligned,1.017052,0.39136594,0.876831
+SLC9A3R1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,HF,rs745666,C,G,True,133.807,0.0041250693,3.9893338e-07,protein_to_disease_supported,aligned,0.9902141,0.9156757,0.988165
+PKLR,Pyruvate kinase PKLR,HF,rs77350683,C,T,False,599.247,0.016714769,1.0697977e-05,protein_to_disease_supported,flipped,0.97501849,0.55281421,0.946293
+TLR1,Toll-like receptor 1,HF,rs5743618,A,C,False,2930.880,0.088006726,0.00012302088,protein_to_disease_supported,aligned,1.0380957,0.038834706,0.468301
+PRR4,Proline-rich protein 4,HF,rs1063193,T,C,False,10273.503,0.30133904,2.4088024e-05,protein_to_disease_supported,aligned,1.0089808,0.38157391,0.873996
+NUB1,NEDD8 ultimate buster 1,HF,rs113920358,T,C,False,527.199,0.015849549,0.0001010166,protein_to_disease_supported,aligned,1.0831073,0.092464237,0.606285
+SPINK2,Serine protease inhibitor Kazal-type 2,HF,rs28656303,G,A,False,3690.055,0.085460049,3.4667668e-05,protein_to_disease_supported,flipped,1.0203452,0.28327439,0.841464
+ADIPOQ,Adiponectin,HF,rs143257534,T,C,False,907.646,0.019135941,7.2714254e-05,protein_to_disease_supported,aligned,0.94021834,0.10679536,0.60814
+CSF3R,Granulocyte colony-stimulating factor receptor,HF,rs3917999,T,C,False,907.921,0.026794114,1.1151878e-05,protein_to_disease_supported,aligned,1.0206107,0.48524899,0.934047
+EGLN1,Egl nine homolog 1,HF,rs77466488,G,A,False,289.425,0.0077895202,7.413113e-06,protein_to_disease_supported,flipped,1.03133,0.59190155,0.946293
+TNFSF10,Tumor necrosis factor ligand superfamily member 10,HF,rs79287178,A,G,False,611.160,0.016852623,2.7820294e-05,protein_to_disease_supported,aligned,0.96018431,0.36965524,0.871741
+CD70,CD70 antigen,HF,rs7254538,C,G,True,10672.189,0.27950434,1.116671e-06,protein_to_disease_supported,aligned,1.0020008,0.85992425,0.971009
+ECM1,Extracellular matrix protein 1,HF,rs3737240,T,C,False,7459.740,0.2189455,3.2908333e-05,protein_to_disease_supported,aligned,0.987815,0.30550884,0.848366
+SPRED2,"Sprouty-related, EVH1 domain-containing protein 2",HF,rs7569084,T,C,False,87.632,0.0025440642,7.7653765e-08,protein_to_disease_supported,aligned,0.99449043,0.96012239,0.988726
+MST1,Hepatocyte growth factor-like protein,HF,rs11130213,T,C,False,15474.945,0.45557909,0.00010966821,protein_to_disease_supported,aligned,1.0156362,0.058046202,0.495811
+MEPE,Matrix extracellular phosphoglycoprotein,HF,rs17013212,T,C,False,311.389,0.0078524332,6.3788479e-06,protein_to_disease_supported,aligned,1.0289116,0.64244306,0.957279
+IFNGR1,Interferon gamma receptor 1,HF,rs9376267,T,C,False,551.377,0.01484077,3.0452373e-06,protein_to_disease_supported,aligned,1.0144277,0.75517128,0.971009
+GMPR,GMP reductase 1,HF,rs1042391,A,T,True,1118.767,0.029932873,1.8108791e-05,protein_to_disease_supported,aligned,1.0249013,0.44401429,0.912536
+IL36A,Interleukin-36 alpha,HF,rs895497,G,A,False,54.560,0.0016308305,4.0094476e-06,protein_to_disease_supported,flipped,1.0508334,0.72159956,0.971009
+F11,Coagulation factor XI,HF,rs2289252,T,C,False,2999.538,0.071102777,1.2973376e-05,protein_to_disease_supported,aligned,0.98658306,0.52088922,0.946293
+CRELD1,Protein disulfide isomerase CRELD1,HF,rs9878047,C,T,False,9202.917,0.25890834,1.2116657e-06,protein_to_disease_supported,flipped,0.99783903,0.84488242,0.971009
+CD200,OX-2 membrane glycoprotein,HF,rs2399420,A,C,False,490.818,0.013190761,1.3011391e-05,protein_to_disease_supported,aligned,1.0319054,0.52715628,0.946293
+ADAMTS4,A disintegrin and metalloproteinase with thrombospondin motifs 4,HF,rs4656993,G,A,False,238.482,0.0067885922,0.0001941192,protein_to_disease_supported,flipped,1.1842389,0.012419331,0.339462
+ATP5IF1,"ATPase inhibitor, mitochondrial",HF,rs510379,C,T,False,201.182,0.0057293376,2.522681e-05,protein_to_disease_supported,flipped,0.93579784,0.3668237,0.871741
+TNFAIP8L2,Tumor necrosis factor alpha-induced protein 8-like protein 2,HF,rs4970991,C,T,False,50.290,0.001447367,1.1042226e-05,protein_to_disease_supported,flipped,1.0912733,0.54573284,0.946293
+TLR3,Toll-like receptor 3,HF,rs3775291,T,C,False,19464.436,0.55298051,2.406226e-06,protein_to_disease_supported,aligned,0.99791618,0.78019128,0.971009
+IL5RA,Interleukin-5 receptor subunit alpha,HF,rs77400868,G,A,False,2213.208,0.061732195,2.0413417e-05,protein_to_disease_supported,flipped,1.0183509,0.43724167,0.912536
+PF4,Platelet factor 4,HF,rs11574452,A,C,False,119.223,0.0034777024,7.6086441e-06,protein_to_disease_supported,aligned,1.0478855,0.65596017,0.958188
+OLFM4,Olfactomedin-4,HF,rs17552047,A,G,False,9004.599,0.29490001,6.4004121e-06,protein_to_disease_supported,aligned,0.99535212,0.6602555,0.958188
+FGFR4,Fibroblast growth factor receptor 4,HF,rs351855,A,G,False,15990.219,0.42442902,3.6045488e-05,protein_to_disease_supported,aligned,0.99082675,0.27952129,0.841464
+F12,Coagulation factor XII,HF,rs1801020,G,A,False,18609.048,0.53115223,5.7800232e-06,protein_to_disease_supported,flipped,1.0033042,0.67495682,0.964224
+CCL25,C-C motif chemokine 25,HF,rs2032887,G,A,False,8078.682,0.21451233,1.4462945e-08,protein_to_disease_supported,flipped,0.99974038,0.98284251,0.994067
+BLNK,B-cell linker protein,HF,rs55769428,C,A,False,55.024,0.0016344431,0.0001550221,protein_to_disease_supported,flipped,0.73493555,0.026998572,0.457404
+CST1,Cystatin-SN,HF,rs4549181,T,C,False,4621.996,0.14250572,1.2133003e-06,protein_to_disease_supported,aligned,1.0029221,0.85180711,0.971009
+DBNL,Drebrin-like protein,HF,rs7799945,G,A,False,52.771,0.0014650899,7.6697455e-05,protein_to_disease_supported,flipped,1.2570921,0.12481239,0.660257
+DBH,Dopamine beta-hydroxylase,HF,rs1611115,C,T,False,15558.285,0.44792843,6.4113861e-07,protein_to_disease_supported,flipped,0.99880433,0.88865999,0.974199
+CD7,T-cell antigen CD7,HF,rs3176831,T,C,False,3568.779,0.10498849,6.8451446e-05,protein_to_disease_supported,aligned,0.97478914,0.15658041,0.724734
+FCAR,Immunoglobulin alpha Fc receptor,HF,rs12608573,G,C,True,8452.456,0.24246948,2.6371331e-05,protein_to_disease_supported,flipped,1.0104834,0.37885931,0.872653
+OSCAR,Osteoclast-associated immunoglobulin-like receptor,HF,rs4442925,T,C,False,4694.407,0.13431055,2.7829615e-05,protein_to_disease_supported,aligned,0.98570854,0.36038373,0.869161
+CGB3_CGB5_CGB8,Choriogonadotropin subunit beta 3,HF,rs7252920,C,A,False,75.671,0.0018788032,9.2403464e-05,protein_to_disease_supported,flipped,1.2482847,0.093149638,0.606285
+MANF,Mesencephalic astrocyte-derived neurotrophic factor,HF,rs11721253,G,A,False,79.739,0.0022557374,1.9669787e-06,protein_to_disease_supported,flipped,1.0299698,0.80090664,0.971009
+FKBP1B,Peptidyl-prolyl cis-trans isomerase FKBP1B,HF,rs872169,G,C,True,744.832,0.021174468,3.2579421e-05,protein_to_disease_supported,flipped,1.0400047,0.3124469,0.848366
+CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,HF,rs12740374,T,G,False,2569.883,0.072912356,0.0011344084,protein_to_disease_supported,aligned,0.88273185,3.2682066e-09,1.33996e-06
+BTD,Biotinidase,HF,rs13078881,C,G,True,7741.991,0.21691612,0.00015172083,protein_to_disease_supported,aligned,0.97389964,0.036815439,0.457404
+IL10RA,Interleukin-10 receptor subunit alpha,HF,rs3135932,G,A,False,334.162,0.0098536343,9.6146419e-06,protein_to_disease_supported,flipped,0.9692459,0.57779817,0.946293
+ADA,Adenosine deaminase,HF,rs11555566,C,T,False,6870.606,0.19234052,0.00022736618,protein_to_disease_supported,flipped,0.96620262,0.0076607611,0.285537
+AOC1,Amiloride-sensitive amine oxidase [copper-containing],HF,rs1049742,T,C,False,1235.452,0.036488478,6.2905133e-06,protein_to_disease_supported,aligned,1.0132166,0.65836122,0.958188
+TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,HF,rs34562254,A,G,False,196.406,0.0052917682,6.7462065e-06,protein_to_disease_supported,aligned,0.96492488,0.64358905,0.957279
+CPA4,Carboxypeptidase A4,HF,rs34587586,T,G,False,4648.429,0.13715889,2.2144112e-05,protein_to_disease_supported,aligned,1.0127873,0.40695261,0.889069
+ABO,Histo-blood group ABO system transferase,HF,rs505922,C,T,False,20588.826,0.59362,0.000678972,protein_to_disease_supported,flipped,1.0343982,3.1802168e-06,0.00043463
+CD200R1,Cell surface glycoprotein CD200 receptor 1,HF,rs16860233,T,C,False,8591.096,0.24925238,8.1460364e-07,protein_to_disease_supported,aligned,0.99819382,0.87857352,0.974199
+PPL,Periplakin,HF,rs61499243,T,C,False,123.191,0.003692433,3.6641968e-05,protein_to_disease_supported,aligned,1.1047476,0.29176226,0.842129
+CD48,CD48 antigen,HF,rs2295615,G,C,True,7349.871,0.20603366,2.5603992e-05,protein_to_disease_supported,flipped,0.98891422,0.39395938,0.877844
+PTPRM,Receptor-type tyrosine-protein phosphatase mu,HF,rs72911294,T,C,False,106.224,0.0025066673,0.00011418063,protein_to_disease_supported,aligned,1.2379122,0.070527063,0.556079
+CTSO,Cathepsin O,HF,rs2334114,A,C,False,581.829,0.016002013,0.00013024853,protein_to_disease_supported,aligned,1.0944142,0.046602064,0.469117
+HGFAC,Hepatocyte growth factor activator,HF,rs4690097,T,C,False,3523.757,0.10063108,6.9110544e-08,protein_to_disease_supported,aligned,1.0008291,0.963745,0.988726
+MYOM3,Myomesin-3,HF,rs6700245,C,T,False,113.830,0.0028473225,1.8092874e-05,protein_to_disease_supported,flipped,1.0829775,0.4598278,0.914221
+NCR1,Natural cytotoxicity triggering receptor 1,HF,rs7255591,C,G,True,1076.419,0.02938816,4.0430797e-06,protein_to_disease_supported,aligned,1.0117983,0.72288184,0.971009
+CRHBP,Corticotropin-releasing factor-binding protein,HF,rs6896257,A,G,False,5795.107,0.15987511,3.4941233e-05,protein_to_disease_supported,aligned,1.0148934,0.311716,0.848366
+AHSG,Alpha-2-HS-glycoprotein,HF,rs1900618,T,C,False,7289.029,0.21059499,4.335293e-05,protein_to_disease_supported,aligned,1.0144512,0.24818794,0.840967
+INHBB,Inhibin beta B chain,HF,rs17050272,A,G,False,2367.165,0.064395271,0.00021774926,protein_to_disease_supported,aligned,0.9435082,0.0097275718,0.306793
+SDK2,Protein sidekick-2,HF,rs11655934,A,G,False,3952.153,0.11551784,2.3914506e-05,protein_to_disease_supported,aligned,0.98571482,0.39066772,0.876831
+QSOX1,Sulfhydryl oxidase 1,HF,rs12371,G,A,False,6565.895,0.18863596,5.7557166e-06,protein_to_disease_supported,flipped,1.0055391,0.66372023,0.958188
+ACP1,Low molecular weight phosphotyrosine protein phosphatase,HF,rs11553746,T,C,False,2307.361,0.065624925,2.4222977e-06,protein_to_disease_supported,aligned,0.99394296,0.78169685,0.971009
+LZTFL1,Leucine zipper transcription factor-like protein 1,HF,rs1129183,T,C,False,355.735,0.010166172,9.1707728e-08,protein_to_disease_supported,aligned,1.003008,0.9544314,0.988726
+TP53I3,Quinone oxidoreductase PIG3,HF,rs1134516,A,G,False,3293.981,0.094954268,2.5114831e-05,protein_to_disease_supported,aligned,0.98386826,0.37787514,0.872653
+FABP1,"Fatty acid-binding protein, liver",HF,rs2241883,C,T,False,887.104,0.023890184,0,protein_to_disease_supported,flipped,1,1,1
+FABP9,Fatty acid-binding protein 9,HF,rs28497692,T,G,False,145.714,0.0037193233,0.00016321246,protein_to_disease_supported,aligned,0.81100503,0.034249909,0.457404
+CXCL6,C-X-C motif chemokine 6,HF,rs16850073,T,C,False,5143.258,0.14694117,0.00011123229,protein_to_disease_supported,aligned,1.0278954,0.063536033,0.529308
+LCAT,Phosphatidylcholine-sterol acyltransferase,HF,rs4986970,T,A,True,253.744,0.0068697835,2.9144331e-05,protein_to_disease_supported,flipped,1.0673017,0.4076705,0.889069
+TSPYL1,Testis-specific Y-encoded-like protein 1,HF,rs61746508,A,C,False,191.258,0.0055322718,1.5488577e-05,protein_to_disease_supported,aligned,0.94846349,0.52140804,0.946293
+SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,HF,rs28385609,T,C,False,9354.108,0.24619694,3.7161532e-05,protein_to_disease_supported,aligned,1.0123616,0.26439156,0.841464
+F10,Coagulation factor X,HF,rs547138,A,T,True,536.467,0.015328687,1.2234541e-06,protein_to_disease_supported,aligned,0.99110588,0.848936,0.971009
+NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",HF,rs657693,G,A,False,205.189,0.0055641097,2.0077859e-05,protein_to_disease_supported,flipped,0.94169819,0.44807949,0.912536
+FIS1,Mitochondrial fission 1 protein,HF,rs7778271,C,T,False,439.370,0.01230057,1.0478044e-05,protein_to_disease_supported,flipped,1.0296163,0.56384296,0.946293
+CFD,Complement factor D,HF,rs71335276,T,G,False,411.901,0.012077957,1.6994205e-06,protein_to_disease_supported,aligned,1.0119325,0.83709754,0.971009
+LTBR,Tumor necrosis factor receptor superfamily member 3,HF,rs10849449,G,A,False,1605.121,0.043761712,1.1569253e-06,protein_to_disease_supported,flipped,0.99487151,0.85240829,0.971009
+CRELD2,Protein disulfide isomerase CRELD2,HF,rs74510325,G,C,True,1623.519,0.044412117,1.6798853e-06,protein_to_disease_supported,flipped,1.0061691,0.83150952,0.971009
+PTGES2,Prostaglandin E synthase 2,HF,rs13283456,T,C,False,107.725,0.0031200155,9.2619778e-05,protein_to_disease_supported,aligned,1.1880286,0.12896857,0.669331
+SERPINB8,Serpin B8,HF,rs3826616,G,A,False,9245.266,0.25714494,2.1470891e-06,protein_to_disease_supported,flipped,0.99711458,0.80926115,0.971009
+C1QTNF5,Complement C1q tumor necrosis factor-related protein 5,HF,rs2509656,A,G,False,244.563,0.0065658855,1.6604497e-06,protein_to_disease_supported,aligned,0.98422325,0.82560716,0.971009
+KLK7,Kallikrein-7,HF,rs1991821,G,A,False,2768.756,0.078719287,3.0273999e-05,protein_to_disease_supported,flipped,0.98058028,0.34494258,0.856601
+S100A13,Protein S100-A13,HF,rs114678888,A,C,False,717.915,0.019721585,4.9771181e-08,protein_to_disease_supported,aligned,0.99841265,0.97003955,0.988726
+TCN1,Transcobalamin-1,HF,rs34324219,A,C,False,4057.294,0.10870751,3.1321484e-05,protein_to_disease_supported,aligned,1.0171192,0.32481303,0.853675
+CXCL8,Interleukin-8,HF,rs74468557,A,G,False,117.528,0.0033429162,9.694845e-05,protein_to_disease_supported,aligned,0.84341406,0.10247347,0.607042
+AGRN,Agrin,HF,rs3121560,A,C,False,2363.537,0.064020532,2.3758253e-06,protein_to_disease_supported,aligned,1.0061104,0.78912897,0.971009
+CLIP2,CAP-Gly domain-containing linker protein 2,HF,rs117471007,T,C,False,261.752,0.0073702207,4.3943966e-05,protein_to_disease_supported,aligned,1.0802758,0.22481017,0.815683
+SCRN1,Secernin-1,HF,rs17324153,C,T,False,206.657,0.0058374491,4.1303546e-06,protein_to_disease_supported,flipped,1.026957,0.74578593,0.971009
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,HF,rs140661471,A,G,False,2722.858,0.074324421,1.894826e-05,protein_to_disease_supported,aligned,0.98415996,0.48094265,0.930125
+LGMN,Legumain,HF,rs148659834,A,G,False,971.559,0.026710715,5.5273235e-05,protein_to_disease_supported,aligned,0.95552928,0.1799912,0.778673
+IL32,Interleukin-32,HF,rs45499297,C,T,False,983.556,0.026597142,1.7773992e-05,protein_to_disease_supported,flipped,1.0261879,0.502187,0.946293
+MILR1,Allergin-1,HF,rs138176943,A,G,False,2381.351,0.069053349,8.0537413e-06,protein_to_disease_supported,aligned,0.98925854,0.62705529,0.957279
+RPA2,Replication protein A 32 kDa subunit,HF,rs17185038,G,C,True,174.926,0.0051953514,7.8969334e-05,protein_to_disease_supported,flipped,1.1312105,0.19395454,0.782751
+APOD,Apolipoprotein D,HF,rs139828053,C,T,False,589.806,0.017469361,0.00011216714,protein_to_disease_supported,flipped,0.92299649,0.093018133,0.606285
+LRG1,Leucine-rich alpha-2-glycoprotein,HF,rs8105192,G,C,True,5738.011,0.15665443,6.3845e-05,protein_to_disease_supported,flipped,0.98001447,0.21432577,0.80618
+MFAP4,Microfibril-associated glycoprotein 4,HF,rs139356332,C,G,True,820.540,0.023622942,6.8911256e-07,protein_to_disease_supported,aligned,1.0054157,0.8955276,0.976506
+CFHR5,Complement factor H-related protein 5,HF,rs72732234,C,T,False,2883.328,0.085688345,1.1813781e-06,protein_to_disease_supported,flipped,0.99629381,0.86342836,0.971009
+NRTN,Neurturin,HF,rs36055559,A,G,False,50.771,0.0016540596,2.2609106e-05,protein_to_disease_supported,aligned,1.1240226,0.46569086,0.917948
+GIT1,ARF GTPase-activating protein GIT1,HF,rs142511067,G,C,True,84.948,0.0025612547,1.0091623e-05,protein_to_disease_supported,flipped,0.93915918,0.61245028,0.948167
+BSG,Basigin,HF,rs56101188,C,T,False,353.809,0.0095969497,2.0290215e-05,protein_to_disease_supported,flipped,0.95506028,0.50879556,0.946293
+ZBP1,Z-DNA-binding protein 1,HF,rs45521631,T,C,False,1482.260,0.042929582,0.00024756013,protein_to_disease_supported,aligned,0.92687321,0.019336311,0.441689
+CCL4,C-C motif chemokine 4,HF,rs1015673,T,C,False,1434.556,0.048273812,1.3728102e-05,protein_to_disease_supported,aligned,0.98327783,0.58863419,0.946293
+PRELP,Prolargin,HF,rs41313926,A,G,False,4148.945,0.10534599,1.8999297e-05,protein_to_disease_supported,aligned,0.98666028,0.4612957,0.914221
+APOC1,Apolipoprotein C-I,HF,rs5112,G,C,True,2029.740,0.059202882,9.6175988e-05,protein_to_disease_supported,flipped,1.0411286,0.14764036,0.703867
+LGALS3BP,Galectin-3-binding protein,HF,rs111526614,T,C,False,286.824,0.0082759133,0.00015028695,protein_to_disease_supported,aligned,0.87392789,0.098838628,0.606285
+DDI2,Protein DDI1 homolog 2,HF,rs41270291,A,G,False,58.078,0.0015549171,6.5949328e-05,protein_to_disease_supported,aligned,0.81387771,0.20898872,0.800798
+UROD,Uroporphyrinogen decarboxylase,HF,rs12749939,T,C,False,3153.838,0.087261771,7.2972543e-05,protein_to_disease_supported,aligned,1.0293401,0.18453413,0.778673
+CST7,Cystatin-F,HF,rs227651,G,A,False,8599.938,0.24817288,3.0066267e-05,protein_to_disease_supported,flipped,0.98905352,0.40295036,0.889069
+STX8,Syntaxin-8,HF,rs8077500,A,G,False,135.623,0.0038679854,0.00035467361,protein_to_disease_supported,aligned,1.353659,0.0034497871,0.202059
+CD160,CD160 antigen,HF,rs9728526,A,G,False,2740.365,0.076670556,0.00027908105,protein_to_disease_supported,aligned,0.94145151,0.010493154,0.3073
+SIRPB1,Signal-regulatory protein beta-1,HF,rs79462675,A,C,False,7461.454,0.20655852,5.6377687e-05,protein_to_disease_supported,aligned,1.0166581,0.23073282,0.822613
+NUMB,Protein numb homolog,HF,rs7141139,T,G,False,101.367,0.0028926744,0.00011462408,protein_to_disease_supported,aligned,0.81949916,0.10157722,0.607042
+PON1,Serum paraoxonase/arylesterase 1,HF,rs705379,A,G,False,9961.915,0.28567936,1.6167034e-06,protein_to_disease_supported,aligned,1.0023817,0.84488242,0.971009
+NT5C3A,Cytosolic 5'-nucleotidase 3A,HF,rs10252880,C,G,True,183.407,0.0051813814,1.2802228e-05,protein_to_disease_supported,aligned,1.0509634,0.58161968,0.946293
+BCHE,Cholinesterase,HF,rs73165060,A,C,False,4230.431,0.11328963,1.7524093e-06,protein_to_disease_supported,aligned,1.0039407,0.83871312,0.971009
+PRSS8,Prostasin,HF,rs889555,T,C,False,216.333,0.005351887,1.5574295e-05,protein_to_disease_supported,aligned,1.0554265,0.53930693,0.946293
+PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,HF,rs1471633,C,A,False,216.228,0.0061752319,4.1856669e-06,protein_to_disease_supported,flipped,1.0263768,0.7525966,0.971009
+PTX3,Pentraxin-related protein PTX3,HF,rs56025932,C,A,False,63.597,0.0018415499,4.9032962e-05,protein_to_disease_supported,flipped,0.84944294,0.2610753,0.841464
+ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,HF,rs678,T,A,True,310.197,0.009030931,0.00016927919,protein_to_disease_supported,flipped,0.87204861,0.043274317,0.468736
+CTRC,Chymotrypsin-C,HF,rs497078,T,C,False,2267.815,0.057408376,0.00011426334,protein_to_disease_supported,aligned,1.0456236,0.099075819,0.606285
+PGLYRP2,N-acetylmuramoyl-L-alanine amidase,HF,rs34440547,T,C,False,15371.237,0.44837226,2.5914588e-05,protein_to_disease_supported,aligned,1.0076314,0.4532547,0.914221
+SERPING1,Plasma protease C1 inhibitor,HF,rs28362944,C,T,False,636.962,0.0168158,0.00017482867,protein_to_disease_supported,flipped,0.90306191,0.056457296,0.495811
+C3,Complement C3,HF,rs11569466,T,G,False,220.421,0.0065441986,1.4737649e-06,protein_to_disease_supported,aligned,0.98510532,0.85308379,0.971009
+TPSAB1,Tryptase alpha/beta-1,HF,rs8051930,A,T,True,12152.427,0.34562246,0.00037192212,protein_to_disease_supported,aligned,0.96772835,0.0063334326,0.285537
+CTSE,Cathepsin E,HF,rs41302235,C,T,False,4407.635,0.12600345,3.0477124e-07,protein_to_disease_supported,flipped,1.0015564,0.93961197,0.988165
+BANK1,B-cell scaffold protein with ankyrin repeats,HF,rs3113676,C,T,False,248.157,0.0067549771,0.00017179432,protein_to_disease_supported,flipped,1.1728949,0.092545727,0.606285
+ACYP1,Acylphosphatase-1,HF,rs75948138,G,C,True,1245.025,0.034743831,1.0645644e-05,protein_to_disease_supported,flipped,1.0176585,0.68067249,0.96566
+FUOM,Fucose mutarotase,HF,rs11816588,C,T,False,590.315,0.015943765,0.00022374447,protein_to_disease_supported,flipped,0.88828517,0.053755374,0.495811
+LYVE1,Lymphatic vessel endothelial hyaluronic acid receptor 1,HF,rs7119709,A,G,False,337.070,0.009354092,6.1858263e-06,protein_to_disease_supported,aligned,0.97461215,0.74435857,0.971009
+CEMIP2,Cell surface hyaluronidase,HF,rs191912523,G,T,False,325.534,0.0098421354,4.4551199e-06,protein_to_disease_supported,flipped,1.0215037,0.81196993,0.971009
+HEXIM1,Protein HEXIM1,HF,rs36160143,T,C,False,78.885,0.0022368157,2.3996355e-05,protein_to_disease_supported,aligned,1.1091297,0.55929256,0.946293
+FXYD5,FXYD domain-containing ion transport regulator 5,HF,rs756845,G,A,False,1648.848,0.04954845,2.4226147e-05,protein_to_disease_supported,flipped,1.0223582,0.53379576,0.946293
+CCL11,Eotaxin,HF,rs140905292,A,G,False,199.385,0.0050602204,2.7260363e-06,protein_to_disease_supported,aligned,0.97705697,0.848936,0.971009
+NELL2,Protein kinase C-binding protein NELL2,HF,rs382115,C,T,False,549.794,0.014467222,7.7177078e-05,protein_to_disease_supported,flipped,1.0757719,0.28586939,0.841464
+CKMT1A_CKMT1B,"Creatine kinase U-type, mitochondrial",HF,rs690604,T,G,False,407.273,0.012592259,1.399063e-05,protein_to_disease_supported,aligned,1.0338942,0.64414962,0.957279
+CFHR4,Complement factor H-related protein 4,HF,rs4915363,C,T,False,7792.881,0.22726626,0.0002690501,protein_to_disease_supported,flipped,1.035006,0.046294227,0.469117
+LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,HF,rs111949142,A,T,True,5622.220,0.15718916,7.6947155e-05,protein_to_disease_supported,aligned,0.97811788,0.40709561,0.889069
+CXADR,Coxsackievirus and adenovirus receptor,HF,rs2849900,C,T,False,247.848,0.0067661532,6.071638e-06,protein_to_disease_supported,flipped,1.0304091,0.7871041,0.971009
+UNC5D,Netrin receptor UNC5D,HF,rs13260977,G,A,False,67.023,0.0019934208,0.00016651456,protein_to_disease_supported,flipped,1.3351173,0.25638817,0.841464
+IFNLR1,Interferon lambda receptor 1,HF,rs139958347,C,G,True,1938.043,0.067548142,1.5553885e-05,protein_to_disease_supported,aligned,0.98494011,0.73591778,0.971009
+SIGLEC1,Sialoadhesin,HF,rs189448562,C,G,True,2723.399,0.075545926,0.00012219308,protein_to_disease_supported,aligned,0.96058025,0.21222347,0.805663

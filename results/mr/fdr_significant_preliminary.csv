@@ -1,0 +1,10 @@
+protein,protein_name,panel,outcome_id,outcome_name,SNP,or,or_lci95,or_uci95,pval_mr,fdr,harmonise_action
+PKLR,Pyruvate kinase PKLR,Inflammation,AF,Atrial fibrillation,rs77350683,0.86176886,0.79999741,0.92830996,8.8442529e-05,0.0108121,aligned
+FGF5,Fibroblast growth factor 5,Inflammation,AF,Atrial fibrillation,rs12509595,1.0628884,1.0411235,1.0851083,7.5693691e-09,3.70142e-06,aligned
+SPON1,Spondin-1,Inflammation,AF,Atrial fibrillation,rs10832164,1.1137385,1.0653928,1.1642781,1.9593173e-06,0.000319369,flipped
+TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inflammation,AF,Atrial fibrillation,rs80067372,0.89624508,0.8615618,0.93232458,5.3280571e-08,1.30271e-05,flipped
+NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",Inflammation,AF,Atrial fibrillation,rs657693,1.2774074,1.119434,1.4576739,0.00027783496,0.0271723,aligned
+LPA,Apolipoprotein(a),Inflammation_II,HF,Heart failure,rs56393506,1.0797214,1.0495757,1.1107329,1.1017337e-07,2.25855e-05,aligned
+APOA2,Apolipoprotein A-II,Inflammation_II,HF,Heart failure,rs4073054,0.64252639,0.50722419,0.81392048,0.00024573278,0.0251876,aligned
+CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,Inflammation_II,HF,Heart failure,rs12740374,0.88273185,0.84700552,0.91996511,3.2682066e-09,1.33996e-06,aligned
+ABO,Histo-blood group ABO system transferase,Inflammation_II,HF,Heart failure,rs505922,1.0343982,1.0197848,1.0492211,3.1802168e-06,0.00043463,flipped

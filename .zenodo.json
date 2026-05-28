@@ -1,0 +1,20 @@
+{
+  "title": "Genetically Supported Inflammatory Mediators of the Atrial Fibrillation-Heart Failure Continuum",
+  "upload_type": "software",
+  "description": "Reproducible analysis code, derived non-restricted tables, and figures for a cis-pQTL Mendelian randomization, dual-outcome colocalization, mediation, and target-prioritization study of inflammatory mediators in the atrial fibrillation-heart failure continuum.",
+  "creators": [
+    {
+      "name": "To be updated"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "atrial fibrillation",
+    "heart failure",
+    "Mendelian randomization",
+    "cis-pQTL",
+    "colocalization",
+    "inflammatory proteins"
+  ],
+  "access_right": "open"
+}

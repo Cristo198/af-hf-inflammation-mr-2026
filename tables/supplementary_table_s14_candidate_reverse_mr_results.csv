@@ -1,0 +1,9 @@
+analysis_set,exposure,outcome_protein,protein_name,method,n_instruments,n_target_cis_excluded,beta_reverse,se_reverse,p_reverse,q_heterogeneity,interpretation
+all_distance_pruned,AF genetic liability,FGF5,Fibroblast growth factor 5,Fixed-effect IVW,74,0,0.080721771,0.010914173,1.4033219e-13,7501.6181,nominal_reverse_signal
+target_cis_excluded,AF genetic liability,FGF5,Fibroblast growth factor 5,Fixed-effect IVW,73,1,0.024050584,0.010934032,0.027834724,99.611131,nominal_reverse_signal
+all_distance_pruned,HF genetic liability,FGF5,Fibroblast growth factor 5,Fixed-effect IVW,9,0,0.050980724,0.042339375,0.228552,50.685269,no_reverse_signal
+target_cis_excluded,HF genetic liability,FGF5,Fibroblast growth factor 5,Fixed-effect IVW,9,0,0.050980724,0.042339375,0.228552,50.685269,no_reverse_signal
+all_distance_pruned,AF genetic liability,LPA,Apolipoprotein(a),Fixed-effect IVW,74,0,-0.0051113126,0.010175185,0.61543458,58.699939,no_reverse_signal
+target_cis_excluded,AF genetic liability,LPA,Apolipoprotein(a),Fixed-effect IVW,74,0,-0.0051113126,0.010175185,0.61543458,58.699939,no_reverse_signal
+all_distance_pruned,HF genetic liability,LPA,Apolipoprotein(a),Fixed-effect IVW,9,0,0.92492293,0.04151242,0,4620.2024,nominal_reverse_signal
+target_cis_excluded,HF genetic liability,LPA,Apolipoprotein(a),Fixed-effect IVW,8,1,-0.006630603,0.043721759,0.87945942,11.916333,no_reverse_signal

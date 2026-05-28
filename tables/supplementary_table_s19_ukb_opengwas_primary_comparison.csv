@@ -1,0 +1,1059 @@
+protein,protein_name,panel,primary_outcome,replication_outcome,SNP,primary_or,primary_p,primary_fdr,replication_or,replication_p,replication_fdr,replication_status
+ADA,Adenosine deaminase,Inflammation,AF,UKB_AF,rs11555566,0.97942922,0.062865741,0.570142,,,,not_matched_in_ukb
+ADA,Adenosine deaminase,Inflammation,HF,UKB_HF,rs11555566,0.96620262,0.0076607611,0.285537,,,,not_matched_in_ukb
+ADAM23,Disintegrin and metalloproteinase domain-containing protein 23,Inflammation,AF,UKB_AF,rs72933203,0.99398068,0.63905066,0.904093,,,,not_matched_in_ukb
+ADAM23,Disintegrin and metalloproteinase domain-containing protein 23,Inflammation,HF,UKB_HF,rs72933203,0.9857492,0.33980761,0.854731,,,,not_matched_in_ukb
+ADGRE2,Adhesion G protein-coupled receptor E2,Inflammation,AF,UKB_AF,rs7251607,1.0340047,0.24742499,0.801264,,,,not_matched_in_ukb
+ADGRE2,Adhesion G protein-coupled receptor E2,Inflammation,HF,UKB_HF,rs7251607,0.98719462,0.69992874,0.971009,,,,not_matched_in_ukb
+AGRN,Agrin,Inflammation,AF,UKB_AF,rs3121560,0.98501625,0.4532547,0.886121,,,,not_matched_in_ukb
+AGRN,Agrin,Inflammation,HF,UKB_HF,rs3121560,1.0061104,0.78912897,0.971009,,,,not_matched_in_ukb
+AGRP,Agouti-related protein,Inflammation,AF,UKB_AF,rs188707867,1.1131888,0.28860745,0.825746,,,,not_matched_in_ukb
+AGRP,Agouti-related protein,Inflammation,HF,UKB_HF,rs188707867,,,,,,,not_in_primary
+ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Inflammation,AF,UKB_AF,rs887241,2.9862397,0.32276832,0.857964,,,,not_matched_in_ukb
+ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Inflammation,HF,UKB_HF,rs887241,0.9608721,0.02005586,0.441689,,,,not_matched_in_ukb
+AMBN,Ameloblastin,Inflammation,AF,UKB_AF,4:70513213:TA:T,,,,,,,not_in_primary
+AMBN,Ameloblastin,Inflammation,HF,UKB_HF,4:70513213:TA:T,,,,,,,not_in_primary
+ANGPTL4,Angiopoietin-related protein 4,Inflammation,AF,UKB_AF,rs2278236,0.95769195,0.070923002,0.570142,,,,not_matched_in_ukb
+ANGPTL4,Angiopoietin-related protein 4,Inflammation,HF,UKB_HF,rs2278236,1.0107756,0.70413335,0.971009,,,,not_matched_in_ukb
+ANXA11,Annexin A11,Inflammation,AF,UKB_AF,rs2784773,1.0045374,0.96581541,0.995872,,,,not_matched_in_ukb
+ANXA11,Annexin A11,Inflammation,HF,UKB_HF,rs2784773,0.86775218,0.25165389,0.841464,,,,not_matched_in_ukb
+AOC1,Amiloride-sensitive amine oxidase [copper-containing],Inflammation,AF,UKB_AF,rs1049742,1.0429112,0.093460507,0.617597,,,,not_matched_in_ukb
+AOC1,Amiloride-sensitive amine oxidase [copper-containing],Inflammation,HF,UKB_HF,rs1049742,1.0132166,0.65836122,0.958188,,,,not_matched_in_ukb
+ATP5IF1,"ATPase inhibitor, mitochondrial",Inflammation,AF,UKB_AF,rs510379,0.86712224,0.021203126,0.471288,,,,not_matched_in_ukb
+ATP5IF1,"ATPase inhibitor, mitochondrial",Inflammation,HF,UKB_HF,rs510379,0.93579784,0.3668237,0.871741,,,,not_matched_in_ukb
+B4GALT1,"Beta-1,4-galactosyltransferase 1",Inflammation,AF,UKB_AF,rs7019909,1.0124415,0.71431178,0.904093,,,,not_matched_in_ukb
+B4GALT1,"Beta-1,4-galactosyltransferase 1",Inflammation,HF,UKB_HF,rs7019909,0.97381011,0.50498508,0.946293,,,,not_matched_in_ukb
+BANK1,B-cell scaffold protein with ankyrin repeats,Inflammation,AF,UKB_AF,rs3113676,0.99000462,0.89392977,0.984187,,,,not_matched_in_ukb
+BANK1,B-cell scaffold protein with ankyrin repeats,Inflammation,HF,UKB_HF,rs3113676,1.1728949,0.092545727,0.606285,,,,not_matched_in_ukb
+BCR,Breakpoint cluster region protein,Inflammation,AF,UKB_AF,rs149005797,0.91001207,0.48117132,0.904093,,,,not_matched_in_ukb
+BCR,Breakpoint cluster region protein,Inflammation,HF,UKB_HF,rs149005797,,,,,,,not_in_primary
+BID,BH3-interacting domain death agonist,Inflammation,AF,UKB_AF,rs183393610,1.0212793,0.85031214,0.955868,,,,not_matched_in_ukb
+BID,BH3-interacting domain death agonist,Inflammation,HF,UKB_HF,rs183393610,,,,,,,not_in_primary
+BSG,Basigin,Inflammation,AF,UKB_AF,rs56101188,0.95229491,0.38558758,0.869993,1.0012236,0.45849362,0.65405823,opposite_direction_not_significant
+BSG,Basigin,Inflammation,HF,UKB_HF,rs56101188,0.95506028,0.50879556,0.946293,1.0000442,0.96664844,0.96664844,opposite_direction_not_significant
+C1QA,Complement C1q subcomponent subunit A,Inflammation,AF,UKB_AF,rs12058824,0.99132491,0.64943628,0.904093,,,,not_matched_in_ukb
+C1QA,Complement C1q subcomponent subunit A,Inflammation,HF,UKB_HF,rs12058824,0.99968322,0.98852004,0.994067,,,,not_matched_in_ukb
+CCL11,Eotaxin,Inflammation,AF,UKB_AF,rs140905292,0.86783929,0.17815528,0.744598,,,,not_matched_in_ukb
+CCL11,Eotaxin,Inflammation,HF,UKB_HF,rs140905292,0.97705697,0.848936,0.971009,,,,not_matched_in_ukb
+CCL13,C-C motif chemokine 13,Inflammation,AF,UKB_AF,rs3136674,0.98348089,0.59791775,0.904093,,,,not_matched_in_ukb
+CCL13,C-C motif chemokine 13,Inflammation,HF,UKB_HF,rs3136674,1.0412823,0.28800876,0.841464,,,,not_matched_in_ukb
+CCL17,C-C motif chemokine 17,Inflammation,AF,UKB_AF,rs9302690,1.0057906,0.85572542,0.959747,,,,not_matched_in_ukb
+CCL17,C-C motif chemokine 17,Inflammation,HF,UKB_HF,rs9302690,1.000525,0.9892181,0.994067,,,,not_matched_in_ukb
+CCL20,C-C motif chemokine 20,Inflammation,AF,UKB_AF,rs1395338,1.0847101,0.26371776,0.810461,,,,not_matched_in_ukb
+CCL20,C-C motif chemokine 20,Inflammation,HF,UKB_HF,rs1395338,0.99253864,0.93027409,0.988165,,,,not_matched_in_ukb
+CCL21,C-C motif chemokine 21,Inflammation,AF,UKB_AF,rs10814138,1.0385237,0.59317095,0.904093,,,,not_matched_in_ukb
+CCL21,C-C motif chemokine 21,Inflammation,HF,UKB_HF,rs10814138,1.091149,0.30091053,0.848366,,,,not_matched_in_ukb
+CCL22,C-C motif chemokine 22,Inflammation,AF,UKB_AF,rs41398344,1.012574,0.78072192,0.922471,,,,not_matched_in_ukb
+CCL22,C-C motif chemokine 22,Inflammation,HF,UKB_HF,rs41398344,,,,,,,not_in_primary
+CCL23,C-C motif chemokine 23,Inflammation,AF,UKB_AF,rs712048,0.98794164,0.49019419,0.904093,,,,not_matched_in_ukb
+CCL23,C-C motif chemokine 23,Inflammation,HF,UKB_HF,rs712048,1.0357898,0.098352731,0.606285,,,,not_matched_in_ukb
+CCL24,C-C motif chemokine 24,Inflammation,AF,UKB_AF,rs2024050,1.01554,0.05837687,0.570142,,,,not_matched_in_ukb
+CCL24,C-C motif chemokine 24,Inflammation,HF,UKB_HF,rs2024050,1.0113382,0.24029794,0.836791,,,,not_matched_in_ukb
+CCL25,C-C motif chemokine 25,Inflammation,AF,UKB_AF,rs2032887,1.0065126,0.53197106,0.904093,,,,not_matched_in_ukb
+CCL25,C-C motif chemokine 25,Inflammation,HF,UKB_HF,rs2032887,0.99974038,0.98284251,0.994067,,,,not_matched_in_ukb
+CCL26,C-C motif chemokine 26,Inflammation,AF,UKB_AF,rs41463245,0.99077389,0.78943416,0.922471,,,,not_matched_in_ukb
+CCL26,C-C motif chemokine 26,Inflammation,HF,UKB_HF,rs41463245,,,,,,,not_in_primary
+CCL28,C-C motif chemokine 28,Inflammation,AF,UKB_AF,rs200708155,,,,,,,not_in_primary
+CCL28,C-C motif chemokine 28,Inflammation,HF,UKB_HF,rs200708155,,,,,,,not_in_primary
+CCL3,C-C motif chemokine 3,Inflammation,AF,UKB_AF,rs1634486,0.97342792,0.55821679,0.904093,,,,not_matched_in_ukb
+CCL3,C-C motif chemokine 3,Inflammation,HF,UKB_HF,rs1634486,,,,,,,not_in_primary
+CCL4,C-C motif chemokine 4,Inflammation,AF,UKB_AF,rs1015673,1.0418993,0.1201327,0.682546,,,,not_matched_in_ukb
+CCL4,C-C motif chemokine 4,Inflammation,HF,UKB_HF,rs1015673,0.98327783,0.58863419,0.946293,,,,not_matched_in_ukb
+CCL7,C-C motif chemokine 7,Inflammation,AF,UKB_AF,rs6505397,1.0066609,0.91679033,0.986349,,,,not_matched_in_ukb
+CCL7,C-C motif chemokine 7,Inflammation,HF,UKB_HF,rs6505397,1.0172179,0.81976433,0.971009,,,,not_matched_in_ukb
+CCN2,CCN family member 2,Inflammation,AF,UKB_AF,rs7767139,1.044568,0.052684253,0.570142,,,,not_matched_in_ukb
+CCN2,CCN family member 2,Inflammation,HF,UKB_HF,rs7767139,1.0425131,0.1192582,0.643367,,,,not_matched_in_ukb
+CD160,CD160 antigen,Inflammation,AF,UKB_AF,rs9728526,0.99317893,0.72239245,0.904093,,,,not_matched_in_ukb
+CD160,CD160 antigen,Inflammation,HF,UKB_HF,rs9728526,0.94145151,0.010493154,0.3073,,,,not_matched_in_ukb
+CD200,OX-2 membrane glycoprotein,Inflammation,AF,UKB_AF,rs2399420,1.050921,0.23696426,0.777778,,,,not_matched_in_ukb
+CD200,OX-2 membrane glycoprotein,Inflammation,HF,UKB_HF,rs2399420,1.0319054,0.52715628,0.946293,,,,not_matched_in_ukb
+CD200R1,Cell surface glycoprotein CD200 receptor 1,Inflammation,AF,UKB_AF,rs16860233,0.99100166,0.36462185,0.869993,,,,not_matched_in_ukb
+CD200R1,Cell surface glycoprotein CD200 receptor 1,Inflammation,HF,UKB_HF,rs16860233,0.99819382,0.87857352,0.974199,,,,not_matched_in_ukb
+CD22,B-cell receptor CD22,Inflammation,AF,UKB_AF,rs10411704,1.0268215,0.35880367,0.869993,,,,not_matched_in_ukb
+CD22,B-cell receptor CD22,Inflammation,HF,UKB_HF,rs10411704,0.98953575,0.7541809,0.971009,,,,not_matched_in_ukb
+CD244,Natural killer cell receptor 2B4,Inflammation,AF,UKB_AF,rs115868021,1.0486538,0.019196876,0.469364,,,,not_matched_in_ukb
+CD244,Natural killer cell receptor 2B4,Inflammation,HF,UKB_HF,rs115868021,,,,,,,not_in_primary
+CD276,CD276 antigen,Inflammation,AF,UKB_AF,rs2291014,0.99262216,0.37245088,0.869993,,,,not_matched_in_ukb
+CD276,CD276 antigen,Inflammation,HF,UKB_HF,rs2291014,0.99641604,0.72018695,0.971009,,,,not_matched_in_ukb
+CD4,T-cell surface glycoprotein CD4,Inflammation,AF,UKB_AF,rs73053728,1.0365563,0.081291135,0.584579,,,,not_matched_in_ukb
+CD4,T-cell surface glycoprotein CD4,Inflammation,HF,UKB_HF,rs73053728,1.0239397,0.32297045,0.853675,,,,not_matched_in_ukb
+CD40,Tumor necrosis factor receptor superfamily member 5,Inflammation,AF,UKB_AF,rs4810485,0.97051111,0.099075819,0.634898,,,,not_matched_in_ukb
+CD40,Tumor necrosis factor receptor superfamily member 5,Inflammation,HF,UKB_HF,rs4810485,0.97257194,0.19473329,0.782751,,,,not_matched_in_ukb
+CD48,CD48 antigen,Inflammation,AF,UKB_AF,rs2295615,0.99284404,0.51126917,0.904093,,,,not_matched_in_ukb
+CD48,CD48 antigen,Inflammation,HF,UKB_HF,rs2295615,0.98891422,0.39395938,0.877844,,,,not_matched_in_ukb
+CD58,Lymphocyte function-associated antigen 3,Inflammation,AF,UKB_AF,rs10801908,1.0375532,0.3372586,0.859547,,,,not_matched_in_ukb
+CD58,Lymphocyte function-associated antigen 3,Inflammation,HF,UKB_HF,rs10801908,1.1330962,0.0068123175,0.285537,,,,not_matched_in_ukb
+CD6,T-cell differentiation antigen CD6,Inflammation,AF,UKB_AF,rs11230563,1.005076,0.55806753,0.904093,,,,not_matched_in_ukb
+CD6,T-cell differentiation antigen CD6,Inflammation,HF,UKB_HF,rs11230563,0.99482672,0.61283973,0.948167,,,,not_matched_in_ukb
+CD70,CD70 antigen,Inflammation,AF,UKB_AF,rs7254538,1.0077586,0.42049916,0.869993,,,,not_matched_in_ukb
+CD70,CD70 antigen,Inflammation,HF,UKB_HF,rs7254538,1.0020008,0.85992425,0.971009,,,,not_matched_in_ukb
+CD79B,B-cell antigen receptor complex-associated protein beta chain,Inflammation,AF,UKB_AF,rs12946669,0.95104428,0.22786286,0.769429,,,,not_matched_in_ukb
+CD79B,B-cell antigen receptor complex-associated protein beta chain,Inflammation,HF,UKB_HF,rs12946669,0.97223476,0.57010203,0.946293,,,,not_matched_in_ukb
+CD83,CD83 antigen,Inflammation,AF,UKB_AF,rs12526086,0.96796035,0.41650479,0.869993,,,,not_matched_in_ukb
+CD83,CD83 antigen,Inflammation,HF,UKB_HF,rs12526086,1.0840011,0.083419167,0.606285,,,,not_matched_in_ukb
+CD84,SLAM family member 5,Inflammation,AF,UKB_AF,rs11265440,0.95484632,0.41681125,0.869993,,,,not_matched_in_ukb
+CD84,SLAM family member 5,Inflammation,HF,UKB_HF,rs11265440,0.99902774,0.98835246,0.994067,,,,not_matched_in_ukb
+CDON,Cell adhesion molecule-related/down-regulated by oncogenes,Inflammation,AF,UKB_AF,rs607980,1.0614643,0.33056673,0.858912,,,,not_matched_in_ukb
+CDON,Cell adhesion molecule-related/down-regulated by oncogenes,Inflammation,HF,UKB_HF,rs607980,1.017269,0.8209857,0.971009,,,,not_matched_in_ukb
+CEACAM21,Carcinoembryonic antigen-related cell adhesion molecule 21,Inflammation,AF,UKB_AF,rs140838345,0.97621575,0.13106869,0.702553,,,,not_matched_in_ukb
+CEACAM21,Carcinoembryonic antigen-related cell adhesion molecule 21,Inflammation,HF,UKB_HF,rs140838345,,,,,,,not_in_primary
+CKAP4,Cytoskeleton-associated protein 4,Inflammation,AF,UKB_AF,rs2704895,0.98092787,0.59551289,0.904093,,,,not_matched_in_ukb
+CKAP4,Cytoskeleton-associated protein 4,Inflammation,HF,UKB_HF,rs2704895,0.97785772,0.60248288,0.946293,,,,not_matched_in_ukb
+CKMT1A_CKMT1B,"Creatine kinase U-type, mitochondrial",Inflammation,AF,UKB_AF,rs690604,1.1193092,0.048165695,0.570142,,,,not_matched_in_ukb
+CKMT1A_CKMT1B,"Creatine kinase U-type, mitochondrial",Inflammation,HF,UKB_HF,rs690604,1.0338942,0.64414962,0.957279,,,,not_matched_in_ukb
+CLEC4A,C-type lectin domain family 4 member A,Inflammation,AF,UKB_AF,rs117213717,1.0067013,0.68011391,0.904093,,,,not_matched_in_ukb
+CLEC4A,C-type lectin domain family 4 member A,Inflammation,HF,UKB_HF,rs117213717,,,,,,,not_in_primary
+CLEC4C,C-type lectin domain family 4 member C,Inflammation,AF,UKB_AF,rs10845821,0.99379891,0.4357372,0.87326,,,,not_matched_in_ukb
+CLEC4C,C-type lectin domain family 4 member C,Inflammation,HF,UKB_HF,rs10845821,0.99263321,0.43098923,0.91207,,,,not_matched_in_ukb
+CLEC4D,C-type lectin domain family 4 member D,Inflammation,AF,UKB_AF,rs4242896,0.96448462,0.0041612562,0.213325,,,,not_matched_in_ukb
+CLEC4D,C-type lectin domain family 4 member D,Inflammation,HF,UKB_HF,rs4242896,0.99699109,0.83747196,0.971009,,,,not_matched_in_ukb
+CLEC4G,C-type lectin domain family 4 member G,Inflammation,AF,UKB_AF,rs76560987,0.99919908,0.98290378,0.995872,,,,not_matched_in_ukb
+CLEC4G,C-type lectin domain family 4 member G,Inflammation,HF,UKB_HF,rs76560987,1.0857384,0.046911674,0.469117,,,,not_matched_in_ukb
+CLEC7A,C-type lectin domain family 7 member A,Inflammation,AF,UKB_AF,rs16910526,0.99820889,0.81847395,0.939516,,,,not_matched_in_ukb
+CLEC7A,C-type lectin domain family 7 member A,Inflammation,HF,UKB_HF,rs16910526,1.0061009,0.5094321,0.946293,,,,not_matched_in_ukb
+CLIP2,CAP-Gly domain-containing linker protein 2,Inflammation,AF,UKB_AF,rs117471007,1.0811405,0.1546325,0.717809,,,,not_matched_in_ukb
+CLIP2,CAP-Gly domain-containing linker protein 2,Inflammation,HF,UKB_HF,rs117471007,1.0802758,0.22481017,0.815683,,,,not_matched_in_ukb
+CLSTN2,Calsyntenin-2,Inflammation,AF,UKB_AF,rs41265459,0.98832939,0.6285601,0.904093,,,,not_matched_in_ukb
+CLSTN2,Calsyntenin-2,Inflammation,HF,UKB_HF,rs41265459,,,,,,,not_in_primary
+CNTNAP2,Contactin-associated protein-like 2,Inflammation,AF,UKB_AF,rs7810370,0.98336133,0.20884173,0.769429,,,,not_matched_in_ukb
+CNTNAP2,Contactin-associated protein-like 2,Inflammation,HF,UKB_HF,rs7810370,0.98602614,0.36995817,0.871741,,,,not_matched_in_ukb
+COLEC12,Collectin-12,Inflammation,AF,UKB_AF,rs149622251,1.0946425,0.18166299,0.750044,,,,not_matched_in_ukb
+COLEC12,Collectin-12,Inflammation,HF,UKB_HF,rs149622251,,,,,,,not_in_primary
+CRELD2,Protein disulfide isomerase CRELD2,Inflammation,AF,UKB_AF,rs74510325,1.0370801,0.14084899,0.71745,,,,not_matched_in_ukb
+CRELD2,Protein disulfide isomerase CRELD2,Inflammation,HF,UKB_HF,rs74510325,1.0061691,0.83150952,0.971009,,,,not_matched_in_ukb
+CRHBP,Corticotropin-releasing factor-binding protein,Inflammation,AF,UKB_AF,rs6896257,1.0131703,0.28486945,0.825746,,,,not_matched_in_ukb
+CRHBP,Corticotropin-releasing factor-binding protein,Inflammation,HF,UKB_HF,rs6896257,1.0148934,0.311716,0.848366,,,,not_matched_in_ukb
+CRIM1,Cysteine-rich motor neuron 1 protein,Inflammation,AF,UKB_AF,rs201258494,,,,,,,not_in_primary
+CRIM1,Cysteine-rich motor neuron 1 protein,Inflammation,HF,UKB_HF,rs201258494,,,,,,,not_in_primary
+CSF1,Macrophage colony-stimulating factor 1,Inflammation,AF,UKB_AF,rs11577194,0.97984453,0.57060264,0.904093,,,,not_matched_in_ukb
+CSF1,Macrophage colony-stimulating factor 1,Inflammation,HF,UKB_HF,rs11577194,1.0561753,0.19097769,0.782751,,,,not_matched_in_ukb
+CSF3,Granulocyte colony-stimulating factor,Inflammation,AF,UKB_AF,rs748908389,,,,,,,not_in_primary
+CSF3,Granulocyte colony-stimulating factor,Inflammation,HF,UKB_HF,rs748908389,,,,,,,not_in_primary
+CST7,Cystatin-F,Inflammation,AF,UKB_AF,rs227651,0.98280187,0.073434067,0.570142,,,,not_matched_in_ukb
+CST7,Cystatin-F,Inflammation,HF,UKB_HF,rs227651,0.98905352,0.40295036,0.889069,,,,not_matched_in_ukb
+CTRC,Chymotrypsin-C,Inflammation,AF,UKB_AF,rs497078,0.99824511,0.93188768,0.986349,,,,not_matched_in_ukb
+CTRC,Chymotrypsin-C,Inflammation,HF,UKB_HF,rs497078,1.0456236,0.099075819,0.606285,,,,not_matched_in_ukb
+CTSC,Dipeptidyl peptidase 1,Inflammation,AF,UKB_AF,rs11600158,1.0144614,0.21691142,0.769429,,,,not_matched_in_ukb
+CTSC,Dipeptidyl peptidase 1,Inflammation,HF,UKB_HF,rs11600158,0.9912419,0.52841016,0.946293,,,,not_matched_in_ukb
+CTSO,Cathepsin O,Inflammation,AF,UKB_AF,rs2334114,0.98319803,0.65575391,0.904093,,,,not_matched_in_ukb
+CTSO,Cathepsin O,Inflammation,HF,UKB_HF,rs2334114,1.0944142,0.046602064,0.469117,,,,not_matched_in_ukb
+CXADR,Coxsackievirus and adenovirus receptor,Inflammation,AF,UKB_AF,rs2849900,0.96970295,0.75149654,0.909608,,,,not_matched_in_ukb
+CXADR,Coxsackievirus and adenovirus receptor,Inflammation,HF,UKB_HF,rs2849900,1.0304091,0.7871041,0.971009,,,,not_matched_in_ukb
+CXCL1,Growth-regulated alpha protein,Inflammation,AF,UKB_AF,rs3097411,0.98908363,0.34276408,0.859547,,,,not_matched_in_ukb
+CXCL1,Growth-regulated alpha protein,Inflammation,HF,UKB_HF,rs3097411,1.0150941,0.27746948,0.841464,,,,not_matched_in_ukb
+CXCL10,C-X-C motif chemokine 10,Inflammation,AF,UKB_AF,rs11548618,0.98070631,0.51934236,0.904093,,,,not_matched_in_ukb
+CXCL10,C-X-C motif chemokine 10,Inflammation,HF,UKB_HF,rs11548618,,,,,,,not_in_primary
+CXCL12,Stromal cell-derived factor 1,Inflammation,AF,UKB_AF,rs11239028,1.0269727,0.4639279,0.892952,,,,not_matched_in_ukb
+CXCL12,Stromal cell-derived factor 1,Inflammation,HF,UKB_HF,rs11239028,1.0412635,0.34697336,0.856601,,,,not_matched_in_ukb
+CXCL14,C-X-C motif chemokine 14,Inflammation,AF,UKB_AF,rs13171268,0.90075219,0.27005271,0.810461,,,,not_matched_in_ukb
+CXCL14,C-X-C motif chemokine 14,Inflammation,HF,UKB_HF,rs13171268,1.1195055,0.31129905,0.848366,,,,not_matched_in_ukb
+CXCL17,C-X-C motif chemokine 17,Inflammation,AF,UKB_AF,rs11668599,1.3117458,0.0087171855,0.28418,,,,not_matched_in_ukb
+CXCL17,C-X-C motif chemokine 17,Inflammation,HF,UKB_HF,rs11668599,1.2929714,0.032858925,0.457404,,,,not_matched_in_ukb
+CXCL6,C-X-C motif chemokine 6,Inflammation,AF,UKB_AF,rs16850073,1.0245951,0.052033421,0.570142,,,,not_matched_in_ukb
+CXCL6,C-X-C motif chemokine 6,Inflammation,HF,UKB_HF,rs16850073,1.0278954,0.063536033,0.529308,,,,not_matched_in_ukb
+CXCL8,Interleukin-8,Inflammation,AF,UKB_AF,rs74468557,0.84388204,0.054288397,0.570142,,,,not_matched_in_ukb
+CXCL8,Interleukin-8,Inflammation,HF,UKB_HF,rs74468557,0.84341406,0.10247347,0.607042,,,,not_matched_in_ukb
+CXCL9,C-X-C motif chemokine 9,Inflammation,AF,UKB_AF,rs13118503,1.065618,0.21729003,0.769429,,,,not_matched_in_ukb
+CXCL9,C-X-C motif chemokine 9,Inflammation,HF,UKB_HF,rs13118503,0.93654105,0.28151463,0.841464,,,,not_matched_in_ukb
+DAG1,Dystroglycan,Inflammation,AF,UKB_AF,3:49452394:CA:C,,,,,,,not_in_primary
+DAG1,Dystroglycan,Inflammation,HF,UKB_HF,3:49452394:CA:C,,,,,,,not_in_primary
+DAPP1,Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide,Inflammation,AF,UKB_AF,rs7688733,0.97331522,0.68247295,0.904093,,,,not_matched_in_ukb
+DAPP1,Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide,Inflammation,HF,UKB_HF,rs7688733,1.093251,0.25385925,0.841464,,,,not_matched_in_ukb
+DBNL,Drebrin-like protein,Inflammation,AF,UKB_AF,rs7799945,1.2269537,0.10599957,0.634898,,,,not_matched_in_ukb
+DBNL,Drebrin-like protein,Inflammation,HF,UKB_HF,rs7799945,1.2570921,0.12481239,0.660257,,,,not_matched_in_ukb
+DECR1,"2,4-dienoyl-CoA reductase, mitochondrial",Inflammation,AF,UKB_AF,rs189045259,1.0431894,0.53588499,0.904093,,,,not_matched_in_ukb
+DECR1,"2,4-dienoyl-CoA reductase, mitochondrial",Inflammation,HF,UKB_HF,rs189045259,,,,,,,not_in_primary
+DFFA,DNA fragmentation factor subunit alpha,Inflammation,AF,UKB_AF,rs183281838,0.90638223,0.36343886,0.869993,,,,not_matched_in_ukb
+DFFA,DNA fragmentation factor subunit alpha,Inflammation,HF,UKB_HF,rs183281838,,,,,,,not_in_primary
+DNER,Delta and Notch-like epidermal growth factor-related receptor,Inflammation,AF,UKB_AF,rs34412673,0.9694347,0.22044258,0.769429,,,,not_matched_in_ukb
+DNER,Delta and Notch-like epidermal growth factor-related receptor,Inflammation,HF,UKB_HF,rs34412673,0.98301912,0.56305265,0.946293,,,,not_matched_in_ukb
+DNPH1,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,Inflammation,AF,UKB_AF,rs77321231,1.0157639,0.5165655,0.904093,,,,not_matched_in_ukb
+DNPH1,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,Inflammation,HF,UKB_HF,rs77321231,0.99479992,0.8546363,0.971009,,,,not_matched_in_ukb
+DPP10,Inactive dipeptidyl peptidase 10,Inflammation,AF,UKB_AF,rs17355498,1.0295412,0.25665684,0.80452,,,,not_matched_in_ukb
+DPP10,Inactive dipeptidyl peptidase 10,Inflammation,HF,UKB_HF,rs17355498,1.0127215,0.67223914,0.963699,,,,not_matched_in_ukb
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Inflammation,AF,UKB_AF,rs140661471,0.97901454,0.28903499,0.825746,,,,not_matched_in_ukb
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Inflammation,HF,UKB_HF,rs140661471,0.98415996,0.48094265,0.930125,,,,not_matched_in_ukb
+EGF,Pro-epidermal growth factor,Inflammation,AF,UKB_AF,rs3831508,0.93502996,0.60079625,0.904093,,,,not_matched_in_ukb
+EGF,Pro-epidermal growth factor,Inflammation,HF,UKB_HF,rs3831508,,,,,,,not_in_primary
+EGLN1,Egl nine homolog 1,Inflammation,AF,UKB_AF,rs77466488,0.93765969,0.20443898,0.769429,,,,not_matched_in_ukb
+EGLN1,Egl nine homolog 1,Inflammation,HF,UKB_HF,rs77466488,1.03133,0.59190155,0.946293,,,,not_matched_in_ukb
+ENAH,Protein enabled homolog,Inflammation,AF,UKB_AF,rs10799316,1.188576,0.0052349726,0.213325,,,,not_matched_in_ukb
+ENAH,Protein enabled homolog,Inflammation,HF,UKB_HF,rs10799316,1.1344546,0.087910982,0.606285,,,,not_matched_in_ukb
+ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,Inflammation,AF,UKB_AF,rs9472701,1.0152817,0.087239077,0.609427,,,,not_matched_in_ukb
+ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,Inflammation,HF,UKB_HF,rs9472701,0.98014952,0.057113783,0.495811,,,,not_matched_in_ukb
+ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,Inflammation,AF,UKB_AF,rs8076533,1.0018962,0.7941931,0.922471,,,,not_matched_in_ukb
+ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,Inflammation,HF,UKB_HF,rs8076533,1.019232,0.027291915,0.457404,,,,not_matched_in_ukb
+EPHA1,Ephrin type-A receptor 1,Inflammation,AF,UKB_AF,rs75045569,1.0238701,0.49535393,0.904093,,,,not_matched_in_ukb
+EPHA1,Ephrin type-A receptor 1,Inflammation,HF,UKB_HF,rs75045569,0.94421494,0.15634389,0.724734,,,,not_matched_in_ukb
+EPO,Erythropoietin,Inflammation,AF,UKB_AF,rs11976235,0.99525731,0.96123956,0.995872,,,,not_matched_in_ukb
+EPO,Erythropoietin,Inflammation,HF,UKB_HF,rs11976235,,,,,,,not_in_primary
+ERBB3,Receptor tyrosine-protein kinase erbB-3,Inflammation,AF,UKB_AF,rs75526830,1.0670089,0.015041739,0.408634,,,,not_matched_in_ukb
+ERBB3,Receptor tyrosine-protein kinase erbB-3,Inflammation,HF,UKB_HF,rs75526830,,,,,,,not_in_primary
+ESM1,Endothelial cell-specific molecule 1,Inflammation,AF,UKB_AF,rs4242051,0.99687334,0.93789004,0.987363,,,,not_matched_in_ukb
+ESM1,Endothelial cell-specific molecule 1,Inflammation,HF,UKB_HF,rs4242051,1.0786166,0.11106901,0.615382,,,,not_matched_in_ukb
+F2R,Proteinase-activated receptor 1,Inflammation,AF,UKB_AF,rs168753,1.0212694,0.72217343,0.904093,,,,not_matched_in_ukb
+F2R,Proteinase-activated receptor 1,Inflammation,HF,UKB_HF,rs168753,1.1648431,0.028620162,0.457404,,,,not_matched_in_ukb
+FABP1,"Fatty acid-binding protein, liver",Inflammation,AF,UKB_AF,rs2241883,0.97747168,0.4469179,0.884789,,,,not_matched_in_ukb
+FABP1,"Fatty acid-binding protein, liver",Inflammation,HF,UKB_HF,rs2241883,1,1,1,,,,not_matched_in_ukb
+FABP9,Fatty acid-binding protein 9,Inflammation,AF,UKB_AF,rs28497692,0.9731783,0.74294418,0.909608,,,,not_matched_in_ukb
+FABP9,Fatty acid-binding protein 9,Inflammation,HF,UKB_HF,rs28497692,0.81100503,0.034249909,0.457404,,,,not_matched_in_ukb
+FASLG,Tumor necrosis factor ligand superfamily member 6,Inflammation,AF,UKB_AF,rs79419452,0.91896792,0.36121968,0.869993,,,,not_matched_in_ukb
+FASLG,Tumor necrosis factor ligand superfamily member 6,Inflammation,HF,UKB_HF,rs79419452,0.9781111,0.83558256,0.971009,,,,not_matched_in_ukb
+FCAR,Immunoglobulin alpha Fc receptor,Inflammation,AF,UKB_AF,rs12608573,0.99645101,0.72098486,0.904093,,,,not_matched_in_ukb
+FCAR,Immunoglobulin alpha Fc receptor,Inflammation,HF,UKB_HF,rs12608573,1.0104834,0.37885931,0.872653,,,,not_matched_in_ukb
+FCRL2,Fc receptor-like protein 2,Inflammation,AF,UKB_AF,rs12568320,0.9948006,0.65311558,0.904093,,,,not_matched_in_ukb
+FCRL2,Fc receptor-like protein 2,Inflammation,HF,UKB_HF,rs12568320,1.0007823,0.95528225,0.988726,,,,not_matched_in_ukb
+FCRL3,Fc receptor-like protein 3,Inflammation,AF,UKB_AF,rs7522061,1.0086409,0.20854523,0.769429,,,,not_matched_in_ukb
+FCRL3,Fc receptor-like protein 3,Inflammation,HF,UKB_HF,rs7522061,1.0077003,0.34890834,0.856601,,,,not_matched_in_ukb
+FCRL6,Fc receptor-like protein 6,Inflammation,AF,UKB_AF,rs55650803,1,1,1,,,,not_matched_in_ukb
+FCRL6,Fc receptor-like protein 6,Inflammation,HF,UKB_HF,rs55650803,0.99418238,0.60306358,0.946293,,,,not_matched_in_ukb
+FGF2,Fibroblast growth factor 2,Inflammation,AF,UKB_AF,rs2922979,0.99007028,0.33075078,0.858912,,,,not_matched_in_ukb
+FGF2,Fibroblast growth factor 2,Inflammation,HF,UKB_HF,rs2922979,1.0062036,0.60470454,0.946293,,,,not_matched_in_ukb
+FGF5,Fibroblast growth factor 5,Inflammation,AF,UKB_AF,rs12509595,1.0628884,7.5693691e-09,3.70142e-06,,,,not_matched_in_ukb
+FGF5,Fibroblast growth factor 5,Inflammation,HF,UKB_HF,rs12509595,1.0293035,0.02046851,0.441689,,,,not_matched_in_ukb
+FIS1,Mitochondrial fission 1 protein,Inflammation,AF,UKB_AF,rs7778271,0.9723589,0.50351747,0.904093,,,,not_matched_in_ukb
+FIS1,Mitochondrial fission 1 protein,Inflammation,HF,UKB_HF,rs7778271,1.0296163,0.56384296,0.946293,,,,not_matched_in_ukb
+FKBP1B,Peptidyl-prolyl cis-trans isomerase FKBP1B,Inflammation,AF,UKB_AF,rs872169,1.0481957,0.14823804,0.717809,,,,not_matched_in_ukb
+FKBP1B,Peptidyl-prolyl cis-trans isomerase FKBP1B,Inflammation,HF,UKB_HF,rs872169,1.0400047,0.3124469,0.848366,,,,not_matched_in_ukb
+FOXO1,Forkhead box protein O1,Inflammation,AF,UKB_AF,rs17061453,1,1,1,,,,not_matched_in_ukb
+FOXO1,Forkhead box protein O1,Inflammation,HF,UKB_HF,rs17061453,0.98616052,0.86116772,0.971009,,,,not_matched_in_ukb
+FST,Follistatin,Inflammation,AF,UKB_AF,rs31226,1.0844758,0.090803103,0.614454,,,,not_matched_in_ukb
+FST,Follistatin,Inflammation,HF,UKB_HF,rs31226,1.1587994,0.0089882692,0.306793,,,,not_matched_in_ukb
+FSTL3,Follistatin-related protein 3,Inflammation,AF,UKB_AF,rs916904,1.0472294,0.57851472,0.904093,1.0031173,0.25741809,0.65405823,same_direction_not_significant
+FSTL3,Follistatin-related protein 3,Inflammation,HF,UKB_HF,rs916904,0.8295271,0.053784089,0.495811,0.99905671,0.59251249,0.82951749,same_direction_not_significant
+FXYD5,FXYD domain-containing ion transport regulator 5,Inflammation,AF,UKB_AF,rs756845,1.0005266,0.98549381,0.995872,,,,not_matched_in_ukb
+FXYD5,FXYD domain-containing ion transport regulator 5,Inflammation,HF,UKB_HF,rs756845,1.0223582,0.53379576,0.946293,,,,not_matched_in_ukb
+GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,Inflammation,AF,UKB_AF,rs2116546,0.99155713,0.65122951,0.904093,,,,not_matched_in_ukb
+GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,Inflammation,HF,UKB_HF,rs2116546,1.0007711,0.97184521,0.988726,,,,not_matched_in_ukb
+GBP2,Guanylate-binding protein 2,Inflammation,AF,UKB_AF,rs7531439,1.0950502,0.15780279,0.717809,,,,not_matched_in_ukb
+GBP2,Guanylate-binding protein 2,Inflammation,HF,UKB_HF,rs7531439,1.0510815,0.51399382,0.946293,,,,not_matched_in_ukb
+GMPR,GMP reductase 1,Inflammation,AF,UKB_AF,rs1042391,0.982696,0.51759387,0.904093,,,,not_matched_in_ukb
+GMPR,GMP reductase 1,Inflammation,HF,UKB_HF,rs1042391,1.0249013,0.44401429,0.912536,,,,not_matched_in_ukb
+GZMA,Granzyme A,Inflammation,AF,UKB_AF,rs2047745,1.1843974,0.15014361,0.717809,,,,not_matched_in_ukb
+GZMA,Granzyme A,Inflammation,HF,UKB_HF,rs2047745,1.075885,0.5990458,0.946293,,,,not_matched_in_ukb
+GZMB,Granzyme B,Inflammation,AF,UKB_AF,rs8192918,0.93345642,0.22014951,0.769429,,,,not_matched_in_ukb
+GZMB,Granzyme B,Inflammation,HF,UKB_HF,rs8192918,,,,,,,not_in_primary
+HCLS1,Hematopoietic lineage cell-specific protein,Inflammation,AF,UKB_AF,rs3732410,1.1717567,0.05447039,0.570142,,,,not_matched_in_ukb
+HCLS1,Hematopoietic lineage cell-specific protein,Inflammation,HF,UKB_HF,rs3732410,1.3443011,0.0026060101,0.178077,,,,not_matched_in_ukb
+HEXIM1,Protein HEXIM1,Inflammation,AF,UKB_AF,rs36160143,0.91894663,0.59621542,0.904093,,,,not_matched_in_ukb
+HEXIM1,Protein HEXIM1,Inflammation,HF,UKB_HF,rs36160143,1.1091297,0.55929256,0.946293,,,,not_matched_in_ukb
+HGF,Hepatocyte growth factor,Inflammation,AF,UKB_AF,rs5745687,0.96919844,0.67427372,0.904093,,,,not_matched_in_ukb
+HGF,Hepatocyte growth factor,Inflammation,HF,UKB_HF,rs5745687,1.0691748,0.44118937,0.912536,,,,not_matched_in_ukb
+HPCAL1,Hippocalcin-like protein 1,Inflammation,AF,UKB_AF,rs375285744,0.10915945,0.52172611,0.904093,,,,not_matched_in_ukb
+HPCAL1,Hippocalcin-like protein 1,Inflammation,HF,UKB_HF,rs375285744,,,,,,,not_in_primary
+ICAM4,Intercellular adhesion molecule 4,Inflammation,AF,UKB_AF,rs5030377,1.1035218,0.10646547,0.634898,,,,not_matched_in_ukb
+ICAM4,Intercellular adhesion molecule 4,Inflammation,HF,UKB_HF,rs5030377,1.0149299,0.83376403,0.971009,,,,not_matched_in_ukb
+IFNGR1,Interferon gamma receptor 1,Inflammation,AF,UKB_AF,rs9376267,0.9350293,0.081230653,0.584579,,,,not_matched_in_ukb
+IFNGR1,Interferon gamma receptor 1,Inflammation,HF,UKB_HF,rs9376267,1.0144277,0.75517128,0.971009,,,,not_matched_in_ukb
+IFNLR1,Interferon lambda receptor 1,Inflammation,AF,UKB_AF,rs139958347,1.015829,0.61588214,0.904093,,,,not_matched_in_ukb
+IFNLR1,Interferon lambda receptor 1,Inflammation,HF,UKB_HF,rs139958347,0.98494011,0.73591778,0.971009,,,,not_matched_in_ukb
+IL10,Interleukin-10,Inflammation,AF,UKB_AF,rs3024495,1.051784,0.4548412,0.886121,,,,not_matched_in_ukb
+IL10,Interleukin-10,Inflammation,HF,UKB_HF,rs3024495,0.98447762,0.84004583,0.971009,,,,not_matched_in_ukb
+IL10RA,Interleukin-10 receptor subunit alpha,Inflammation,AF,UKB_AF,rs3135932,0.99577344,0.92994655,0.986349,,,,not_matched_in_ukb
+IL10RA,Interleukin-10 receptor subunit alpha,Inflammation,HF,UKB_HF,rs3135932,0.9692459,0.57779817,0.946293,,,,not_matched_in_ukb
+IL10RB,Interleukin-10 receptor subunit beta,Inflammation,AF,UKB_AF,rs2515717,1.0172599,0.4905754,0.904093,,,,not_matched_in_ukb
+IL10RB,Interleukin-10 receptor subunit beta,Inflammation,HF,UKB_HF,rs2515717,,,,,,,not_in_primary
+IL12B,Interleukin-12 subunit beta,Inflammation,AF,UKB_AF,rs4244437,1.0064546,0.61707508,0.904093,,,,not_matched_in_ukb
+IL12B,Interleukin-12 subunit beta,Inflammation,HF,UKB_HF,rs4244437,1.0050166,0.73888268,0.971009,,,,not_matched_in_ukb
+IL12RB1,Interleukin-12 receptor subunit beta-1,Inflammation,AF,UKB_AF,rs369378,0.99956168,0.98077573,0.995872,,,,not_matched_in_ukb
+IL12RB1,Interleukin-12 receptor subunit beta-1,Inflammation,HF,UKB_HF,rs369378,0.98326272,0.42730347,0.91207,,,,not_matched_in_ukb
+IL15RA,Interleukin-15 receptor subunit alpha,Inflammation,AF,UKB_AF,rs3136630,1.0163479,0.57032863,0.904093,,,,not_matched_in_ukb
+IL15RA,Interleukin-15 receptor subunit alpha,Inflammation,HF,UKB_HF,rs3136630,1.0273947,0.43156475,0.91207,,,,not_matched_in_ukb
+IL17C,Interleukin-17C,Inflammation,AF,UKB_AF,rs17700884,0.97047026,0.60705225,0.904093,,,,not_matched_in_ukb
+IL17C,Interleukin-17C,Inflammation,HF,UKB_HF,rs17700884,0.94968703,0.4495907,0.912536,,,,not_matched_in_ukb
+IL17D,Interleukin-17D,Inflammation,AF,UKB_AF,rs4770059,1.0078204,0.67936241,0.904093,,,,not_matched_in_ukb
+IL17D,Interleukin-17D,Inflammation,HF,UKB_HF,rs4770059,1.0144266,0.51716136,0.946293,,,,not_matched_in_ukb
+IL17F,Interleukin-17F,Inflammation,AF,UKB_AF,rs66834286,,,,,,,not_in_primary
+IL17F,Interleukin-17F,Inflammation,HF,UKB_HF,rs66834286,,,,,,,not_in_primary
+IL17RB,Interleukin-17 receptor B,Inflammation,AF,UKB_AF,rs6445607,1.0085852,0.31024605,0.847544,,,,not_matched_in_ukb
+IL17RB,Interleukin-17 receptor B,Inflammation,HF,UKB_HF,rs6445607,0.98524292,0.13847832,0.672724,,,,not_matched_in_ukb
+IL18,Interleukin-18,Inflammation,AF,UKB_AF,rs2250417,1.019165,0.40325567,0.869993,,,,not_matched_in_ukb
+IL18,Interleukin-18,Inflammation,HF,UKB_HF,rs2250417,0.99492799,0.84940832,0.971009,,,,not_matched_in_ukb
+IL18R1,Interleukin-18 receptor 1,Inflammation,AF,UKB_AF,rs10190555,0.9947798,0.55686795,0.904093,,,,not_matched_in_ukb
+IL18R1,Interleukin-18 receptor 1,Inflammation,HF,UKB_HF,rs10190555,1.0126631,0.23425332,0.827964,,,,not_matched_in_ukb
+IL1R2,Interleukin-1 receptor type 2,Inflammation,AF,UKB_AF,rs2310170,0.99421004,0.65908525,0.904093,,,,not_matched_in_ukb
+IL1R2,Interleukin-1 receptor type 2,Inflammation,HF,UKB_HF,rs2310170,1.0276677,0.07429212,0.56407,,,,not_matched_in_ukb
+IL1RL2,Interleukin-1 receptor-like 2,Inflammation,AF,UKB_AF,rs3917265,0.99384572,0.6869592,0.904093,,,,not_matched_in_ukb
+IL1RL2,Interleukin-1 receptor-like 2,Inflammation,HF,UKB_HF,rs3917265,1.0075737,0.67997298,0.96566,,,,not_matched_in_ukb
+IL1RN,Interleukin-1 receptor antagonist protein,Inflammation,AF,UKB_AF,rs55709272,0.99112761,0.77673066,0.922471,,,,not_matched_in_ukb
+IL1RN,Interleukin-1 receptor antagonist protein,Inflammation,HF,UKB_HF,rs55709272,0.98233393,0.6305075,0.957279,,,,not_matched_in_ukb
+IL20RA,Interleukin-20 receptor subunit alpha,Inflammation,AF,UKB_AF,rs143005532,0.990843,0.94092232,0.987363,,,,not_matched_in_ukb
+IL20RA,Interleukin-20 receptor subunit alpha,Inflammation,HF,UKB_HF,rs143005532,,,,,,,not_in_primary
+IL22RA1,Interleukin-22 receptor subunit alpha-1,Inflammation,AF,UKB_AF,rs7355101,0.99716957,0.91365164,0.986349,,,,not_matched_in_ukb
+IL22RA1,Interleukin-22 receptor subunit alpha-1,Inflammation,HF,UKB_HF,rs7355101,1.0136344,0.66082421,0.958188,,,,not_matched_in_ukb
+IL32,Interleukin-32,Inflammation,AF,UKB_AF,rs45499297,1.0384846,0.23699163,0.777778,,,,not_matched_in_ukb
+IL32,Interleukin-32,Inflammation,HF,UKB_HF,rs45499297,1.0261879,0.502187,0.946293,,,,not_matched_in_ukb
+IL33,Interleukin-33,Inflammation,AF,UKB_AF,rs185705622,0.83451581,0.20346582,0.769429,,,,not_matched_in_ukb
+IL33,Interleukin-33,Inflammation,HF,UKB_HF,rs185705622,,,,,,,not_in_primary
+IL4R,Interleukin-4 receptor subunit alpha,Inflammation,AF,UKB_AF,rs8060025,0.95946883,0.059557134,0.570142,,,,not_matched_in_ukb
+IL4R,Interleukin-4 receptor subunit alpha,Inflammation,HF,UKB_HF,rs8060025,0.95824812,0.093934232,0.606285,,,,not_matched_in_ukb
+IL5RA,Interleukin-5 receptor subunit alpha,Inflammation,AF,UKB_AF,rs77400868,1.0232879,0.25252795,0.803668,,,,not_matched_in_ukb
+IL5RA,Interleukin-5 receptor subunit alpha,Inflammation,HF,UKB_HF,rs77400868,1.0183509,0.43724167,0.912536,,,,not_matched_in_ukb
+IL7,Interleukin-7,Inflammation,AF,UKB_AF,rs146201210,0.90918534,0.1336144,0.702553,,,,not_matched_in_ukb
+IL7,Interleukin-7,Inflammation,HF,UKB_HF,rs146201210,0.93952904,0.39136594,0.876831,,,,not_matched_in_ukb
+IRAK4,Interleukin-1 receptor-associated kinase 4,Inflammation,AF,UKB_AF,rs183549317,0.94567663,0.74509987,0.909608,,,,not_matched_in_ukb
+IRAK4,Interleukin-1 receptor-associated kinase 4,Inflammation,HF,UKB_HF,rs183549317,,,,,,,not_in_primary
+ISM1,Isthmin-1,Inflammation,AF,UKB_AF,rs1998123,1.0026804,0.94385736,0.988322,,,,not_matched_in_ukb
+ISM1,Isthmin-1,Inflammation,HF,UKB_HF,rs1998123,0.98829122,0.7957714,0.971009,,,,not_matched_in_ukb
+ITGA11,Integrin alpha-11,Inflammation,AF,UKB_AF,rs2306022,1.0165658,0.61707508,0.904093,,,,not_matched_in_ukb
+ITGA11,Integrin alpha-11,Inflammation,HF,UKB_HF,rs2306022,0.98644737,0.72253531,0.971009,,,,not_matched_in_ukb
+ITGA6,Integrin alpha-6,Inflammation,AF,UKB_AF,rs6714597,1.028108,0.3740628,0.869993,,,,not_matched_in_ukb
+ITGA6,Integrin alpha-6,Inflammation,HF,UKB_HF,rs6714597,0.95761169,0.24491443,0.836791,,,,not_matched_in_ukb
+ITGB6,Integrin beta-6,Inflammation,AF,UKB_AF,rs6432601,1.0079923,0.74598069,0.909608,,,,not_matched_in_ukb
+ITGB6,Integrin beta-6,Inflammation,HF,UKB_HF,rs6432601,0.97134518,0.31731051,0.853675,,,,not_matched_in_ukb
+KLRB1,Killer cell lectin-like receptor subfamily B member 1,Inflammation,AF,UKB_AF,rs563890415,0.99171665,0.96741404,0.995872,,,,not_matched_in_ukb
+KLRB1,Killer cell lectin-like receptor subfamily B member 1,Inflammation,HF,UKB_HF,rs563890415,,,,,,,not_in_primary
+KLRD1,Natural killer cells antigen CD94,Inflammation,AF,UKB_AF,rs2537752,0.9940334,0.71313642,0.904093,,,,not_matched_in_ukb
+KLRD1,Natural killer cells antigen CD94,Inflammation,HF,UKB_HF,rs2537752,1.0455305,0.02007196,0.441689,,,,not_matched_in_ukb
+KRT19,"Keratin, type I cytoskeletal 19",Inflammation,AF,UKB_AF,rs7405611,0.99592981,0.93070607,0.986349,,,,not_matched_in_ukb
+KRT19,"Keratin, type I cytoskeletal 19",Inflammation,HF,UKB_HF,rs7405611,0.97848288,0.69279733,0.971009,,,,not_matched_in_ukb
+KYNU,Kynureninase,Inflammation,AF,UKB_AF,rs78189771,1.0007017,0.98065924,0.995872,,,,not_matched_in_ukb
+KYNU,Kynureninase,Inflammation,HF,UKB_HF,rs78189771,0.98347807,0.63979868,0.957279,,,,not_matched_in_ukb
+LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inflammation,AF,UKB_AF,rs111949142,0.99379664,0.79123605,0.922471,,,,not_matched_in_ukb
+LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inflammation,HF,UKB_HF,rs111949142,0.97811788,0.40709561,0.889069,,,,not_matched_in_ukb
+LAMA4,Laminin subunit alpha-4,Inflammation,AF,UKB_AF,rs7765769,0.98927196,0.78819386,0.922471,,,,not_matched_in_ukb
+LAMA4,Laminin subunit alpha-4,Inflammation,HF,UKB_HF,rs7765769,1.0023998,0.96012239,0.988726,,,,not_matched_in_ukb
+LAMP3,Lysosome-associated membrane glycoprotein 3,Inflammation,AF,UKB_AF,rs11921884,1.0225985,0.45756818,0.886121,,,,not_matched_in_ukb
+LAMP3,Lysosome-associated membrane glycoprotein 3,Inflammation,HF,UKB_HF,rs11921884,0.99742483,0.94237179,0.988165,,,,not_matched_in_ukb
+LGALS4,Galectin-4,Inflammation,AF,UKB_AF,rs140695578,0.93838983,0.41420636,0.869993,,,,not_matched_in_ukb
+LGALS4,Galectin-4,Inflammation,HF,UKB_HF,rs140695578,0.90837387,0.27999913,0.841464,,,,not_matched_in_ukb
+LGALS9,Galectin-9,Inflammation,AF,UKB_AF,rs79526289,1.0068364,0.81670262,0.939516,,,,not_matched_in_ukb
+LGALS9,Galectin-9,Inflammation,HF,UKB_HF,rs79526289,,,,,,,not_in_primary
+LGMN,Legumain,Inflammation,AF,UKB_AF,rs148659834,0.9964052,0.90968741,0.986349,,,,not_matched_in_ukb
+LGMN,Legumain,Inflammation,HF,UKB_HF,rs148659834,0.95552928,0.1799912,0.778673,,,,not_matched_in_ukb
+LHPP,Phospholysine phosphohistidine inorganic pyrophosphate phosphatase,Inflammation,AF,UKB_AF,10:124470382:GC:G,,,,,,,not_in_primary
+LHPP,Phospholysine phosphohistidine inorganic pyrophosphate phosphatase,Inflammation,HF,UKB_HF,10:124470382:GC:G,,,,,,,not_in_primary
+LIFR,Leukemia inhibitory factor receptor,Inflammation,AF,UKB_AF,rs62353655,1.0011117,0.98089082,0.995872,,,,not_matched_in_ukb
+LIFR,Leukemia inhibitory factor receptor,Inflammation,HF,UKB_HF,rs62353655,0.94072254,0.24441544,0.836791,,,,not_matched_in_ukb
+LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inflammation,AF,UKB_AF,rs417477,0.91577552,0.13303458,0.702553,,,,not_matched_in_ukb
+LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inflammation,HF,UKB_HF,rs417477,,,,,,,not_in_primary
+LRRN1,Leucine-rich repeat neuronal protein 1,Inflammation,AF,UKB_AF,rs9839475,1.0066793,0.43385693,0.87326,,,,not_matched_in_ukb
+LRRN1,Leucine-rich repeat neuronal protein 1,Inflammation,HF,UKB_HF,rs9839475,1.0104092,0.30565099,0.848366,,,,not_matched_in_ukb
+LSP1,Lymphocyte-specific protein 1,Inflammation,AF,UKB_AF,rs907612,1.0459266,0.33849515,0.859547,,,,not_matched_in_ukb
+LSP1,Lymphocyte-specific protein 1,Inflammation,HF,UKB_HF,rs907612,0.98933415,0.84713825,0.971009,,,,not_matched_in_ukb
+LTBR,Tumor necrosis factor receptor superfamily member 3,Inflammation,AF,UKB_AF,rs10849449,1.0389819,0.10307255,0.634898,,,,not_matched_in_ukb
+LTBR,Tumor necrosis factor receptor superfamily member 3,Inflammation,HF,UKB_HF,rs10849449,0.99487151,0.85240829,0.971009,,,,not_matched_in_ukb
+LY6D,Lymphocyte antigen 6D,Inflammation,AF,UKB_AF,rs2572925,1.0077012,0.61707508,0.904093,,,,not_matched_in_ukb
+LY6D,Lymphocyte antigen 6D,Inflammation,HF,UKB_HF,rs2572925,1.0124874,0.49713004,0.946293,,,,not_matched_in_ukb
+LY75,Lymphocyte antigen 75,Inflammation,AF,UKB_AF,rs72957586,0.99540865,0.52100886,0.904093,,,,not_matched_in_ukb
+LY75,Lymphocyte antigen 75,Inflammation,HF,UKB_HF,rs72957586,0.99754154,0.77094483,0.971009,,,,not_matched_in_ukb
+LY9,T-lymphocyte surface antigen Ly-9,Inflammation,AF,UKB_AF,rs12128261,1.010897,0.42228164,0.869993,,,,not_matched_in_ukb
+LY9,T-lymphocyte surface antigen Ly-9,Inflammation,HF,UKB_HF,rs12128261,1.0176617,0.26904558,0.841464,,,,not_matched_in_ukb
+MANF,Mesencephalic astrocyte-derived neurotrophic factor,Inflammation,AF,UKB_AF,rs11721253,0.95036147,0.60622888,0.904093,,,,not_matched_in_ukb
+MANF,Mesencephalic astrocyte-derived neurotrophic factor,Inflammation,HF,UKB_HF,rs11721253,1.0299698,0.80090664,0.971009,,,,not_matched_in_ukb
+MAPK9,Mitogen-activated protein kinase 9,Inflammation,AF,UKB_AF,rs3763131,1.020482,0.7235948,0.904093,,,,not_matched_in_ukb
+MAPK9,Mitogen-activated protein kinase 9,Inflammation,HF,UKB_HF,rs3763131,0.99095237,0.89446777,0.976506,,,,not_matched_in_ukb
+MATN2,Matrilin-2,Inflammation,AF,UKB_AF,rs1869609,1.0286838,0.10454914,0.634898,,,,not_matched_in_ukb
+MATN2,Matrilin-2,Inflammation,HF,UKB_HF,rs1869609,0.99647123,0.86443473,0.971009,,,,not_matched_in_ukb
+MEGF10,Multiple epidermal growth factor-like domains protein 10,Inflammation,AF,UKB_AF,rs112394041,1.0520688,0.1230773,0.683918,,,,not_matched_in_ukb
+MEGF10,Multiple epidermal growth factor-like domains protein 10,Inflammation,HF,UKB_HF,rs112394041,,,,,,,not_in_primary
+MEPE,Matrix extracellular phosphoglycoprotein,Inflammation,AF,UKB_AF,rs17013212,0.99945204,0.99142076,0.997541,,,,not_matched_in_ukb
+MEPE,Matrix extracellular phosphoglycoprotein,Inflammation,HF,UKB_HF,rs17013212,1.0289116,0.64244306,0.957279,,,,not_matched_in_ukb
+MERTK,Tyrosine-protein kinase Mer,Inflammation,AF,UKB_AF,rs10188640,1.0270892,0.30348649,0.838446,,,,not_matched_in_ukb
+MERTK,Tyrosine-protein kinase Mer,Inflammation,HF,UKB_HF,rs10188640,1.0399286,0.19915923,0.79277,,,,not_matched_in_ukb
+METAP1D,"Methionine aminopeptidase 1D, mitochondrial",Inflammation,AF,UKB_AF,rs138869820,0.9047629,0.48111767,0.904093,,,,not_matched_in_ukb
+METAP1D,"Methionine aminopeptidase 1D, mitochondrial",Inflammation,HF,UKB_HF,rs138869820,,,,,,,not_in_primary
+MGLL,Monoglyceride lipase,Inflammation,AF,UKB_AF,rs7578,1.167106,0.16511887,0.727416,,,,not_matched_in_ukb
+MGLL,Monoglyceride lipase,Inflammation,HF,UKB_HF,rs7578,1.0794296,0.55536257,0.946293,,,,not_matched_in_ukb
+MGMT,Methylated-DNA--protein-cysteine methyltransferase,Inflammation,AF,UKB_AF,rs1008982,1.0138604,0.41548129,0.869993,,,,not_matched_in_ukb
+MGMT,Methylated-DNA--protein-cysteine methyltransferase,Inflammation,HF,UKB_HF,rs1008982,1.0097066,0.62568806,0.957279,,,,not_matched_in_ukb
+MILR1,Allergin-1,Inflammation,AF,UKB_AF,rs138176943,0.98133984,0.32372005,0.857964,,,,not_matched_in_ukb
+MILR1,Allergin-1,Inflammation,HF,UKB_HF,rs138176943,0.98925854,0.62705529,0.957279,,,,not_matched_in_ukb
+MMP1,Interstitial collagenase,Inflammation,AF,UKB_AF,rs534191,0.97727893,0.1298469,0.702553,,,,not_matched_in_ukb
+MMP1,Interstitial collagenase,Inflammation,HF,UKB_HF,rs534191,0.98143101,0.29371811,0.842129,,,,not_matched_in_ukb
+MMP10,Stromelysin-2,Inflammation,AF,UKB_AF,rs486055,1.0180861,0.43526152,0.87326,,,,not_matched_in_ukb
+MMP10,Stromelysin-2,Inflammation,HF,UKB_HF,rs486055,0.99924292,0.97763234,0.992152,,,,not_matched_in_ukb
+MVK,Mevalonate kinase,Inflammation,AF,UKB_AF,rs28934897,0.82244417,0.04078215,0.570142,,,,not_matched_in_ukb
+MVK,Mevalonate kinase,Inflammation,HF,UKB_HF,rs28934897,,,,,,,not_in_primary
+MZB1,Marginal zone B- and B1-cell-specific protein,Inflammation,AF,UKB_AF,rs140248321,0.87719804,0.22697863,0.769429,,,,not_matched_in_ukb
+MZB1,Marginal zone B- and B1-cell-specific protein,Inflammation,HF,UKB_HF,rs140248321,,,,,,,not_in_primary
+NBN,Nibrin,Inflammation,AF,UKB_AF,rs74378230,0.97415536,0.73782361,0.909608,,,,not_matched_in_ukb
+NBN,Nibrin,Inflammation,HF,UKB_HF,rs74378230,,,,,,,not_in_primary
+NCF2,Neutrophil cytosol factor 2,Inflammation,AF,UKB_AF,rs35012521,1.0381712,0.37955698,0.869993,,,,not_matched_in_ukb
+NCF2,Neutrophil cytosol factor 2,Inflammation,HF,UKB_HF,rs35012521,,,,,,,not_in_primary
+NCR1,Natural cytotoxicity triggering receptor 1,Inflammation,AF,UKB_AF,rs7255591,1.0554366,0.051277211,0.570142,,,,not_matched_in_ukb
+NCR1,Natural cytotoxicity triggering receptor 1,Inflammation,HF,UKB_HF,rs7255591,1.0117983,0.72288184,0.971009,,,,not_matched_in_ukb
+NELL2,Protein kinase C-binding protein NELL2,Inflammation,AF,UKB_AF,rs382115,1.0616359,0.26856079,0.810461,,,,not_matched_in_ukb
+NELL2,Protein kinase C-binding protein NELL2,Inflammation,HF,UKB_HF,rs382115,1.0757719,0.28586939,0.841464,,,,not_matched_in_ukb
+NFASC,Neurofascin,Inflammation,AF,UKB_AF,1:204982056:CT:C,,,,,,,not_in_primary
+NFASC,Neurofascin,Inflammation,HF,UKB_HF,1:204982056:CT:C,,,,,,,not_in_primary
+NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",Inflammation,AF,UKB_AF,rs657693,1.2774074,0.00027783496,0.0271723,,,,not_matched_in_ukb
+NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",Inflammation,HF,UKB_HF,rs657693,0.94169819,0.44807949,0.912536,,,,not_matched_in_ukb
+NME3,Nucleoside diphosphate kinase 3,Inflammation,AF,UKB_AF,rs749285440,0.99908303,0.98150764,0.995872,,,,not_matched_in_ukb
+NME3,Nucleoside diphosphate kinase 3,Inflammation,HF,UKB_HF,rs749285440,,,,,,,not_in_primary
+NRTN,Neurturin,Inflammation,AF,UKB_AF,rs36055559,0.96388634,0.78574146,0.922471,,,,not_matched_in_ukb
+NRTN,Neurturin,Inflammation,HF,UKB_HF,rs36055559,1.1240226,0.46569086,0.917948,,,,not_matched_in_ukb
+NT5C3A,Cytosolic 5'-nucleotidase 3A,Inflammation,AF,UKB_AF,rs10252880,1.0893781,0.23314062,0.777778,,,,not_matched_in_ukb
+NT5C3A,Cytosolic 5'-nucleotidase 3A,Inflammation,HF,UKB_HF,rs10252880,1.0509634,0.58161968,0.946293,,,,not_matched_in_ukb
+NTF3,Neurotrophin-3,Inflammation,AF,UKB_AF,rs73039984,1.0204736,0.66342802,0.904093,,,,not_matched_in_ukb
+NTF3,Neurotrophin-3,Inflammation,HF,UKB_HF,rs73039984,1.0458665,0.42012664,0.906589,,,,not_matched_in_ukb
+NUB1,NEDD8 ultimate buster 1,Inflammation,AF,UKB_AF,rs113920358,0.97032323,0.45041882,0.886121,,,,not_matched_in_ukb
+NUB1,NEDD8 ultimate buster 1,Inflammation,HF,UKB_HF,rs113920358,1.0831073,0.092464237,0.606285,,,,not_matched_in_ukb
+OMD,Osteomodulin,Inflammation,AF,UKB_AF,rs35209758,,,,,,,not_in_primary
+OMD,Osteomodulin,Inflammation,HF,UKB_HF,rs35209758,,,,,,,not_in_primary
+OSCAR,Osteoclast-associated immunoglobulin-like receptor,Inflammation,AF,UKB_AF,rs4442925,1.0011522,0.93070607,0.986349,,,,not_matched_in_ukb
+OSCAR,Osteoclast-associated immunoglobulin-like receptor,Inflammation,HF,UKB_HF,rs4442925,0.98570854,0.36038373,0.869161,,,,not_matched_in_ukb
+OSM,Oncostatin-M,Inflammation,AF,UKB_AF,rs4823082,1.0686435,0.56637762,0.904093,,,,not_matched_in_ukb
+OSM,Oncostatin-M,Inflammation,HF,UKB_HF,rs4823082,0.86548527,0.30286778,0.848366,,,,not_matched_in_ukb
+PADI2,Protein-arginine deiminase type-2,Inflammation,AF,UKB_AF,rs2235913,1.026558,0.64281389,0.904093,,,,not_matched_in_ukb
+PADI2,Protein-arginine deiminase type-2,Inflammation,HF,UKB_HF,rs2235913,0.94195771,0.36746362,0.871741,,,,not_matched_in_ukb
+PAPPA,Pappalysin-1,Inflammation,AF,UKB_AF,rs117448041,1.0828782,0.55590635,0.904093,,,,not_matched_in_ukb
+PAPPA,Pappalysin-1,Inflammation,HF,UKB_HF,rs117448041,1.1645073,0.28938144,0.841464,,,,not_matched_in_ukb
+PARP1,Poly [ADP-ribose] polymerase 1,Inflammation,AF,UKB_AF,rs1433574,0.90802027,0.078641956,0.582665,,,,not_matched_in_ukb
+PARP1,Poly [ADP-ribose] polymerase 1,Inflammation,HF,UKB_HF,rs1433574,0.90060641,0.10364135,0.607042,,,,not_matched_in_ukb
+PCDH1,Protocadherin-1,Inflammation,AF,UKB_AF,rs4645358,1.0074496,0.92968967,0.986349,,,,not_matched_in_ukb
+PCDH1,Protocadherin-1,Inflammation,HF,UKB_HF,rs4645358,1.030133,0.76417716,0.971009,,,,not_matched_in_ukb
+PGF,Placenta growth factor,Inflammation,AF,UKB_AF,14:75029984:CA:C,,,,,,,not_in_primary
+PGF,Placenta growth factor,Inflammation,HF,UKB_HF,14:75029984:CA:C,,,,,,,not_in_primary
+PIK3AP1,Phosphoinositide 3-kinase adapter protein 1,Inflammation,AF,UKB_AF,rs41317268,0.99134542,0.81398046,0.939303,,,,not_matched_in_ukb
+PIK3AP1,Phosphoinositide 3-kinase adapter protein 1,Inflammation,HF,UKB_HF,rs41317268,0.98704626,0.76186677,0.971009,,,,not_matched_in_ukb
+PKLR,Pyruvate kinase PKLR,Inflammation,AF,UKB_AF,rs77350683,0.86176886,8.8442529e-05,0.0108121,,,,not_matched_in_ukb
+PKLR,Pyruvate kinase PKLR,Inflammation,HF,UKB_HF,rs77350683,0.97501849,0.55281421,0.946293,,,,not_matched_in_ukb
+PLA2G4A,Cytosolic phospholipase A2,Inflammation,AF,UKB_AF,rs556306120,,,,,,,not_in_primary
+PLA2G4A,Cytosolic phospholipase A2,Inflammation,HF,UKB_HF,rs556306120,,,,,,,not_in_primary
+PLAUR,Urokinase plasminogen activator surface receptor,Inflammation,AF,UKB_AF,rs2302524,1.0498618,0.34463083,0.859819,,,,not_matched_in_ukb
+PLAUR,Urokinase plasminogen activator surface receptor,Inflammation,HF,UKB_HF,rs2302524,1.0136717,0.8225246,0.971009,,,,not_matched_in_ukb
+PLXNA4,Plexin-A4,Inflammation,AF,UKB_AF,rs6467443,0.9181145,0.28936129,0.825746,,,,not_matched_in_ukb
+PLXNA4,Plexin-A4,Inflammation,HF,UKB_HF,rs6467443,0.90412113,0.28886897,0.841464,,,,not_matched_in_ukb
+PNLIPRP2,Pancreatic lipase-related protein 2,Inflammation,AF,UKB_AF,rs4751995,1.0004403,0.93961197,0.987363,,,,not_matched_in_ukb
+PNLIPRP2,Pancreatic lipase-related protein 2,Inflammation,HF,UKB_HF,rs4751995,0.9985043,0.82961929,0.971009,,,,not_matched_in_ukb
+PON3,Serum paraoxonase/lactonase 3,Inflammation,AF,UKB_AF,rs149867961,1.0267065,0.24645789,0.801264,,,,not_matched_in_ukb
+PON3,Serum paraoxonase/lactonase 3,Inflammation,HF,UKB_HF,rs149867961,1.0197939,0.45543982,0.914221,,,,not_matched_in_ukb
+PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",Inflammation,AF,UKB_AF,rs7358070,0.92404867,0.47256625,0.898321,,,,not_matched_in_ukb
+PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",Inflammation,HF,UKB_HF,rs7358070,0.98921672,0.93278822,0.988165,,,,not_matched_in_ukb
+PRDX5,"Peroxiredoxin-5, mitochondrial",Inflammation,AF,UKB_AF,rs77269065,1.0577223,0.29939305,0.83659,,,,not_matched_in_ukb
+PRDX5,"Peroxiredoxin-5, mitochondrial",Inflammation,HF,UKB_HF,rs77269065,,,,,,,not_in_primary
+PRELP,Prolargin,Inflammation,AF,UKB_AF,rs41313926,1.0131185,0.41482794,0.869993,,,,not_matched_in_ukb
+PRELP,Prolargin,Inflammation,HF,UKB_HF,rs41313926,0.98666028,0.4612957,0.914221,,,,not_matched_in_ukb
+PRKAB1,5'-AMP-activated protein kinase subunit beta-1,Inflammation,AF,UKB_AF,rs749140768,,,,,,,not_in_primary
+PRKAB1,5'-AMP-activated protein kinase subunit beta-1,Inflammation,HF,UKB_HF,rs749140768,,,,,,,not_in_primary
+PROK1,Prokineticin-1,Inflammation,AF,UKB_AF,rs1857513,1.0211007,0.27181121,0.810461,,,,not_matched_in_ukb
+PROK1,Prokineticin-1,Inflammation,HF,UKB_HF,rs1857513,1.0219539,0.33556611,0.854294,,,,not_matched_in_ukb
+PRSS8,Prostasin,Inflammation,AF,UKB_AF,rs889555,1.0545086,0.42218771,0.869993,,,,not_matched_in_ukb
+PRSS8,Prostasin,Inflammation,HF,UKB_HF,rs889555,1.0554265,0.53930693,0.946293,,,,not_matched_in_ukb
+PSMG3,Proteasome assembly chaperone 3,Inflammation,AF,UKB_AF,rs34407549,0.9259028,0.65559725,0.904093,,,,not_matched_in_ukb
+PSMG3,Proteasome assembly chaperone 3,Inflammation,HF,UKB_HF,rs34407549,,,,,,,not_in_primary
+PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,Inflammation,AF,UKB_AF,rs121434601,0.95903397,0.28940989,0.825746,,,,not_matched_in_ukb
+PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,Inflammation,HF,UKB_HF,rs121434601,,,,,,,not_in_primary
+PTPRM,Receptor-type tyrosine-protein phosphatase mu,Inflammation,AF,UKB_AF,rs72911294,1.0714894,0.4917677,0.904093,,,,not_matched_in_ukb
+PTPRM,Receptor-type tyrosine-protein phosphatase mu,Inflammation,HF,UKB_HF,rs72911294,1.2379122,0.070527063,0.556079,,,,not_matched_in_ukb
+PTX3,Pentraxin-related protein PTX3,Inflammation,AF,UKB_AF,rs56025932,0.91401117,0.40754543,0.869993,,,,not_matched_in_ukb
+PTX3,Pentraxin-related protein PTX3,Inflammation,HF,UKB_HF,rs56025932,0.84944294,0.2610753,0.841464,,,,not_matched_in_ukb
+RAB6A,Ras-related protein Rab-6A,Inflammation,AF,UKB_AF,rs35939600,,,,,,,not_in_primary
+RAB6A,Ras-related protein Rab-6A,Inflammation,HF,UKB_HF,rs35939600,,,,,,,not_in_primary
+RABGAP1L,Rab GTPase-activating protein 1-like,Inflammation,AF,UKB_AF,rs6661868,1.0443981,0.6298573,0.904093,,,,not_matched_in_ukb
+RABGAP1L,Rab GTPase-activating protein 1-like,Inflammation,HF,UKB_HF,rs6661868,0.85895175,0.15732039,0.724734,,,,not_matched_in_ukb
+REG4,Regenerating islet-derived protein 4,Inflammation,AF,UKB_AF,rs79795228,0.96009043,0.45846349,0.886121,,,,not_matched_in_ukb
+REG4,Regenerating islet-derived protein 4,Inflammation,HF,UKB_HF,rs79795228,,,,,,,not_in_primary
+ROBO1,Roundabout homolog 1,Inflammation,AF,UKB_AF,rs3773244,1.0200942,0.57121361,0.904093,,,,not_matched_in_ukb
+ROBO1,Roundabout homolog 1,Inflammation,HF,UKB_HF,rs3773244,1.0669076,0.11472201,0.627147,,,,not_matched_in_ukb
+SAMD9L,Sterile alpha motif domain-containing protein 9-like,Inflammation,AF,UKB_AF,rs17165120,0.93866376,0.006135362,0.216669,,,,not_matched_in_ukb
+SAMD9L,Sterile alpha motif domain-containing protein 9-like,Inflammation,HF,UKB_HF,rs17165120,0.97733943,0.41357988,0.897184,,,,not_matched_in_ukb
+SCG3,Secretogranin-3,Inflammation,AF,UKB_AF,rs2606134,0.989598,0.34890834,0.866072,,,,not_matched_in_ukb
+SCG3,Secretogranin-3,Inflammation,HF,UKB_HF,rs2606134,1.0283732,0.035171099,0.457404,,,,not_matched_in_ukb
+SCGB1A1,Uteroglobin,Inflammation,AF,UKB_AF,rs3741240,0.98478748,0.45756818,0.886121,,,,not_matched_in_ukb
+SCGB1A1,Uteroglobin,Inflammation,HF,UKB_HF,rs3741240,0.97611652,0.32317625,0.853675,,,,not_matched_in_ukb
+SCGB3A2,Secretoglobin family 3A member 2,Inflammation,AF,UKB_AF,rs17717320,,,,,,,not_in_primary
+SCGB3A2,Secretoglobin family 3A member 2,Inflammation,HF,UKB_HF,rs17717320,0.99275575,0.85572542,0.971009,,,,not_matched_in_ukb
+SCRN1,Secernin-1,Inflammation,AF,UKB_AF,rs17324153,1.0370093,0.60588413,0.904093,,,,not_matched_in_ukb
+SCRN1,Secernin-1,Inflammation,HF,UKB_HF,rs17324153,1.026957,0.74578593,0.971009,,,,not_matched_in_ukb
+SELPLG,P-selectin glycoprotein ligand 1,Inflammation,AF,UKB_AF,rs7294337,1.0047235,0.71533097,0.904093,,,,not_matched_in_ukb
+SELPLG,P-selectin glycoprotein ligand 1,Inflammation,HF,UKB_HF,rs7294337,1.0361062,0.023489851,0.457404,,,,not_matched_in_ukb
+SERPINB8,Serpin B8,Inflammation,AF,UKB_AF,rs3826616,1.0034459,0.72475376,0.904093,,,,not_matched_in_ukb
+SERPINB8,Serpin B8,Inflammation,HF,UKB_HF,rs3826616,0.99711458,0.80926115,0.971009,,,,not_matched_in_ukb
+SHMT1,"Serine hydroxymethyltransferase, cytosolic",Inflammation,AF,UKB_AF,rs669340,0.99680792,0.74247965,0.909608,,,,not_matched_in_ukb
+SHMT1,"Serine hydroxymethyltransferase, cytosolic",Inflammation,HF,UKB_HF,rs669340,0.99252167,0.5101934,0.946293,,,,not_matched_in_ukb
+SIGLEC1,Sialoadhesin,Inflammation,AF,UKB_AF,rs189448562,0.96376578,0.29549001,0.833073,,,,not_matched_in_ukb
+SIGLEC1,Sialoadhesin,Inflammation,HF,UKB_HF,rs189448562,0.96058025,0.21222347,0.805663,,,,not_matched_in_ukb
+SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inflammation,AF,UKB_AF,rs148783636,0.99968292,0.98638488,0.995872,,,,not_matched_in_ukb
+SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inflammation,HF,UKB_HF,rs148783636,,,,,,,not_in_primary
+SIRPB1,Signal-regulatory protein beta-1,Inflammation,AF,UKB_AF,rs79462675,1.0016851,0.8811333,0.97926,,,,not_matched_in_ukb
+SIRPB1,Signal-regulatory protein beta-1,Inflammation,HF,UKB_HF,rs79462675,1.0166581,0.23073282,0.822613,,,,not_matched_in_ukb
+SLAMF1,Signaling lymphocytic activation molecule,Inflammation,AF,UKB_AF,rs7535367,0.94099923,0.3740628,0.869993,,,,not_matched_in_ukb
+SLAMF1,Signaling lymphocytic activation molecule,Inflammation,HF,UKB_HF,rs7535367,1.0006913,0.99312177,0.99555,,,,not_matched_in_ukb
+SLAMF7,SLAM family member 7,Inflammation,AF,UKB_AF,rs11581248,1.0013798,0.90052355,0.985137,,,,not_matched_in_ukb
+SLAMF7,SLAM family member 7,Inflammation,HF,UKB_HF,rs11581248,1.0006366,0.96077559,0.988726,,,,not_matched_in_ukb
+SLC39A5,Zinc transporter ZIP5,Inflammation,AF,UKB_AF,rs147572362,1.0088085,0.89563071,0.984187,,,,not_matched_in_ukb
+SLC39A5,Zinc transporter ZIP5,Inflammation,HF,UKB_HF,rs147572362,,,,,,,not_in_primary
+SMOC2,SPARC-related modular calcium-binding protein 2,Inflammation,AF,UKB_AF,rs56296467,0.99168819,0.65993711,0.904093,,,,not_matched_in_ukb
+SMOC2,SPARC-related modular calcium-binding protein 2,Inflammation,HF,UKB_HF,rs56296467,0.95549416,0.040810066,0.468736,,,,not_matched_in_ukb
+SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,Inflammation,AF,UKB_AF,rs28385609,1.0304313,0.0014876428,0.103922,,,,not_matched_in_ukb
+SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,Inflammation,HF,UKB_HF,rs28385609,1.0123616,0.26439156,0.841464,,,,not_matched_in_ukb
+SPINK4,Serine protease inhibitor Kazal-type 4,Inflammation,AF,UKB_AF,rs4879679,0.99248642,0.36121968,0.869993,,,,not_matched_in_ukb
+SPINK4,Serine protease inhibitor Kazal-type 4,Inflammation,HF,UKB_HF,rs4879679,0.99748917,0.79543521,0.971009,,,,not_matched_in_ukb
+SPINT2,Kunitz-type protease inhibitor 2,Inflammation,AF,UKB_AF,rs45437199,0.0011651165,0.1031917,0.634898,,,,not_matched_in_ukb
+SPINT2,Kunitz-type protease inhibitor 2,Inflammation,HF,UKB_HF,rs45437199,0.9690039,0.54447451,0.946293,,,,not_matched_in_ukb
+SPON1,Spondin-1,Inflammation,AF,UKB_AF,rs10832164,1.1137385,1.9593173e-06,0.000319369,,,,not_matched_in_ukb
+SPON1,Spondin-1,Inflammation,HF,UKB_HF,rs10832164,0.98535648,0.58623243,0.946293,,,,not_matched_in_ukb
+SPRY2,Protein sprouty homolog 2,Inflammation,AF,UKB_AF,rs504122,0.91368477,0.29044639,0.825746,,,,not_matched_in_ukb
+SPRY2,Protein sprouty homolog 2,Inflammation,HF,UKB_HF,rs504122,0.94658575,0.58770231,0.946293,,,,not_matched_in_ukb
+STX8,Syntaxin-8,Inflammation,AF,UKB_AF,rs8077500,0.96544593,0.65271044,0.904093,,,,not_matched_in_ukb
+STX8,Syntaxin-8,Inflammation,HF,UKB_HF,rs8077500,1.353659,0.0034497871,0.202059,,,,not_matched_in_ukb
+SULT2A1,Bile salt sulfotransferase,Inflammation,AF,UKB_AF,rs62129966,0.9839798,0.50730271,0.904093,,,,not_matched_in_ukb
+SULT2A1,Bile salt sulfotransferase,Inflammation,HF,UKB_HF,rs62129966,0.95573681,0.10669942,0.60814,,,,not_matched_in_ukb
+TFF2,Trefoil factor 2,Inflammation,AF,UKB_AF,rs225344,1.1122809,0.072288435,0.570142,,,,not_matched_in_ukb
+TFF2,Trefoil factor 2,Inflammation,HF,UKB_HF,rs225344,1.1329388,0.072956384,0.56407,,,,not_matched_in_ukb
+TIMP3,Metalloproteinase inhibitor 3,Inflammation,AF,UKB_AF,rs5749504,1.0145324,0.21614571,0.769429,,,,not_matched_in_ukb
+TIMP3,Metalloproteinase inhibitor 3,Inflammation,HF,UKB_HF,rs5749504,0.98129813,0.1669648,0.752259,,,,not_matched_in_ukb
+TLR3,Toll-like receptor 3,Inflammation,AF,UKB_AF,rs3775291,0.9859325,0.039084975,0.570142,,,,not_matched_in_ukb
+TLR3,Toll-like receptor 3,Inflammation,HF,UKB_HF,rs3775291,0.99791618,0.78019128,0.971009,,,,not_matched_in_ukb
+TNFAIP8,Tumor necrosis factor alpha-induced protein 8,Inflammation,AF,UKB_AF,rs1035376,0.89725536,0.18351827,0.750044,,,,not_matched_in_ukb
+TNFAIP8,Tumor necrosis factor alpha-induced protein 8,Inflammation,HF,UKB_HF,rs1035376,0.95071664,0.59300757,0.946293,,,,not_matched_in_ukb
+TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inflammation,AF,UKB_AF,rs113339733,1.0070491,0.66174878,0.904093,,,,not_matched_in_ukb
+TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inflammation,HF,UKB_HF,rs113339733,0.99799505,0.90725244,0.984057,,,,not_matched_in_ukb
+TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inflammation,AF,UKB_AF,rs748443516,,,,,,,not_in_primary
+TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inflammation,HF,UKB_HF,rs748443516,,,,,,,not_in_primary
+TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,Inflammation,AF,UKB_AF,rs34562254,1.0139173,0.82728745,0.944252,,,,not_matched_in_ukb
+TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,Inflammation,HF,UKB_HF,rs34562254,0.96492488,0.64358905,0.957279,,,,not_matched_in_ukb
+TNFRSF13C,Tumor necrosis factor receptor superfamily member 13C,Inflammation,AF,UKB_AF,rs763882049,,,,,,,not_in_primary
+TNFRSF13C,Tumor necrosis factor receptor superfamily member 13C,Inflammation,HF,UKB_HF,rs763882049,,,,,,,not_in_primary
+TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Inflammation,AF,UKB_AF,rs2495366,1.0919703,0.1316921,0.702553,,,,not_matched_in_ukb
+TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Inflammation,HF,UKB_HF,rs2495366,1.0948278,0.18802114,0.778673,,,,not_matched_in_ukb
+TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inflammation,AF,UKB_AF,1:1216707:CCT:C,,,,,,,not_in_primary
+TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inflammation,HF,UKB_HF,1:1216707:CCT:C,,,,,,,not_in_primary
+TNFSF10,Tumor necrosis factor ligand superfamily member 10,Inflammation,AF,UKB_AF,rs79287178,0.95928995,0.3018813,0.838446,,,,not_matched_in_ukb
+TNFSF10,Tumor necrosis factor ligand superfamily member 10,Inflammation,HF,UKB_HF,rs79287178,0.96018431,0.36965524,0.871741,,,,not_matched_in_ukb
+TNFSF11,Tumor necrosis factor ligand superfamily member 11,Inflammation,AF,UKB_AF,rs2062305,1.1142328,0.070923002,0.570142,,,,not_matched_in_ukb
+TNFSF11,Tumor necrosis factor ligand superfamily member 11,Inflammation,HF,UKB_HF,rs2062305,0.984918,0.83171698,0.971009,,,,not_matched_in_ukb
+TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inflammation,AF,UKB_AF,rs80067372,0.89624508,5.3280571e-08,1.30271e-05,,,,not_matched_in_ukb
+TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inflammation,HF,UKB_HF,rs80067372,0.97220286,0.22747199,0.818101,,,,not_matched_in_ukb
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,Inflammation,AF,UKB_AF,rs3803800,1.0246296,0.33533949,0.859547,,,,not_matched_in_ukb
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,Inflammation,HF,UKB_HF,rs3803800,0.93650367,0.02495457,0.457404,,,,not_matched_in_ukb
+TPP1,Tripeptidyl-peptidase 1,Inflammation,AF,UKB_AF,rs140726254,1.0621392,0.091728322,0.614454,,,,not_matched_in_ukb
+TPP1,Tripeptidyl-peptidase 1,Inflammation,HF,UKB_HF,rs140726254,,,,,,,not_in_primary
+TPSAB1,Tryptase alpha/beta-1,Inflammation,AF,UKB_AF,rs8051930,0.98960047,0.27078098,0.810461,,,,not_matched_in_ukb
+TPSAB1,Tryptase alpha/beta-1,Inflammation,HF,UKB_HF,rs8051930,0.96772835,0.0063334326,0.285537,,,,not_matched_in_ukb
+TRAF2,TNF receptor-associated factor 2,Inflammation,AF,UKB_AF,9:136927852:C:T,,,,,,,not_in_primary
+TRAF2,TNF receptor-associated factor 2,Inflammation,HF,UKB_HF,9:136927852:C:T,,,,,,,not_in_primary
+TREM2,Triggering receptor expressed on myeloid cells 2,Inflammation,AF,UKB_AF,rs143332484,1.0174821,0.51740211,0.904093,,,,not_matched_in_ukb
+TREM2,Triggering receptor expressed on myeloid cells 2,Inflammation,HF,UKB_HF,rs143332484,,,,,,,not_in_primary
+TRIM21,E3 ubiquitin-protein ligase TRIM21,Inflammation,AF,UKB_AF,rs199881122,0.8724971,0.14829465,0.717809,,,,not_matched_in_ukb
+TRIM21,E3 ubiquitin-protein ligase TRIM21,Inflammation,HF,UKB_HF,rs199881122,,,,,,,not_in_primary
+TRIM5,Tripartite motif-containing protein 5,Inflammation,AF,UKB_AF,rs11821656,0.98659551,0.56670112,0.904093,,,,not_matched_in_ukb
+TRIM5,Tripartite motif-containing protein 5,Inflammation,HF,UKB_HF,rs11821656,1.0088723,0.75216231,0.971009,,,,not_matched_in_ukb
+VASH1,Tubulinyl-Tyr carboxypeptidase 1,Inflammation,AF,UKB_AF,rs11159226,1.0720583,0.26506311,0.810461,,,,not_matched_in_ukb
+VASH1,Tubulinyl-Tyr carboxypeptidase 1,Inflammation,HF,UKB_HF,rs11159226,1.0071743,0.92290572,0.988165,,,,not_matched_in_ukb
+VEGFA,Vascular endothelial growth factor A,Inflammation,AF,UKB_AF,rs6921438,1.0017461,0.85785567,0.959935,,,,not_matched_in_ukb
+VEGFA,Vascular endothelial growth factor A,Inflammation,HF,UKB_HF,rs6921438,0.99941865,0.95961804,0.988726,,,,not_matched_in_ukb
+WFIKKN2,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2",Inflammation,AF,UKB_AF,rs4591185,0.99106838,0.39687127,0.869993,,,,not_matched_in_ukb
+WFIKKN2,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2",Inflammation,HF,UKB_HF,rs4591185,0.99471919,0.66823514,0.961321,,,,not_matched_in_ukb
+WNT9A,Protein Wnt-9a,Inflammation,AF,UKB_AF,rs4653881,1.1625751,0.0049296653,0.213325,,,,not_matched_in_ukb
+WNT9A,Protein Wnt-9a,Inflammation,HF,UKB_HF,rs4653881,1.0715507,0.27187039,0.841464,,,,not_matched_in_ukb
+A1BG,Alpha-1B-glycoprotein,Inflammation_II,AF,UKB_AF,rs145144275,0.96660364,0.077011987,0.579367,,,,not_matched_in_ukb
+A1BG,Alpha-1B-glycoprotein,Inflammation_II,HF,UKB_HF,rs145144275,,,,,,,not_in_primary
+ABO,Histo-blood group ABO system transferase,Inflammation_II,AF,UKB_AF,rs505922,1.0078881,0.19505313,0.763048,,,,not_matched_in_ukb
+ABO,Histo-blood group ABO system transferase,Inflammation_II,HF,UKB_HF,rs505922,1.0343982,3.1802168e-06,0.00043463,,,,not_matched_in_ukb
+ACE,Angiotensin-converting enzyme,Inflammation_II,AF,UKB_AF,rs4362,0.99799375,0.89153382,0.984187,,,,not_matched_in_ukb
+ACE,Angiotensin-converting enzyme,Inflammation_II,HF,UKB_HF,rs4362,0.9906719,0.5949715,0.946293,,,,not_matched_in_ukb
+ACHE,Acetylcholinesterase,Inflammation_II,AF,UKB_AF,rs6976053,0.98730857,0.55049742,0.904093,,,,not_matched_in_ukb
+ACHE,Acetylcholinesterase,Inflammation_II,HF,UKB_HF,rs6976053,1.0537633,0.035503891,0.457404,,,,not_matched_in_ukb
+ACP1,Low molecular weight phosphotyrosine protein phosphatase,Inflammation_II,AF,UKB_AF,rs11553746,0.97059207,0.10148822,0.634898,0.99932114,0.28307311,0.65405823,same_direction_not_significant
+ACP1,Low molecular weight phosphotyrosine protein phosphatase,Inflammation_II,HF,UKB_HF,rs11553746,0.99394296,0.78169685,0.971009,1.0000713,0.86017649,0.96664844,opposite_direction_not_significant
+ACRV1,Acrosomal protein SP-10,Inflammation_II,AF,UKB_AF,rs113811036,,,,,,,not_in_primary
+ACRV1,Acrosomal protein SP-10,Inflammation_II,HF,UKB_HF,rs113811036,,,,,,,not_in_primary
+ACYP1,Acylphosphatase-1,Inflammation_II,AF,UKB_AF,rs75948138,0.99952488,0.98772534,0.995872,,,,not_matched_in_ukb
+ACYP1,Acylphosphatase-1,Inflammation_II,HF,UKB_HF,rs75948138,1.0176585,0.68067249,0.96566,,,,not_matched_in_ukb
+ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,Inflammation_II,AF,UKB_AF,rs11244909,1.1404064,0.012419331,0.357238,,,,not_matched_in_ukb
+ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,Inflammation_II,HF,UKB_HF,rs11244909,1.1220472,0.065840771,0.529308,,,,not_matched_in_ukb
+ADAMTS4,A disintegrin and metalloproteinase with thrombospondin motifs 4,Inflammation_II,AF,UKB_AF,rs4656993,1.0882274,0.13555834,0.705192,,,,not_matched_in_ukb
+ADAMTS4,A disintegrin and metalloproteinase with thrombospondin motifs 4,Inflammation_II,HF,UKB_HF,rs4656993,1.1842389,0.012419331,0.339462,,,,not_matched_in_ukb
+ADD1,Alpha-adducin,Inflammation_II,AF,UKB_AF,rs1263339,0.94227344,0.21672106,0.769429,,,,not_matched_in_ukb
+ADD1,Alpha-adducin,Inflammation_II,HF,UKB_HF,rs1263339,0.91804506,0.13490152,0.672724,,,,not_matched_in_ukb
+ADGRD1,Adhesion G-protein coupled receptor D1,Inflammation_II,AF,UKB_AF,rs4759533,1.009392,0.59791775,0.904093,,,,not_matched_in_ukb
+ADGRD1,Adhesion G-protein coupled receptor D1,Inflammation_II,HF,UKB_HF,rs4759533,0.99213974,0.7165089,0.971009,,,,not_matched_in_ukb
+ADH1B,All-trans-retinol dehydrogenase,Inflammation_II,AF,UKB_AF,rs41275699,0.88226735,0.076827328,0.579367,,,,not_matched_in_ukb
+ADH1B,All-trans-retinol dehydrogenase,Inflammation_II,HF,UKB_HF,rs41275699,,,,,,,not_in_primary
+ADIPOQ,Adiponectin,Inflammation_II,AF,UKB_AF,rs143257534,0.99837485,0.96032062,0.995872,,,,not_matched_in_ukb
+ADIPOQ,Adiponectin,Inflammation_II,HF,UKB_HF,rs143257534,0.94021834,0.10679536,0.60814,,,,not_matched_in_ukb
+AFAP1,Actin filament-associated protein 1,Inflammation_II,AF,UKB_AF,rs41264705,0.98369223,0.016154534,0.415767,,,,not_matched_in_ukb
+AFAP1,Actin filament-associated protein 1,Inflammation_II,HF,UKB_HF,rs41264705,0.99594388,0.60891145,0.948167,,,,not_matched_in_ukb
+AFM,Afamin,Inflammation_II,AF,UKB_AF,rs553977556,1.0713496,0.2012769,0.769429,,,,not_matched_in_ukb
+AFM,Afamin,Inflammation_II,HF,UKB_HF,rs553977556,,,,,,,not_in_primary
+AGT,Angiotensinogen,Inflammation_II,AF,UKB_AF,rs4762,1.0243601,0.073453911,0.570142,,,,not_matched_in_ukb
+AGT,Angiotensinogen,Inflammation_II,HF,UKB_HF,rs4762,1.0192766,0.2209002,0.808653,,,,not_matched_in_ukb
+AHSG,Alpha-2-HS-glycoprotein,Inflammation_II,AF,UKB_AF,rs1900618,1.002666,0.7941931,0.922471,,,,not_matched_in_ukb
+AHSG,Alpha-2-HS-glycoprotein,Inflammation_II,HF,UKB_HF,rs1900618,1.0144512,0.24818794,0.840967,,,,not_matched_in_ukb
+AKR7L,Aflatoxin B1 aldehyde reductase member 4,Inflammation_II,AF,UKB_AF,rs59622577,0.9750502,0.49779319,0.904093,,,,not_matched_in_ukb
+AKR7L,Aflatoxin B1 aldehyde reductase member 4,Inflammation_II,HF,UKB_HF,rs59622577,1.0605039,0.1839894,0.778673,,,,not_matched_in_ukb
+AMY1A_AMY1B_AMY1C,Alpha-amylase 1A_Alpha-amylase 1B_Alpha-amylase 1C,Inflammation_II,AF,UKB_AF,rs72694438,1.0185185,0.38397902,0.869993,,,,not_matched_in_ukb
+AMY1A_AMY1B_AMY1C,Alpha-amylase 1A_Alpha-amylase 1B_Alpha-amylase 1C,Inflammation_II,HF,UKB_HF,rs72694438,0.99876096,0.96012239,0.988726,,,,not_matched_in_ukb
+ANKMY2,Ankyrin repeat and MYND domain-containing protein 2,Inflammation_II,AF,UKB_AF,rs4719474,0.92707951,0.36889202,0.869993,,,,not_matched_in_ukb
+ANKMY2,Ankyrin repeat and MYND domain-containing protein 2,Inflammation_II,HF,UKB_HF,rs4719474,0.90581588,0.32911223,0.854025,,,,not_matched_in_ukb
+APCS,Serum amyloid P-component,Inflammation_II,AF,UKB_AF,rs36126250,0.92089754,0.048981807,0.570142,,,,not_matched_in_ukb
+APCS,Serum amyloid P-component,Inflammation_II,HF,UKB_HF,rs36126250,0.9572163,0.33755049,0.854294,,,,not_matched_in_ukb
+APOA1,Apolipoprotein A-I,Inflammation_II,AF,UKB_AF,rs2727784,1.0094802,0.93169355,0.986349,,,,not_matched_in_ukb
+APOA1,Apolipoprotein A-I,Inflammation_II,HF,UKB_HF,rs2727784,0.8411504,0.17977004,0.778673,,,,not_matched_in_ukb
+APOA2,Apolipoprotein A-II,Inflammation_II,AF,UKB_AF,rs4073054,0.87065209,0.17771433,0.744598,,,,not_matched_in_ukb
+APOA2,Apolipoprotein A-II,Inflammation_II,HF,UKB_HF,rs4073054,0.64252639,0.00024573278,0.0251876,,,,not_matched_in_ukb
+APOA4,Apolipoprotein A-IV,Inflammation_II,AF,UKB_AF,rs1729407,1.0156736,0.74629434,0.909608,,,,not_matched_in_ukb
+APOA4,Apolipoprotein A-IV,Inflammation_II,HF,UKB_HF,rs1729407,1.0128057,0.81976433,0.971009,,,,not_matched_in_ukb
+APOC1,Apolipoprotein C-I,Inflammation_II,AF,UKB_AF,rs5112,1.0081521,0.71612957,0.904093,,,,not_matched_in_ukb
+APOC1,Apolipoprotein C-I,Inflammation_II,HF,UKB_HF,rs5112,1.0411286,0.14764036,0.703867,,,,not_matched_in_ukb
+APOD,Apolipoprotein D,Inflammation_II,AF,UKB_AF,rs139828053,0.98355176,0.7012596,0.904093,,,,not_matched_in_ukb
+APOD,Apolipoprotein D,Inflammation_II,HF,UKB_HF,rs139828053,0.92299649,0.093018133,0.606285,,,,not_matched_in_ukb
+APOE,Apolipoprotein E,Inflammation_II,AF,UKB_AF,rs429358,1.0093319,0.32243144,0.857964,,,,not_matched_in_ukb
+APOE,Apolipoprotein E,Inflammation_II,HF,UKB_HF,rs429358,1.0226845,0.042684332,0.468736,,,,not_matched_in_ukb
+APOF,Apolipoprotein F,Inflammation_II,AF,UKB_AF,rs2020854,0.967536,0.34169592,0.859547,,,,not_matched_in_ukb
+APOF,Apolipoprotein F,Inflammation_II,HF,UKB_HF,rs2020854,1.0379735,0.38564091,0.876831,,,,not_matched_in_ukb
+APOL1,Apolipoprotein L1,Inflammation_II,AF,UKB_AF,rs136168,1.0094853,0.72721153,0.904851,,,,not_matched_in_ukb
+APOL1,Apolipoprotein L1,Inflammation_II,HF,UKB_HF,rs136168,1.0193814,0.54586997,0.946293,,,,not_matched_in_ukb
+APPL2,DCC-interacting protein 13-beta,Inflammation_II,AF,UKB_AF,rs10778371,1.0219608,0.68051189,0.904093,,,,not_matched_in_ukb
+APPL2,DCC-interacting protein 13-beta,Inflammation_II,HF,UKB_HF,rs10778371,0.98155247,0.76417716,0.971009,,,,not_matched_in_ukb
+ARHGAP45,Rho GTPase-activating protein 45,Inflammation_II,AF,UKB_AF,rs34593562,1.137907,0.19505313,0.763048,,,,not_matched_in_ukb
+ARHGAP45,Rho GTPase-activating protein 45,Inflammation_II,HF,UKB_HF,rs34593562,1.0098782,0.93197054,0.988165,,,,not_matched_in_ukb
+ASGR2,Asialoglycoprotein receptor 2,Inflammation_II,AF,UKB_AF,rs2304978,1.0102073,0.66413557,0.904093,,,,not_matched_in_ukb
+ASGR2,Asialoglycoprotein receptor 2,Inflammation_II,HF,UKB_HF,rs2304978,1.0766549,0.0070045216,0.285537,,,,not_matched_in_ukb
+ATRN,"Attractin, Isoform 2",Inflammation_II,AF,UKB_AF,rs78971233,0.98388481,0.15033302,0.717809,,,,not_matched_in_ukb
+ATRN,"Attractin, Isoform 2",Inflammation_II,HF,UKB_HF,rs78971233,1.0079224,0.54134627,0.946293,,,,not_matched_in_ukb
+BCHE,Cholinesterase,Inflammation_II,AF,UKB_AF,rs73165060,1.0219545,0.1214345,0.682546,,,,not_matched_in_ukb
+BCHE,Cholinesterase,Inflammation_II,HF,UKB_HF,rs73165060,1.0039407,0.83871312,0.971009,,,,not_matched_in_ukb
+BCL2L15,Bcl-2-like protein 15,Inflammation_II,AF,UKB_AF,rs1230715,0.9683369,0.42855506,0.873181,,,,not_matched_in_ukb
+BCL2L15,Bcl-2-like protein 15,Inflammation_II,HF,UKB_HF,rs1230715,1.0485582,0.32303743,0.853675,,,,not_matched_in_ukb
+BLNK,B-cell linker protein,Inflammation_II,AF,UKB_AF,rs55769428,1.1086065,0.40261701,0.869993,,,,not_matched_in_ukb
+BLNK,B-cell linker protein,Inflammation_II,HF,UKB_HF,rs55769428,0.73493555,0.026998572,0.457404,,,,not_matched_in_ukb
+BMP10,Bone morphogenetic protein 10,Inflammation_II,AF,UKB_AF,rs34008398,1.034094,0.061460805,0.570142,,,,not_matched_in_ukb
+BMP10,Bone morphogenetic protein 10,Inflammation_II,HF,UKB_HF,rs34008398,,,,,,,not_in_primary
+BMPER,BMP-binding endothelial regulator protein,Inflammation_II,AF,UKB_AF,rs201897458,1.0209198,0.65936541,0.904093,,,,not_matched_in_ukb
+BMPER,BMP-binding endothelial regulator protein,Inflammation_II,HF,UKB_HF,rs201897458,,,,,,,not_in_primary
+BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,Inflammation_II,AF,UKB_AF,rs201672609,1.5579822,0.16957732,0.732739,,,,not_matched_in_ukb
+BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,Inflammation_II,HF,UKB_HF,rs201672609,,,,,,,not_in_primary
+BTD,Biotinidase,Inflammation_II,AF,UKB_AF,rs13078881,0.99870321,0.90608546,0.986349,,,,not_matched_in_ukb
+BTD,Biotinidase,Inflammation_II,HF,UKB_HF,rs13078881,0.97389964,0.036815439,0.457404,,,,not_matched_in_ukb
+C1QL2,Complement C1q-like protein 2,Inflammation_II,AF,UKB_AF,rs34475538,0.99427286,0.84713825,0.955368,,,,not_matched_in_ukb
+C1QL2,Complement C1q-like protein 2,Inflammation_II,HF,UKB_HF,rs34475538,1.0028759,0.93493883,0.988165,,,,not_matched_in_ukb
+C1QTNF5,Complement C1q tumor necrosis factor-related protein 5,Inflammation_II,AF,UKB_AF,rs2509656,1.0160296,0.78866758,0.922471,,,,not_matched_in_ukb
+C1QTNF5,Complement C1q tumor necrosis factor-related protein 5,Inflammation_II,HF,UKB_HF,rs2509656,0.98422325,0.82560716,0.971009,,,,not_matched_in_ukb
+C1QTNF9,Complement C1q and tumor necrosis factor-related protein 9A,Inflammation_II,AF,UKB_AF,rs1961993,1.0009564,0.89822259,0.984823,,,,not_matched_in_ukb
+C1QTNF9,Complement C1q and tumor necrosis factor-related protein 9A,Inflammation_II,HF,UKB_HF,rs1961993,1.0013045,0.88193647,0.974199,,,,not_matched_in_ukb
+C1R,Complement C1r subcomponent,Inflammation_II,AF,UKB_AF,rs10849546,0.9950051,0.81444634,0.939303,,,,not_matched_in_ukb
+C1R,Complement C1r subcomponent,Inflammation_II,HF,UKB_HF,rs10849546,1.0499766,0.055552481,0.495811,,,,not_matched_in_ukb
+C1RL,Complement C1r subcomponent-like protein,Inflammation_II,AF,UKB_AF,rs191448232,0.98464598,0.4234323,0.869993,,,,not_matched_in_ukb
+C1RL,Complement C1r subcomponent-like protein,Inflammation_II,HF,UKB_HF,rs191448232,,,,,,,not_in_primary
+C1S,Complement C1s subcomponent,Inflammation_II,AF,UKB_AF,rs12146727,0.99507246,0.73631691,0.909608,,,,not_matched_in_ukb
+C1S,Complement C1s subcomponent,Inflammation_II,HF,UKB_HF,rs12146727,1.0224011,0.20200428,0.796363,,,,not_matched_in_ukb
+C3,Complement C3,Inflammation_II,AF,UKB_AF,rs11569466,1.1201368,0.082927851,0.587706,,,,not_matched_in_ukb
+C3,Complement C3,Inflammation_II,HF,UKB_HF,rs11569466,0.98510532,0.85308379,0.971009,,,,not_matched_in_ukb
+C5,Complement C5,Inflammation_II,AF,UKB_AF,rs4837810,0.97037482,0.514714,0.904093,,,,not_matched_in_ukb
+C5,Complement C5,Inflammation_II,HF,UKB_HF,rs4837810,0.96901846,0.56399142,0.946293,,,,not_matched_in_ukb
+C7,Complement component C7,Inflammation_II,AF,UKB_AF,rs74480769,0.97130514,0.033434272,0.570142,,,,not_matched_in_ukb
+C7,Complement component C7,Inflammation_II,HF,UKB_HF,rs74480769,1.0034784,0.82264998,0.971009,,,,not_matched_in_ukb
+C8B,Complement component C8 beta chain,Inflammation_II,AF,UKB_AF,rs626457,,,,,,,not_in_primary
+C8B,Complement component C8 beta chain,Inflammation_II,HF,UKB_HF,rs626457,1.0200363,0.220127,0.808653,,,,not_matched_in_ukb
+C9,Complement component C9,Inflammation_II,AF,UKB_AF,rs34000044,1.0091536,0.92028225,0.986349,,,,not_matched_in_ukb
+C9,Complement component C9,Inflammation_II,HF,UKB_HF,rs34000044,,,,,,,not_in_primary
+CACYBP,Calcyclin-binding protein,Inflammation_II,AF,UKB_AF,1:174695323:TCTGA:T,,,,,,,not_in_primary
+CACYBP,Calcyclin-binding protein,Inflammation_II,HF,UKB_HF,1:174695323:TCTGA:T,,,,,,,not_in_primary
+CASP9,Caspase-9,Inflammation_II,AF,UKB_AF,rs12024833,1.1730738,0.052343423,0.570142,,,,not_matched_in_ukb
+CASP9,Caspase-9,Inflammation_II,HF,UKB_HF,rs12024833,0.89757774,0.26531177,0.841464,,,,not_matched_in_ukb
+CAT,Catalase,Inflammation_II,AF,UKB_AF,rs2284368,1.013144,0.7612822,0.919178,,,,not_matched_in_ukb
+CAT,Catalase,Inflammation_II,HF,UKB_HF,rs2284368,0.99187173,0.87321629,0.972877,,,,not_matched_in_ukb
+CD226,CD226 antigen,Inflammation_II,AF,UKB_AF,rs13381239,1.0160381,0.53074729,0.904093,,,,not_matched_in_ukb
+CD226,CD226 antigen,Inflammation_II,HF,UKB_HF,rs13381239,0.9977296,0.93868474,0.988165,,,,not_matched_in_ukb
+CD300A,CMRF35-like molecule 8,Inflammation_II,AF,UKB_AF,rs62087202,1.0083873,0.74821975,0.909608,,,,not_matched_in_ukb
+CD300A,CMRF35-like molecule 8,Inflammation_II,HF,UKB_HF,rs62087202,1.0098461,0.75195532,0.971009,,,,not_matched_in_ukb
+CD36,Platelet glycoprotein 4,Inflammation_II,AF,UKB_AF,rs6961069,1.071251,0.0050165339,0.213325,,,,not_matched_in_ukb
+CD36,Platelet glycoprotein 4,Inflammation_II,HF,UKB_HF,rs6961069,1.0110436,0.70413335,0.971009,,,,not_matched_in_ukb
+CD5L,CD5 antigen-like,Inflammation_II,AF,UKB_AF,rs2765501,0.91837817,0.17038501,0.732739,0.99977579,0.91527159,0.91527159,same_direction_not_significant
+CD5L,CD5 antigen-like,Inflammation_II,HF,UKB_HF,rs2765501,0.95592358,0.53197106,0.946293,0.99862193,0.31106972,0.82951749,same_direction_not_significant
+CD7,T-cell antigen CD7,Inflammation_II,AF,UKB_AF,rs3176831,1.0004419,0.97783939,0.995872,,,,not_matched_in_ukb
+CD7,T-cell antigen CD7,Inflammation_II,HF,UKB_HF,rs3176831,0.97478914,0.15658041,0.724734,,,,not_matched_in_ukb
+CD72,B-cell differentiation antigen CD72,Inflammation_II,AF,UKB_AF,rs869487,1.0127019,0.79293599,0.922471,,,,not_matched_in_ukb
+CD72,B-cell differentiation antigen CD72,Inflammation_II,HF,UKB_HF,rs869487,1.0593974,0.3122432,0.848366,,,,not_matched_in_ukb
+CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,Inflammation_II,AF,UKB_AF,rs12740374,0.9670886,0.054229358,0.570142,,,,not_matched_in_ukb
+CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,Inflammation_II,HF,UKB_HF,rs12740374,0.88273185,3.2682066e-09,1.33996e-06,,,,not_matched_in_ukb
+CEMIP2,Cell surface hyaluronidase,Inflammation_II,AF,UKB_AF,rs191912523,1.0451156,0.5292093,0.904093,,,,not_matched_in_ukb
+CEMIP2,Cell surface hyaluronidase,Inflammation_II,HF,UKB_HF,rs191912523,1.0215037,0.81196993,0.971009,,,,not_matched_in_ukb
+CFD,Complement factor D,Inflammation_II,AF,UKB_AF,rs71335276,1.0772445,0.12100673,0.682546,0.99968736,0.83813347,0.91527159,opposite_direction_not_significant
+CFD,Complement factor D,Inflammation_II,HF,UKB_HF,rs71335276,1.0119325,0.83709754,0.971009,0.99916237,0.39173669,0.82951749,opposite_direction_not_significant
+CFH,Complement factor H,Inflammation_II,AF,UKB_AF,rs731557,1.0085839,0.66823514,0.904093,,,,not_matched_in_ukb
+CFH,Complement factor H,Inflammation_II,HF,UKB_HF,rs731557,1.0387187,0.10959858,0.615382,,,,not_matched_in_ukb
+CFHR2,Complement factor H-related protein 2,Inflammation_II,AF,UKB_AF,rs4085749,1.0091031,0.23409615,0.777778,,,,not_matched_in_ukb
+CFHR2,Complement factor H-related protein 2,Inflammation_II,HF,UKB_HF,rs4085749,1.0132948,0.13645302,0.672724,,,,not_matched_in_ukb
+CFHR4,Complement factor H-related protein 4,Inflammation_II,AF,UKB_AF,rs4915363,0.99346768,0.667376,0.904093,,,,not_matched_in_ukb
+CFHR4,Complement factor H-related protein 4,Inflammation_II,HF,UKB_HF,rs4915363,1.035006,0.046294227,0.469117,,,,not_matched_in_ukb
+CFHR5,Complement factor H-related protein 5,Inflammation_II,AF,UKB_AF,rs72732234,1.0093577,0.63846843,0.904093,,,,not_matched_in_ukb
+CFHR5,Complement factor H-related protein 5,Inflammation_II,HF,UKB_HF,rs72732234,0.99629381,0.86342836,0.971009,,,,not_matched_in_ukb
+CFI,Complement factor I,Inflammation_II,AF,UKB_AF,rs10033900,0.98895425,0.72018695,0.904093,,,,not_matched_in_ukb
+CFI,Complement factor I,Inflammation_II,HF,UKB_HF,rs10033900,1.0329265,0.3755766,0.872653,,,,not_matched_in_ukb
+CGB3_CGB5_CGB8,Choriogonadotropin subunit beta 3,Inflammation_II,AF,UKB_AF,rs7252920,0.94144949,0.59710278,0.904093,,,,not_matched_in_ukb
+CGB3_CGB5_CGB8,Choriogonadotropin subunit beta 3,Inflammation_II,HF,UKB_HF,rs7252920,1.2482847,0.093149638,0.606285,,,,not_matched_in_ukb
+CHAD,Chondroadherin,Inflammation_II,AF,UKB_AF,rs144030994,1.0153973,0.64775677,0.904093,,,,not_matched_in_ukb
+CHAD,Chondroadherin,Inflammation_II,HF,UKB_HF,rs144030994,,,,,,,not_in_primary
+CLEC12A,C-type lectin domain family 12 member A,Inflammation_II,AF,UKB_AF,rs12230629,0.97362629,0.37885931,0.869993,,,,not_matched_in_ukb
+CLEC12A,C-type lectin domain family 12 member A,Inflammation_II,HF,UKB_HF,rs12230629,,,,,,,not_in_primary
+CLEC3B,Tetranectin,Inflammation_II,AF,UKB_AF,rs13065490,0.97920754,0.51060577,0.904093,,,,not_matched_in_ukb
+CLEC3B,Tetranectin,Inflammation_II,HF,UKB_HF,rs13065490,0.98871782,0.75898177,0.971009,,,,not_matched_in_ukb
+CLU,Clusterin,Inflammation_II,AF,UKB_AF,rs553014,1.0053225,0.9405116,0.987363,,,,not_matched_in_ukb
+CLU,Clusterin,Inflammation_II,HF,UKB_HF,rs553014,0.90694463,0.24419837,0.836791,,,,not_matched_in_ukb
+COL5A1,Collagen alpha-1(V) chain,Inflammation_II,AF,UKB_AF,rs12002679,1.0481567,0.16000246,0.717809,,,,not_matched_in_ukb
+COL5A1,Collagen alpha-1(V) chain,Inflammation_II,HF,UKB_HF,rs12002679,1.087056,0.032249503,0.457404,,,,not_matched_in_ukb
+CPA4,Carboxypeptidase A4,Inflammation_II,AF,UKB_AF,rs34587586,1.0050579,0.69557229,0.904093,,,,not_matched_in_ukb
+CPA4,Carboxypeptidase A4,Inflammation_II,HF,UKB_HF,rs34587586,1.0127873,0.40695261,0.889069,,,,not_matched_in_ukb
+CPB2,Carboxypeptidase B2,Inflammation_II,AF,UKB_AF,rs6561283,1.0052058,0.64943628,0.904093,,,,not_matched_in_ukb
+CPB2,Carboxypeptidase B2,Inflammation_II,HF,UKB_HF,rs6561283,0.99010969,0.46157021,0.914221,,,,not_matched_in_ukb
+CPOX,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",Inflammation_II,AF,UKB_AF,rs1729988,1.0134669,0.82860204,0.944252,,,,not_matched_in_ukb
+CPOX,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",Inflammation_II,HF,UKB_HF,rs1729988,1.0698537,0.34821712,0.856601,,,,not_matched_in_ukb
+CR1,Complement receptor type 1,Inflammation_II,AF,UKB_AF,rs679515,0.98985928,0.52726671,0.904093,,,,not_matched_in_ukb
+CR1,Complement receptor type 1,Inflammation_II,HF,UKB_HF,rs679515,0.98894251,0.54850624,0.946293,,,,not_matched_in_ukb
+CRELD1,Protein disulfide isomerase CRELD1,Inflammation_II,AF,UKB_AF,rs9878047,1.013308,0.15312745,0.717809,,,,not_matched_in_ukb
+CRELD1,Protein disulfide isomerase CRELD1,Inflammation_II,HF,UKB_HF,rs9878047,0.99783903,0.84488242,0.971009,,,,not_matched_in_ukb
+CRISP3,Cysteine-rich secretory protein 3,Inflammation_II,AF,UKB_AF,rs1025347,0.99006958,0.38778768,0.869993,,,,not_matched_in_ukb
+CRISP3,Cysteine-rich secretory protein 3,Inflammation_II,HF,UKB_HF,rs1025347,1.0019278,0.88784969,0.974199,,,,not_matched_in_ukb
+CSF1R,Macrophage colony-stimulating factor 1 receptor,Inflammation_II,AF,UKB_AF,rs56048668,0.992873,0.83887932,0.951768,,,,not_matched_in_ukb
+CSF1R,Macrophage colony-stimulating factor 1 receptor,Inflammation_II,HF,UKB_HF,rs56048668,,,,,,,not_in_primary
+CSF2RB,Cytokine receptor common subunit beta,Inflammation_II,AF,UKB_AF,rs2239749,1.0059888,0.32447962,0.857964,,,,not_matched_in_ukb
+CSF2RB,Cytokine receptor common subunit beta,Inflammation_II,HF,UKB_HF,rs2239749,1.0062577,0.3755766,0.872653,,,,not_matched_in_ukb
+CSF3R,Granulocyte colony-stimulating factor receptor,Inflammation_II,AF,UKB_AF,rs3917999,1.0112793,0.6791079,0.904093,,,,not_matched_in_ukb
+CSF3R,Granulocyte colony-stimulating factor receptor,Inflammation_II,HF,UKB_HF,rs3917999,1.0206107,0.48524899,0.934047,,,,not_matched_in_ukb
+CST1,Cystatin-SN,Inflammation_II,AF,UKB_AF,rs4549181,1.0003433,0.97900546,0.995872,,,,not_matched_in_ukb
+CST1,Cystatin-SN,Inflammation_II,HF,UKB_HF,rs4549181,1.0029221,0.85180711,0.971009,,,,not_matched_in_ukb
+CTBS,Di-N-acetylchitobiase,Inflammation_II,AF,UKB_AF,rs79723172,0.99060911,0.52799609,0.904093,,,,not_matched_in_ukb
+CTBS,Di-N-acetylchitobiase,Inflammation_II,HF,UKB_HF,rs79723172,0.979883,0.26271376,0.841464,,,,not_matched_in_ukb
+CTSE,Cathepsin E,Inflammation_II,AF,UKB_AF,rs41302235,0.9982907,0.91656474,0.986349,,,,not_matched_in_ukb
+CTSE,Cathepsin E,Inflammation_II,HF,UKB_HF,rs41302235,1.0015564,0.93961197,0.988165,,,,not_matched_in_ukb
+DAPK2,Death-associated protein kinase 2,Inflammation_II,AF,UKB_AF,rs34772505,0.99228603,0.65908525,0.904093,,,,not_matched_in_ukb
+DAPK2,Death-associated protein kinase 2,Inflammation_II,HF,UKB_HF,rs34772505,0.98896182,0.58623243,0.946293,,,,not_matched_in_ukb
+DBH,Dopamine beta-hydroxylase,Inflammation_II,AF,UKB_AF,rs1611115,1.0044536,0.53588499,0.904093,,,,not_matched_in_ukb
+DBH,Dopamine beta-hydroxylase,Inflammation_II,HF,UKB_HF,rs1611115,0.99880433,0.88865999,0.974199,,,,not_matched_in_ukb
+DDI2,Protein DDI1 homolog 2,Inflammation_II,AF,UKB_AF,rs41270291,1.0831565,0.55449602,0.904093,,,,not_matched_in_ukb
+DDI2,Protein DDI1 homolog 2,Inflammation_II,HF,UKB_HF,rs41270291,0.81387771,0.20898872,0.800798,,,,not_matched_in_ukb
+DNAJB6,DnaJ homolog subfamily B member 6,Inflammation_II,AF,UKB_AF,rs12668458,1.0190273,0.60185198,0.904093,,,,not_matched_in_ukb
+DNAJB6,DnaJ homolog subfamily B member 6,Inflammation_II,HF,UKB_HF,rs12668458,1.0416839,0.33556611,0.854294,,,,not_matched_in_ukb
+DTD1,D-aminoacyl-tRNA deacylase 1,Inflammation_II,AF,UKB_AF,rs6081238,1.013366,0.7498474,0.909608,,,,not_matched_in_ukb
+DTD1,D-aminoacyl-tRNA deacylase 1,Inflammation_II,HF,UKB_HF,rs6081238,0.95574498,0.35448448,0.859992,,,,not_matched_in_ukb
+ECM1,Extracellular matrix protein 1,Inflammation_II,AF,UKB_AF,rs3737240,0.98577438,0.15978438,0.717809,,,,not_matched_in_ukb
+ECM1,Extracellular matrix protein 1,Inflammation_II,HF,UKB_HF,rs3737240,0.987815,0.30550884,0.848366,,,,not_matched_in_ukb
+EPHA4,Ephrin type-A receptor 4,Inflammation_II,AF,UKB_AF,rs10932916,0.98717574,0.78819386,0.922471,,,,not_matched_in_ukb
+EPHA4,Ephrin type-A receptor 4,Inflammation_II,HF,UKB_HF,rs10932916,1.0043117,0.93868474,0.988165,,,,not_matched_in_ukb
+ERMAP,Erythroid membrane-associated protein,Inflammation_II,AF,UKB_AF,rs11210710,0.92260013,0.26870029,0.810461,,,,not_matched_in_ukb
+ERMAP,Erythroid membrane-associated protein,Inflammation_II,HF,UKB_HF,rs11210710,0.87984269,0.13194053,0.672724,,,,not_matched_in_ukb
+EVI5,Ecotropic viral integration site 5 protein homolog,Inflammation_II,AF,UKB_AF,rs11808092,1.0083001,0.87453975,0.97637,,,,not_matched_in_ukb
+EVI5,Ecotropic viral integration site 5 protein homolog,Inflammation_II,HF,UKB_HF,rs11808092,1.0117788,0.8501799,0.971009,,,,not_matched_in_ukb
+F10,Coagulation factor X,Inflammation_II,AF,UKB_AF,rs547138,0.9800994,0.58544093,0.904093,,,,not_matched_in_ukb
+F10,Coagulation factor X,Inflammation_II,HF,UKB_HF,rs547138,0.99110588,0.848936,0.971009,,,,not_matched_in_ukb
+F11,Coagulation factor XI,Inflammation_II,AF,UKB_AF,rs2289252,0.99922101,0.96481063,0.995872,,,,not_matched_in_ukb
+F11,Coagulation factor XI,Inflammation_II,HF,UKB_HF,rs2289252,0.98658306,0.52088922,0.946293,,,,not_matched_in_ukb
+F12,Coagulation factor XII,Inflammation_II,AF,UKB_AF,rs1801020,0.99132564,0.18666386,0.753626,,,,not_matched_in_ukb
+F12,Coagulation factor XII,Inflammation_II,HF,UKB_HF,rs1801020,1.0033042,0.67495682,0.964224,,,,not_matched_in_ukb
+F13B,Coagulation factor XIII B chain,Inflammation_II,AF,UKB_AF,rs12134960,1.0266699,0.10622743,0.634898,,,,not_matched_in_ukb
+F13B,Coagulation factor XIII B chain,Inflammation_II,HF,UKB_HF,rs12134960,1.0285098,0.13857138,0.672724,,,,not_matched_in_ukb
+F2,Prothrombin,Inflammation_II,AF,UKB_AF,rs1799963,0.98546841,0.79262822,0.922471,,,,not_matched_in_ukb
+F2,Prothrombin,Inflammation_II,HF,UKB_HF,rs1799963,,,,,,,not_in_primary
+FCN1,Ficolin-1,Inflammation_II,AF,UKB_AF,rs11103604,1,1,1,,,,not_matched_in_ukb
+FCN1,Ficolin-1,Inflammation_II,HF,UKB_HF,rs11103604,1.0152636,0.4464399,0.912536,,,,not_matched_in_ukb
+FGA,Fibrinogen alpha chain,Inflammation_II,AF,UKB_AF,rs140473879,0.97640336,0.69653655,0.904093,,,,not_matched_in_ukb
+FGA,Fibrinogen alpha chain,Inflammation_II,HF,UKB_HF,rs140473879,,,,,,,not_in_primary
+FGFR4,Fibroblast growth factor receptor 4,Inflammation_II,AF,UKB_AF,rs351855,1.0042701,0.55583371,0.904093,,,,not_matched_in_ukb
+FGFR4,Fibroblast growth factor receptor 4,Inflammation_II,HF,UKB_HF,rs351855,0.99082675,0.27952129,0.841464,,,,not_matched_in_ukb
+FGL1,Fibrinogen-like protein 1,Inflammation_II,AF,UKB_AF,rs3739404,1.0312149,0.0044401605,0.213325,,,,not_matched_in_ukb
+FGL1,Fibrinogen-like protein 1,Inflammation_II,HF,UKB_HF,rs3739404,1.0004566,0.97151018,0.988726,,,,not_matched_in_ukb
+FN1,Fibronectin,Inflammation_II,AF,UKB_AF,rs1250259,0.96985559,0.067749903,0.570142,,,,not_matched_in_ukb
+FN1,Fibronectin,Inflammation_II,HF,UKB_HF,rs1250259,0.99243261,0.69594168,0.971009,,,,not_matched_in_ukb
+FOLH1,Glutamate carboxypeptidase 2,Inflammation_II,AF,UKB_AF,rs61886488,1.4030184,0.04351321,0.570142,,,,not_matched_in_ukb
+FOLH1,Glutamate carboxypeptidase 2,Inflammation_II,HF,UKB_HF,rs61886488,,,,,,,not_in_primary
+FOXJ3,Forkhead box protein J3,Inflammation_II,AF,UKB_AF,rs1139978,1.0560653,0.57162727,0.904093,,,,not_matched_in_ukb
+FOXJ3,Forkhead box protein J3,Inflammation_II,HF,UKB_HF,rs1139978,0.97119962,0.79592792,0.971009,,,,not_matched_in_ukb
+FUOM,Fucose mutarotase,Inflammation_II,AF,UKB_AF,rs11816588,1.0353955,0.40688722,0.869993,,,,not_matched_in_ukb
+FUOM,Fucose mutarotase,Inflammation_II,HF,UKB_HF,rs11816588,0.88828517,0.053755374,0.495811,,,,not_matched_in_ukb
+GC,Vitamin D-binding protein,Inflammation_II,AF,UKB_AF,rs1352846,1.0051709,0.40212178,0.869993,,,,not_matched_in_ukb
+GC,Vitamin D-binding protein,Inflammation_II,HF,UKB_HF,rs1352846,0.99593216,0.57328618,0.946293,,,,not_matched_in_ukb
+GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,Inflammation_II,AF,UKB_AF,rs2289218,1.0755054,0.22668005,0.769429,,,,not_matched_in_ukb
+GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,Inflammation_II,HF,UKB_HF,rs2289218,1.0506676,0.48073046,0.930125,,,,not_matched_in_ukb
+GHR,Growth hormone receptor,Inflammation_II,AF,UKB_AF,rs4073476,1.0090908,0.41462055,0.869993,,,,not_matched_in_ukb
+GHR,Growth hormone receptor,Inflammation_II,HF,UKB_HF,rs4073476,1.0196028,0.13946727,0.672724,,,,not_matched_in_ukb
+GIMAP7,GTPase IMAP family member 7,Inflammation_II,AF,UKB_AF,rs3735080,1.0292641,0.02485881,0.490015,,,,not_matched_in_ukb
+GIMAP7,GTPase IMAP family member 7,Inflammation_II,HF,UKB_HF,rs3735080,1.0280773,0.06486987,0.529308,,,,not_matched_in_ukb
+GIT1,ARF GTPase-activating protein GIT1,Inflammation_II,AF,UKB_AF,rs142511067,1.0682599,0.54850624,0.904093,,,,not_matched_in_ukb
+GIT1,ARF GTPase-activating protein GIT1,Inflammation_II,HF,UKB_HF,rs142511067,0.93915918,0.61245028,0.948167,,,,not_matched_in_ukb
+GLRX5,"Glutaredoxin-related protein 5, mitochondrial",Inflammation_II,AF,UKB_AF,rs179133,1.0711515,0.20809408,0.769429,,,,not_matched_in_ukb
+GLRX5,"Glutaredoxin-related protein 5, mitochondrial",Inflammation_II,HF,UKB_HF,rs179133,1.010331,0.87288107,0.972877,,,,not_matched_in_ukb
+GMPR2,GMP reductase 2,Inflammation_II,AF,UKB_AF,rs199867463,0.92455281,0.17426918,0.741023,,,,not_matched_in_ukb
+GMPR2,GMP reductase 2,Inflammation_II,HF,UKB_HF,rs199867463,,,,,,,not_in_primary
+GNPDA2,Glucosamine-6-phosphate isomerase 2,Inflammation_II,AF,UKB_AF,rs769805766,,,,,,,not_in_primary
+GNPDA2,Glucosamine-6-phosphate isomerase 2,Inflammation_II,HF,UKB_HF,rs769805766,,,,,,,not_in_primary
+GP5,Platelet glycoprotein V,Inflammation_II,AF,UKB_AF,rs10638925,0.9459683,0.70252846,0.904093,,,,not_matched_in_ukb
+GP5,Platelet glycoprotein V,Inflammation_II,HF,UKB_HF,rs10638925,,,,,,,not_in_primary
+GSN,Gelsolin,Inflammation_II,AF,UKB_AF,rs116185403,1.1136001,0.064422266,0.570142,,,,not_matched_in_ukb
+GSN,Gelsolin,Inflammation_II,HF,UKB_HF,rs116185403,,,,,,,not_in_primary
+GSR,"Glutathione reductase, mitochondrial",Inflammation_II,AF,UKB_AF,rs8190982,1.1119278,0.34211225,0.859547,,,,not_matched_in_ukb
+GSR,"Glutathione reductase, mitochondrial",Inflammation_II,HF,UKB_HF,rs8190982,,,,,,,not_in_primary
+HEG1,Protein HEG homolog 1,Inflammation_II,AF,UKB_AF,rs6438868,1.1507686,0.024448945,0.490015,,,,not_matched_in_ukb
+HEG1,Protein HEG homolog 1,Inflammation_II,HF,UKB_HF,rs6438868,1.1667216,0.035728841,0.457404,,,,not_matched_in_ukb
+HGFAC,Hepatocyte growth factor activator,Inflammation_II,AF,UKB_AF,rs4690097,0.9921581,0.60759216,0.904093,,,,not_matched_in_ukb
+HGFAC,Hepatocyte growth factor activator,Inflammation_II,HF,UKB_HF,rs4690097,1.0008291,0.963745,0.988726,,,,not_matched_in_ukb
+HMCN2,Hemicentin-2,Inflammation_II,AF,UKB_AF,rs6415851,0.96520963,0.00097200296,0.0792182,,,,not_matched_in_ukb
+HMCN2,Hemicentin-2,Inflammation_II,HF,UKB_HF,rs6415851,1.001764,0.88784969,0.974199,,,,not_matched_in_ukb
+HRG,Histidine-rich glycoprotein,Inflammation_II,AF,UKB_AF,rs9898,1.0309925,0.031167345,0.564475,,,,not_matched_in_ukb
+HRG,Histidine-rich glycoprotein,Inflammation_II,HF,UKB_HF,rs9898,1.0357338,0.036149832,0.457404,,,,not_matched_in_ukb
+IDO1,"Indoleamine 2,3-dioxygenase 1",Inflammation_II,AF,UKB_AF,rs7010461,0.92885478,0.010772292,0.329228,,,,not_matched_in_ukb
+IDO1,"Indoleamine 2,3-dioxygenase 1",Inflammation_II,HF,UKB_HF,rs7010461,0.97534626,0.42771755,0.91207,,,,not_matched_in_ukb
+IGLC2,Immunoglobulin lambda constant 2,Inflammation_II,AF,UKB_AF,rs2856876,1.0332904,0.4665185,0.892952,,,,not_matched_in_ukb
+IGLC2,Immunoglobulin lambda constant 2,Inflammation_II,HF,UKB_HF,rs2856876,1.0092117,0.85992425,0.971009,,,,not_matched_in_ukb
+IL20RB,Interleukin-20 receptor subunit beta,Inflammation_II,AF,UKB_AF,3:136979649:CTG:C,,,,,,,not_in_primary
+IL20RB,Interleukin-20 receptor subunit beta,Inflammation_II,HF,UKB_HF,3:136979649:CTG:C,,,,,,,not_in_primary
+IL31RA,Interleukin-31 receptor subunit alpha,Inflammation_II,AF,UKB_AF,rs161651,0.99037501,0.39687127,0.869993,,,,not_matched_in_ukb
+IL31RA,Interleukin-31 receptor subunit alpha,Inflammation_II,HF,UKB_HF,rs161651,1.0151764,0.25807513,0.841464,,,,not_matched_in_ukb
+IL36A,Interleukin-36 alpha,Inflammation_II,AF,UKB_AF,rs895497,1.107789,0.38711296,0.869993,,,,not_matched_in_ukb
+IL36A,Interleukin-36 alpha,Inflammation_II,HF,UKB_HF,rs895497,1.0508334,0.72159956,0.971009,,,,not_matched_in_ukb
+IL36G,Interleukin-36 gamma,Inflammation_II,AF,UKB_AF,rs13410389,1.0084772,0.9212168,0.986349,,,,not_matched_in_ukb
+IL36G,Interleukin-36 gamma,Inflammation_II,HF,UKB_HF,rs13410389,0.8422803,0.093171713,0.606285,,,,not_matched_in_ukb
+INHBB,Inhibin beta B chain,Inflammation_II,AF,UKB_AF,rs17050272,1.0079862,0.67427372,0.904093,,,,not_matched_in_ukb
+INHBB,Inhibin beta B chain,Inflammation_II,HF,UKB_HF,rs17050272,0.9435082,0.0097275718,0.306793,,,,not_matched_in_ukb
+ITGA2,Integrin alpha-2,Inflammation_II,AF,UKB_AF,rs755331637,,,,,,,not_in_primary
+ITGA2,Integrin alpha-2,Inflammation_II,HF,UKB_HF,rs755331637,,,,,,,not_in_primary
+ITGAL,Integrin alpha-L,Inflammation_II,AF,UKB_AF,rs11574938,1.0585919,0.1840598,0.750044,,,,not_matched_in_ukb
+ITGAL,Integrin alpha-L,Inflammation_II,HF,UKB_HF,rs11574938,1.1741946,0.0014869666,0.121931,,,,not_matched_in_ukb
+ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,Inflammation_II,AF,UKB_AF,rs678,0.91081759,0.057623572,0.570142,,,,not_matched_in_ukb
+ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,Inflammation_II,HF,UKB_HF,rs678,0.87204861,0.043274317,0.468736,,,,not_matched_in_ukb
+ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,Inflammation_II,AF,UKB_AF,rs2710331,1.045403,0.1108906,0.653319,,,,not_matched_in_ukb
+ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,Inflammation_II,HF,UKB_HF,rs2710331,1.0445594,0.1878141,0.778673,,,,not_matched_in_ukb
+JAM3,Junctional adhesion molecule C,Inflammation_II,AF,UKB_AF,rs94499,0.94257484,0.35545995,0.869993,,,,not_matched_in_ukb
+JAM3,Junctional adhesion molecule C,Inflammation_II,HF,UKB_HF,rs94499,0.98472527,0.83811823,0.971009,,,,not_matched_in_ukb
+KLK7,Kallikrein-7,Inflammation_II,AF,UKB_AF,rs1991821,0.99310245,0.70323858,0.904093,,,,not_matched_in_ukb
+KLK7,Kallikrein-7,Inflammation_II,HF,UKB_HF,rs1991821,0.98058028,0.34494258,0.856601,,,,not_matched_in_ukb
+KLKB1,Plasma kallikrein,Inflammation_II,AF,UKB_AF,rs4253306,0.99414539,0.76417716,0.920401,,,,not_matched_in_ukb
+KLKB1,Plasma kallikrein,Inflammation_II,HF,UKB_HF,rs4253306,1.0303441,0.20653244,0.800798,,,,not_matched_in_ukb
+KLRF1,Killer cell lectin-like receptor subfamily F member 1,Inflammation_II,AF,UKB_AF,rs146460124,1.0693019,0.089327594,0.614454,,,,not_matched_in_ukb
+KLRF1,Killer cell lectin-like receptor subfamily F member 1,Inflammation_II,HF,UKB_HF,rs146460124,,,,,,,not_in_primary
+LATS1,Serine/threonine-protein kinase LATS1,Inflammation_II,AF,UKB_AF,6:149735975:TAA:T,,,,,,,not_in_primary
+LATS1,Serine/threonine-protein kinase LATS1,Inflammation_II,HF,UKB_HF,6:149735975:TAA:T,,,,,,,not_in_primary
+LCAT,Phosphatidylcholine-sterol acyltransferase,Inflammation_II,AF,UKB_AF,rs4986970,0.97544863,0.69573137,0.904093,,,,not_matched_in_ukb
+LCAT,Phosphatidylcholine-sterol acyltransferase,Inflammation_II,HF,UKB_HF,rs4986970,1.0673017,0.4076705,0.889069,,,,not_matched_in_ukb
+LEG1,Protein LEG1 homolog,Inflammation_II,AF,UKB_AF,rs1550942,1.0176325,0.3319721,0.858912,,,,not_matched_in_ukb
+LEG1,Protein LEG1 homolog,Inflammation_II,HF,UKB_HF,rs1550942,0.98505415,0.47278891,0.927481,,,,not_matched_in_ukb
+LGALS3BP,Galectin-3-binding protein,Inflammation_II,AF,UKB_AF,rs111526614,0.89213514,0.072379874,0.570142,,,,not_matched_in_ukb
+LGALS3BP,Galectin-3-binding protein,Inflammation_II,HF,UKB_HF,rs111526614,0.87392789,0.098838628,0.606285,,,,not_matched_in_ukb
+LMOD1,Leiomodin-1,Inflammation_II,AF,UKB_AF,1:201917641:TA:T,,,,,,,not_in_primary
+LMOD1,Leiomodin-1,Inflammation_II,HF,UKB_HF,1:201917641:TA:T,,,,,,,not_in_primary
+LPA,Apolipoprotein(a),Inflammation_II,AF,UKB_AF,rs56393506,1.0347384,0.0062032059,0.216669,,,,not_matched_in_ukb
+LPA,Apolipoprotein(a),Inflammation_II,HF,UKB_HF,rs56393506,1.0797214,1.1017337e-07,2.25855e-05,,,,not_matched_in_ukb
+LRG1,Leucine-rich alpha-2-glycoprotein,Inflammation_II,AF,UKB_AF,rs8105192,0.97025865,0.020609184,0.471288,,,,not_matched_in_ukb
+LRG1,Leucine-rich alpha-2-glycoprotein,Inflammation_II,HF,UKB_HF,rs8105192,0.98001447,0.21432577,0.80618,,,,not_matched_in_ukb
+LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,Inflammation_II,AF,UKB_AF,rs11172841,0.83731062,0.059788111,0.570142,,,,not_matched_in_ukb
+LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,Inflammation_II,HF,UKB_HF,rs11172841,0.95446,0.65501333,0.958188,,,,not_matched_in_ukb
+LYVE1,Lymphatic vessel endothelial hyaluronic acid receptor 1,Inflammation_II,AF,UKB_AF,rs7119709,1.0569967,0.46747608,0.892952,,,,not_matched_in_ukb
+LYVE1,Lymphatic vessel endothelial hyaluronic acid receptor 1,Inflammation_II,HF,UKB_HF,rs7119709,0.97461215,0.74435857,0.971009,,,,not_matched_in_ukb
+LZTFL1,Leucine zipper transcription factor-like protein 1,Inflammation_II,AF,UKB_AF,rs1129183,1.018949,0.67944314,0.904093,,,,not_matched_in_ukb
+LZTFL1,Leucine zipper transcription factor-like protein 1,Inflammation_II,HF,UKB_HF,rs1129183,1.003008,0.9544314,0.988726,,,,not_matched_in_ukb
+MBL2,Mannose-binding protein C,Inflammation_II,AF,UKB_AF,rs7899547,0.9947667,0.4928933,0.904093,,,,not_matched_in_ukb
+MBL2,Mannose-binding protein C,Inflammation_II,HF,UKB_HF,rs7899547,0.9972709,0.76325832,0.971009,,,,not_matched_in_ukb
+MCEMP1,Mast cell-expressed membrane protein 1,Inflammation_II,AF,UKB_AF,rs141879681,0.99881356,0.9726585,0.995872,,,,not_matched_in_ukb
+MCEMP1,Mast cell-expressed membrane protein 1,Inflammation_II,HF,UKB_HF,rs141879681,,,,,,,not_in_primary
+MDH1,"Malate dehydrogenase, cytoplasmic",Inflammation_II,AF,UKB_AF,rs71422399,1.0747684,0.39136594,0.869993,,,,not_matched_in_ukb
+MDH1,"Malate dehydrogenase, cytoplasmic",Inflammation_II,HF,UKB_HF,rs71422399,1.1301613,0.20823738,0.800798,,,,not_matched_in_ukb
+MENT,Protein MENT,Inflammation_II,AF,UKB_AF,1:151048273:TAGTC:T,,,,,,,not_in_primary
+MENT,Protein MENT,Inflammation_II,HF,UKB_HF,1:151048273:TAGTC:T,,,,,,,not_in_primary
+MFAP4,Microfibril-associated glycoprotein 4,Inflammation_II,AF,UKB_AF,rs139356332,1.0168983,0.64795587,0.904093,,,,not_matched_in_ukb
+MFAP4,Microfibril-associated glycoprotein 4,Inflammation_II,HF,UKB_HF,rs139356332,1.0054157,0.8955276,0.976506,,,,not_matched_in_ukb
+MOCS2,Molybdopterin synthase catalytic subunit,Inflammation_II,AF,UKB_AF,rs6880055,0.99666163,0.83032426,0.944252,,,,not_matched_in_ukb
+MOCS2,Molybdopterin synthase catalytic subunit,Inflammation_II,HF,UKB_HF,rs6880055,0.99933143,0.97081561,0.988726,,,,not_matched_in_ukb
+MRC1,Macrophage mannose receptor 1,Inflammation_II,AF,UKB_AF,rs74118031,1.0562549,0.25135731,0.803668,,,,not_matched_in_ukb
+MRC1,Macrophage mannose receptor 1,Inflammation_II,HF,UKB_HF,rs74118031,,,,,,,not_in_primary
+MST1,Hepatocyte growth factor-like protein,Inflammation_II,AF,UKB_AF,rs11130213,1.0027642,0.68711171,0.904093,,,,not_matched_in_ukb
+MST1,Hepatocyte growth factor-like protein,Inflammation_II,HF,UKB_HF,rs11130213,1.0156362,0.058046202,0.495811,,,,not_matched_in_ukb
+MXRA8,Matrix remodeling-associated protein 8,Inflammation_II,AF,UKB_AF,rs200138692,0.69470495,0.030529037,0.564475,,,,not_matched_in_ukb
+MXRA8,Matrix remodeling-associated protein 8,Inflammation_II,HF,UKB_HF,rs200138692,,,,,,,not_in_primary
+MYOM3,Myomesin-3,Inflammation_II,AF,UKB_AF,rs6700245,1.0480074,0.60622888,0.904093,,,,not_matched_in_ukb
+MYOM3,Myomesin-3,Inflammation_II,HF,UKB_HF,rs6700245,1.0829775,0.4598278,0.914221,,,,not_matched_in_ukb
+NAGA,Alpha-N-acetylgalactosaminidase,Inflammation_II,AF,UKB_AF,rs121434529,0.96581328,0.48334384,0.904093,,,,not_matched_in_ukb
+NAGA,Alpha-N-acetylgalactosaminidase,Inflammation_II,HF,UKB_HF,rs121434529,,,,,,,not_in_primary
+NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,Inflammation_II,AF,UKB_AF,rs12599777,0.98765182,0.55316559,0.904093,,,,not_matched_in_ukb
+NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,Inflammation_II,HF,UKB_HF,rs12599777,0.95058782,0.043443847,0.468736,,,,not_matched_in_ukb
+NEXN,Nexilin,Inflammation_II,AF,UKB_AF,rs71590706,,,,,,,not_in_primary
+NEXN,Nexilin,Inflammation_II,HF,UKB_HF,rs71590706,,,,,,,not_in_primary
+NHLRC3,NHL repeat-containing protein 3,Inflammation_II,AF,UKB_AF,rs149175958,0.96416989,0.16432218,0.727416,,,,not_matched_in_ukb
+NHLRC3,NHL repeat-containing protein 3,Inflammation_II,HF,UKB_HF,rs149175958,,,,,,,not_in_primary
+NPHS1,Nephrin,Inflammation_II,AF,UKB_AF,rs200857931,,,,,,,not_in_primary
+NPHS1,Nephrin,Inflammation_II,HF,UKB_HF,rs200857931,,,,,,,not_in_primary
+NUMB,Protein numb homolog,Inflammation_II,AF,UKB_AF,rs7141139,0.84127374,0.050059003,0.570142,,,,not_matched_in_ukb
+NUMB,Protein numb homolog,Inflammation_II,HF,UKB_HF,rs7141139,0.81949916,0.10157722,0.607042,,,,not_matched_in_ukb
+NXPH3,Neurexophilin-3,Inflammation_II,AF,UKB_AF,rs147028083,0.99189182,0.71247474,0.904093,,,,not_matched_in_ukb
+NXPH3,Neurexophilin-3,Inflammation_II,HF,UKB_HF,rs147028083,,,,,,,not_in_primary
+OLFM4,Olfactomedin-4,Inflammation_II,AF,UKB_AF,rs17552047,1.000233,0.97900546,0.995872,,,,not_matched_in_ukb
+OLFM4,Olfactomedin-4,Inflammation_II,HF,UKB_HF,rs17552047,0.99535212,0.6602555,0.958188,,,,not_matched_in_ukb
+ORM1,Alpha-1-acid glycoprotein 1,Inflammation_II,AF,UKB_AF,rs10982156,0.98525599,0.42202114,0.869993,,,,not_matched_in_ukb
+ORM1,Alpha-1-acid glycoprotein 1,Inflammation_II,HF,UKB_HF,rs10982156,1.0126374,0.55861115,0.946293,,,,not_matched_in_ukb
+PAXX,Protein PAXX,Inflammation_II,AF,UKB_AF,9:136998671:C:T,,,,,,,not_in_primary
+PAXX,Protein PAXX,Inflammation_II,HF,UKB_HF,9:136998671:C:T,,,,,,,not_in_primary
+PCBD1,Pterin-4-alpha-carbinolamine dehydratase,Inflammation_II,AF,UKB_AF,rs2630336,1.030796,0.43203489,0.87326,,,,not_matched_in_ukb
+PCBD1,Pterin-4-alpha-carbinolamine dehydratase,Inflammation_II,HF,UKB_HF,rs2630336,1.0044216,0.92228091,0.988165,,,,not_matched_in_ukb
+PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",Inflammation_II,AF,UKB_AF,rs58583086,0.96761038,0.4444467,0.883473,,,,not_matched_in_ukb
+PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",Inflammation_II,HF,UKB_HF,rs58583086,1.017243,0.73888268,0.971009,,,,not_matched_in_ukb
+PDIA3,Protein disulfide-isomerase A3,Inflammation_II,AF,UKB_AF,rs59162344,,,,,,,not_in_primary
+PDIA3,Protein disulfide-isomerase A3,Inflammation_II,HF,UKB_HF,rs59162344,,,,,,,not_in_primary
+PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Inflammation_II,AF,UKB_AF,rs1471633,1.0126479,0.84791389,0.955368,,,,not_matched_in_ukb
+PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Inflammation_II,HF,UKB_HF,rs1471633,1.0263768,0.7525966,0.971009,,,,not_matched_in_ukb
+PENK,Proenkephalin-A,Inflammation_II,AF,UKB_AF,rs2576575,0.99800561,0.92756483,0.986349,,,,not_matched_in_ukb
+PENK,Proenkephalin-A,Inflammation_II,HF,UKB_HF,rs2576575,0.96824046,0.21950399,0.808653,,,,not_matched_in_ukb
+PEPD,Xaa-Pro dipeptidase,Inflammation_II,AF,UKB_AF,rs17569,1.0258988,0.17082266,0.732739,,,,not_matched_in_ukb
+PEPD,Xaa-Pro dipeptidase,Inflammation_II,HF,UKB_HF,rs17569,1.0151301,0.49322707,0.944968,,,,not_matched_in_ukb
+PER3,Period circadian protein homolog 3,Inflammation_II,AF,UKB_AF,rs228647,0.99246371,0.67601259,0.904093,,,,not_matched_in_ukb
+PER3,Period circadian protein homolog 3,Inflammation_II,HF,UKB_HF,rs228647,0.98791585,0.56893529,0.946293,,,,not_matched_in_ukb
+PF4,Platelet factor 4,Inflammation_II,AF,UKB_AF,rs11574452,1.1302167,0.15742266,0.717809,,,,not_matched_in_ukb
+PF4,Platelet factor 4,Inflammation_II,HF,UKB_HF,rs11574452,1.0478855,0.65596017,0.958188,,,,not_matched_in_ukb
+PGA4,Pepsin A-4,Inflammation_II,AF,UKB_AF,rs4414241,0.86785472,0.28118109,0.825746,,,,not_matched_in_ukb
+PGA4,Pepsin A-4,Inflammation_II,HF,UKB_HF,rs4414241,,,,,,,not_in_primary
+PGLYRP2,N-acetylmuramoyl-L-alanine amidase,Inflammation_II,AF,UKB_AF,rs34440547,0.99216626,0.32794532,0.858912,,,,not_matched_in_ukb
+PGLYRP2,N-acetylmuramoyl-L-alanine amidase,Inflammation_II,HF,UKB_HF,rs34440547,1.0076314,0.4532547,0.914221,,,,not_matched_in_ukb
+PHYKPL,5-phosphohydroxy-L-lysine phospho-lyase,Inflammation_II,AF,UKB_AF,rs142181517,0.98761161,0.5619762,0.904093,,,,not_matched_in_ukb
+PHYKPL,5-phosphohydroxy-L-lysine phospho-lyase,Inflammation_II,HF,UKB_HF,rs142181517,,,,,,,not_in_primary
+PI16,Peptidase inhibitor 16,Inflammation_II,AF,UKB_AF,rs62406524,1.0299748,0.27771351,0.823042,,,,not_matched_in_ukb
+PI16,Peptidase inhibitor 16,Inflammation_II,HF,UKB_HF,rs62406524,1.0306936,0.3319721,0.854294,,,,not_matched_in_ukb
+PINLYP,phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein,Inflammation_II,AF,UKB_AF,rs3213276,1.0011746,0.89470513,0.984187,,,,not_matched_in_ukb
+PINLYP,phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein,Inflammation_II,HF,UKB_HF,rs3213276,1.004969,0.63478697,0.957279,,,,not_matched_in_ukb
+PLG,Plasminogen,Inflammation_II,AF,UKB_AF,rs73015965,0.96631243,0.15579559,0.717809,,,,not_matched_in_ukb
+PLG,Plasminogen,Inflammation_II,HF,UKB_HF,rs73015965,,,,,,,not_in_primary
+PON1,Serum paraoxonase/arylesterase 1,Inflammation_II,AF,UKB_AF,rs705379,1.0041054,0.67527539,0.904093,,,,not_matched_in_ukb
+PON1,Serum paraoxonase/arylesterase 1,Inflammation_II,HF,UKB_HF,rs705379,1.0023817,0.84488242,0.971009,,,,not_matched_in_ukb
+PPBP,Platelet basic protein,Inflammation_II,AF,UKB_AF,rs202224981,1.0514618,0.6780341,0.904093,,,,not_matched_in_ukb
+PPBP,Platelet basic protein,Inflammation_II,HF,UKB_HF,rs202224981,,,,,,,not_in_primary
+PPL,Periplakin,Inflammation_II,AF,UKB_AF,rs61499243,1.0472274,0.57032863,0.904093,,,,not_matched_in_ukb
+PPL,Periplakin,Inflammation_II,HF,UKB_HF,rs61499243,1.1047476,0.29176226,0.842129,,,,not_matched_in_ukb
+PRDX2,Peroxiredoxin-2,Inflammation_II,AF,UKB_AF,19:12800438:CA:C,,,,,,,not_in_primary
+PRDX2,Peroxiredoxin-2,Inflammation_II,HF,UKB_HF,19:12800438:CA:C,,,,,,,not_in_primary
+PRKG1,cGMP-dependent protein kinase 1,Inflammation_II,AF,UKB_AF,rs1937682,0.9296456,0.038929145,0.570142,,,,not_matched_in_ukb
+PRKG1,cGMP-dependent protein kinase 1,Inflammation_II,HF,UKB_HF,rs1937682,0.98091419,0.64441233,0.957279,,,,not_matched_in_ukb
+PROS1,Vitamin K-dependent protein S,Inflammation_II,AF,UKB_AF,rs528128538,0.96794583,0.71521228,0.904093,,,,not_matched_in_ukb
+PROS1,Vitamin K-dependent protein S,Inflammation_II,HF,UKB_HF,rs528128538,,,,,,,not_in_primary
+PRR4,Proline-rich protein 4,Inflammation_II,AF,UKB_AF,rs1063193,0.9977036,0.78819386,0.922471,,,,not_matched_in_ukb
+PRR4,Proline-rich protein 4,Inflammation_II,HF,UKB_HF,rs1063193,1.0089808,0.38157391,0.873996,,,,not_matched_in_ukb
+PRSS22,Brain-specific serine protease 4,Inflammation_II,AF,UKB_AF,rs8046218,0.95007709,0.068467458,0.570142,,,,not_matched_in_ukb
+PRSS22,Brain-specific serine protease 4,Inflammation_II,HF,UKB_HF,rs8046218,0.98433676,0.63354429,0.957279,,,,not_matched_in_ukb
+PSMG4,Proteasome assembly chaperone 4,Inflammation_II,AF,UKB_AF,6:3263148:TG:T,,,,,,,not_in_primary
+PSMG4,Proteasome assembly chaperone 4,Inflammation_II,HF,UKB_HF,6:3263148:TG:T,,,,,,,not_in_primary
+PSTPIP2,Proline-serine-threonine phosphatase-interacting protein 2,Inflammation_II,AF,UKB_AF,rs72642432,1.0373828,0.39702925,0.869993,,,,not_matched_in_ukb
+PSTPIP2,Proline-serine-threonine phosphatase-interacting protein 2,Inflammation_II,HF,UKB_HF,rs72642432,1.0187451,0.71961427,0.971009,,,,not_matched_in_ukb
+PTGES2,Prostaglandin E synthase 2,Inflammation_II,AF,UKB_AF,rs13283456,1.1213347,0.21232747,0.769429,,,,not_matched_in_ukb
+PTGES2,Prostaglandin E synthase 2,Inflammation_II,HF,UKB_HF,rs13283456,1.1880286,0.12896857,0.669331,,,,not_matched_in_ukb
+PTRHD1,Putative peptidyl-tRNA hydrolase PTRHD1,Inflammation_II,AF,UKB_AF,rs138426814,1.0414358,0.80237925,0.929771,,,,not_matched_in_ukb
+PTRHD1,Putative peptidyl-tRNA hydrolase PTRHD1,Inflammation_II,HF,UKB_HF,rs138426814,,,,,,,not_in_primary
+PZP,Pregnancy zone protein,Inflammation_II,AF,UKB_AF,rs7311982,1.0252155,0.25554401,0.80452,,,,not_matched_in_ukb
+PZP,Pregnancy zone protein,Inflammation_II,HF,UKB_HF,rs7311982,1.0441518,0.094048359,0.606285,,,,not_matched_in_ukb
+QSOX1,Sulfhydryl oxidase 1,Inflammation_II,AF,UKB_AF,rs12371,0.99476614,0.62613114,0.904093,,,,not_matched_in_ukb
+QSOX1,Sulfhydryl oxidase 1,Inflammation_II,HF,UKB_HF,rs12371,1.0055391,0.66372023,0.958188,,,,not_matched_in_ukb
+RABEP1,Rab GTPase-binding effector protein 1,Inflammation_II,AF,UKB_AF,17:5298656:AT:A,,,,,,,not_in_primary
+RABEP1,Rab GTPase-binding effector protein 1,Inflammation_II,HF,UKB_HF,17:5298656:AT:A,,,,,,,not_in_primary
+RALB,Ras-related protein Ral-B,Inflammation_II,AF,UKB_AF,rs148102406,,,,,,,not_in_primary
+RALB,Ras-related protein Ral-B,Inflammation_II,HF,UKB_HF,rs148102406,,,,,,,not_in_primary
+RIDA,2-iminobutanoate/2-iminopropanoate deaminase,Inflammation_II,AF,UKB_AF,rs77539382,1.0022067,0.96676443,0.995872,,,,not_matched_in_ukb
+RIDA,2-iminobutanoate/2-iminopropanoate deaminase,Inflammation_II,HF,UKB_HF,rs77539382,,,,,,,not_in_primary
+RLN2,Prorelaxin H2,Inflammation_II,AF,UKB_AF,rs2273782,1.0612304,0.22815381,0.769429,1.0012566,0.46718445,0.65405823,same_direction_not_significant
+RLN2,Prorelaxin H2,Inflammation_II,HF,UKB_HF,rs2273782,1.0314638,0.6021741,0.946293,1.0011611,0.29599447,0.82951749,same_direction_not_significant
+RNASE1,Ribonuclease pancreatic,Inflammation_II,AF,UKB_AF,rs17254387,0.97318588,0.41896442,0.869993,,,,not_matched_in_ukb
+RNASE1,Ribonuclease pancreatic,Inflammation_II,HF,UKB_HF,rs17254387,0.96337248,0.35183573,0.858647,,,,not_matched_in_ukb
+RNASE4,Ribonuclease 4,Inflammation_II,AF,UKB_AF,rs12588573,1.0090816,0.67997298,0.904093,,,,not_matched_in_ukb
+RNASE4,Ribonuclease 4,Inflammation_II,HF,UKB_HF,rs12588573,0.97457674,0.32749764,0.854025,,,,not_matched_in_ukb
+RNASE6,Ribonuclease K6,Inflammation_II,AF,UKB_AF,rs1045922,1.0326618,0.063290832,0.570142,,,,not_matched_in_ukb
+RNASE6,Ribonuclease K6,Inflammation_II,HF,UKB_HF,rs1045922,1.0038281,0.85180711,0.971009,,,,not_matched_in_ukb
+RPA2,Replication protein A 32 kDa subunit,Inflammation_II,AF,UKB_AF,rs17185038,1.1017164,0.21876689,0.769429,,,,not_matched_in_ukb
+RPA2,Replication protein A 32 kDa subunit,Inflammation_II,HF,UKB_HF,rs17185038,1.1312105,0.19395454,0.782751,,,,not_matched_in_ukb
+S100A13,Protein S100-A13,Inflammation_II,AF,UKB_AF,rs114678888,1.0419619,0.26831474,0.810461,,,,not_matched_in_ukb
+S100A13,Protein S100-A13,Inflammation_II,HF,UKB_HF,rs114678888,0.99841265,0.97003955,0.988726,,,,not_matched_in_ukb
+SAA4,Serum amyloid A-4 protein,Inflammation_II,AF,UKB_AF,rs7117890,0.98797881,0.51136328,0.904093,,,,not_matched_in_ukb
+SAA4,Serum amyloid A-4 protein,Inflammation_II,HF,UKB_HF,rs7117890,0.99670706,0.87926681,0.974199,,,,not_matched_in_ukb
+SCGB3A1,Secretoglobin family 3A member 1,Inflammation_II,AF,UKB_AF,rs307802,1.0702764,0.25309791,0.803668,,,,not_matched_in_ukb
+SCGB3A1,Secretoglobin family 3A member 1,Inflammation_II,HF,UKB_HF,rs307802,1.1233415,0.094774683,0.606285,,,,not_matched_in_ukb
+SDK2,Protein sidekick-2,Inflammation_II,AF,UKB_AF,rs11655934,1.0038641,0.78651922,0.922471,,,,not_matched_in_ukb
+SDK2,Protein sidekick-2,Inflammation_II,HF,UKB_HF,rs11655934,0.98571482,0.39066772,0.876831,,,,not_matched_in_ukb
+SELENOP,Selenoprotein P,Inflammation_II,AF,UKB_AF,rs10038285,1.0753085,0.32372005,0.857964,,,,not_matched_in_ukb
+SELENOP,Selenoprotein P,Inflammation_II,HF,UKB_HF,rs10038285,1.1286392,0.16486654,0.751059,,,,not_matched_in_ukb
+SELL,L-selectin,Inflammation_II,AF,UKB_AF,rs2223286,1.0362959,0.0440212,0.570142,,,,not_matched_in_ukb
+SELL,L-selectin,Inflammation_II,HF,UKB_HF,rs2223286,0.99094367,0.66334895,0.958188,,,,not_matched_in_ukb
+SEMA6C,Semaphorin-6C,Inflammation_II,AF,UKB_AF,rs758673791,,,,,,,not_in_primary
+SEMA6C,Semaphorin-6C,Inflammation_II,HF,UKB_HF,rs758673791,,,,,,,not_in_primary
+SERPINA1,Alpha-1-antitrypsin,Inflammation_II,AF,UKB_AF,rs17580,1.0267975,0.57158802,0.904093,,,,not_matched_in_ukb
+SERPINA1,Alpha-1-antitrypsin,Inflammation_II,HF,UKB_HF,rs17580,0.9684541,0.54850624,0.946293,,,,not_matched_in_ukb
+SERPINA3,Alpha-1-antichymotrypsin,Inflammation_II,AF,UKB_AF,rs61976127,0.97505446,0.19399521,0.763048,,,,not_matched_in_ukb
+SERPINA3,Alpha-1-antichymotrypsin,Inflammation_II,HF,UKB_HF,rs61976127,0.97005378,0.17813015,0.778673,,,,not_matched_in_ukb
+SERPINA4,Kallistatin,Inflammation_II,AF,UKB_AF,rs5511,1.0169877,0.18802114,0.753626,,,,not_matched_in_ukb
+SERPINA4,Kallistatin,Inflammation_II,HF,UKB_HF,rs5511,1.0042201,0.77980751,0.971009,,,,not_matched_in_ukb
+SERPINA5,Plasma serine protease inhibitor,Inflammation_II,AF,UKB_AF,rs1130267,0.98124957,0.57628216,0.904093,,,,not_matched_in_ukb
+SERPINA5,Plasma serine protease inhibitor,Inflammation_II,HF,UKB_HF,rs1130267,0.99503121,0.89927102,0.977987,,,,not_matched_in_ukb
+SERPINA6,Corticosteroid-binding globulin,Inflammation_II,AF,UKB_AF,14:94363079:CCACGCAGCCACACACA:C,,,,,,,not_in_primary
+SERPINA6,Corticosteroid-binding globulin,Inflammation_II,HF,UKB_HF,14:94363079:CCACGCAGCCACACACA:C,,,,,,,not_in_primary
+SERPINC1,Antithrombin-III,Inflammation_II,AF,UKB_AF,rs2227624,0.84282041,0.025051899,0.490015,,,,not_matched_in_ukb
+SERPINC1,Antithrombin-III,Inflammation_II,HF,UKB_HF,rs2227624,,,,,,,not_in_primary
+SERPIND1,Heparin cofactor 2,Inflammation_II,AF,UKB_AF,rs117254553,0.95450784,0.69541736,0.904093,,,,not_matched_in_ukb
+SERPIND1,Heparin cofactor 2,Inflammation_II,HF,UKB_HF,rs117254553,,,,,,,not_in_primary
+SERPINF1,Pigment epithelium-derived factor,Inflammation_II,AF,UKB_AF,rs62088172,0.98875149,0.65672129,0.904093,,,,not_matched_in_ukb
+SERPINF1,Pigment epithelium-derived factor,Inflammation_II,HF,UKB_HF,rs62088172,0.9856107,0.62548238,0.957279,,,,not_matched_in_ukb
+SERPINF2,Alpha-2-antiplasmin,Inflammation_II,AF,UKB_AF,rs11078597,1.0674213,0.11646922,0.678017,,,,not_matched_in_ukb
+SERPINF2,Alpha-2-antiplasmin,Inflammation_II,HF,UKB_HF,rs11078597,1.1159539,0.02460651,0.457404,,,,not_matched_in_ukb
+SERPING1,Plasma protease C1 inhibitor,Inflammation_II,AF,UKB_AF,rs28362944,1.0054308,0.88913886,0.984187,,,,not_matched_in_ukb
+SERPING1,Plasma protease C1 inhibitor,Inflammation_II,HF,UKB_HF,rs28362944,0.90306191,0.056457296,0.495811,,,,not_matched_in_ukb
+SERPINI1,Neuroserpin,Inflammation_II,AF,UKB_AF,rs11717419,0.98751913,0.47396086,0.898321,,,,not_matched_in_ukb
+SERPINI1,Neuroserpin,Inflammation_II,HF,UKB_HF,rs11717419,1.0130773,0.52766205,0.946293,,,,not_matched_in_ukb
+SFRP4,Secreted frizzled-related protein 4,Inflammation_II,AF,UKB_AF,rs75207237,0.98456111,0.64878874,0.904093,,,,not_matched_in_ukb
+SFRP4,Secreted frizzled-related protein 4,Inflammation_II,HF,UKB_HF,rs75207237,1.0064474,0.87208005,0.972877,,,,not_matched_in_ukb
+SHBG,Sex hormone-binding globulin,Inflammation_II,AF,UKB_AF,rs858519,0.95466441,0.061811282,0.570142,,,,not_matched_in_ukb
+SHBG,Sex hormone-binding globulin,Inflammation_II,HF,UKB_HF,rs858519,0.99781049,0.94021471,0.988165,,,,not_matched_in_ukb
+SHH,Sonic hedgehog protein,Inflammation_II,AF,UKB_AF,rs10225434,1.1555147,0.22786286,0.769429,,,,not_matched_in_ukb
+SHH,Sonic hedgehog protein,Inflammation_II,HF,UKB_HF,rs10225434,1.090215,0.53509112,0.946293,,,,not_matched_in_ukb
+SLC9A3R1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,Inflammation_II,AF,UKB_AF,rs745666,0.89258059,0.148614,0.717809,,,,not_matched_in_ukb
+SLC9A3R1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,Inflammation_II,HF,UKB_HF,rs745666,0.9902141,0.9156757,0.988165,,,,not_matched_in_ukb
+SLITRK1,SLIT and NTRK-like protein 1,Inflammation_II,AF,UKB_AF,rs2876803,0.99492657,0.9283765,0.986349,,,,not_matched_in_ukb
+SLITRK1,SLIT and NTRK-like protein 1,Inflammation_II,HF,UKB_HF,rs2876803,0.97923742,0.75555679,0.971009,,,,not_matched_in_ukb
+SNX15,Sorting nexin-15,Inflammation_II,AF,UKB_AF,rs2670910,1.0064252,0.69149622,0.904093,,,,not_matched_in_ukb
+SNX15,Sorting nexin-15,Inflammation_II,HF,UKB_HF,rs2670910,1.017052,0.39136594,0.876831,,,,not_matched_in_ukb
+SOD3,Extracellular superoxide dismutase,Inflammation_II,AF,UKB_AF,rs1799895,0.99233667,0.6037178,0.904093,,,,not_matched_in_ukb
+SOD3,Extracellular superoxide dismutase,Inflammation_II,HF,UKB_HF,rs1799895,,,,,,,not_in_primary
+SPINK2,Serine protease inhibitor Kazal-type 2,Inflammation_II,AF,UKB_AF,rs28656303,0.9914053,0.56682937,0.904093,,,,not_matched_in_ukb
+SPINK2,Serine protease inhibitor Kazal-type 2,Inflammation_II,HF,UKB_HF,rs28656303,1.0203452,0.28327439,0.841464,,,,not_matched_in_ukb
+SPRED2,"Sprouty-related, EVH1 domain-containing protein 2",Inflammation_II,AF,UKB_AF,rs7569084,1.0626575,0.51136328,0.904093,,,,not_matched_in_ukb
+SPRED2,"Sprouty-related, EVH1 domain-containing protein 2",Inflammation_II,HF,UKB_HF,rs7569084,0.99449043,0.96012239,0.988726,,,,not_matched_in_ukb
+ST13,Hsc70-interacting protein,Inflammation_II,AF,UKB_AF,rs1005402,0.7698466,0.035336806,0.570142,,,,not_matched_in_ukb
+ST13,Hsc70-interacting protein,Inflammation_II,HF,UKB_HF,rs1005402,0.79894536,0.12560992,0.660257,,,,not_matched_in_ukb
+STAT2,Signal transducer and activator of transcription 2,Inflammation_II,AF,UKB_AF,rs61754171,0.98876316,0.88019841,0.97926,,,,not_matched_in_ukb
+STAT2,Signal transducer and activator of transcription 2,Inflammation_II,HF,UKB_HF,rs61754171,,,,,,,not_in_primary
+STX7,Syntaxin-7,Inflammation_II,AF,UKB_AF,rs3813356,0.98804261,0.29643096,0.833073,,,,not_matched_in_ukb
+STX7,Syntaxin-7,Inflammation_II,HF,UKB_HF,rs3813356,1.0027145,0.84148058,0.971009,,,,not_matched_in_ukb
+SUMF1,Formylglycine-generating enzyme,Inflammation_II,AF,UKB_AF,rs10494172,0.95038309,0.40325567,0.869993,,,,not_matched_in_ukb
+SUMF1,Formylglycine-generating enzyme,Inflammation_II,HF,UKB_HF,rs10494172,0.92734795,0.28106853,0.841464,,,,not_matched_in_ukb
+SUSD5,Sushi domain-containing protein 5,Inflammation_II,AF,UKB_AF,3:33149521:GC:G,,,,,,,not_in_primary
+SUSD5,Sushi domain-containing protein 5,Inflammation_II,HF,UKB_HF,3:33149521:GC:G,,,,,,,not_in_primary
+TBCA,Tubulin-specific chaperone A,Inflammation_II,AF,UKB_AF,rs254415,0.98510317,0.77657608,0.922471,,,,not_matched_in_ukb
+TBCA,Tubulin-specific chaperone A,Inflammation_II,HF,UKB_HF,rs254415,1.0275311,0.65859018,0.958188,,,,not_matched_in_ukb
+TCN1,Transcobalamin-1,Inflammation_II,AF,UKB_AF,rs34324219,0.99115438,0.54246418,0.904093,,,,not_matched_in_ukb
+TCN1,Transcobalamin-1,Inflammation_II,HF,UKB_HF,rs34324219,1.0171192,0.32481303,0.853675,,,,not_matched_in_ukb
+TF,Serotransferrin,Inflammation_II,AF,UKB_AF,rs8177247,1.0042674,0.84368426,0.955004,,,,not_matched_in_ukb
+TF,Serotransferrin,Inflammation_II,HF,UKB_HF,rs8177247,1.014707,0.56770917,0.946293,,,,not_matched_in_ukb
+TGOLN2,Trans-Golgi network integral membrane protein 2,Inflammation_II,AF,UKB_AF,rs4247303,1.0040654,0.66037612,0.904093,,,,not_matched_in_ukb
+TGOLN2,Trans-Golgi network integral membrane protein 2,Inflammation_II,HF,UKB_HF,rs4247303,0.99748494,0.81749409,0.971009,,,,not_matched_in_ukb
+THSD1,Thrombospondin type-1 domain-containing protein 1,Inflammation_II,AF,UKB_AF,rs149590732,0.97704504,0.60513238,0.904093,,,,not_matched_in_ukb
+THSD1,Thrombospondin type-1 domain-containing protein 1,Inflammation_II,HF,UKB_HF,rs149590732,,,,,,,not_in_primary
+TLR1,Toll-like receptor 1,Inflammation_II,AF,UKB_AF,rs5743618,1.0134136,0.39035466,0.869993,,,,not_matched_in_ukb
+TLR1,Toll-like receptor 1,Inflammation_II,HF,UKB_HF,rs5743618,1.0380957,0.038834706,0.468301,,,,not_matched_in_ukb
+TLR4,Toll-like receptor 4,Inflammation_II,AF,UKB_AF,rs4986790,0.96575704,0.42533326,0.870243,,,,not_matched_in_ukb
+TLR4,Toll-like receptor 4,Inflammation_II,HF,UKB_HF,rs4986790,0.98302979,0.72958396,0.971009,,,,not_matched_in_ukb
+TNFAIP8L2,Tumor necrosis factor alpha-induced protein 8-like protein 2,Inflammation_II,AF,UKB_AF,rs4970991,1.102838,0.42228164,0.869993,,,,not_matched_in_ukb
+TNFAIP8L2,Tumor necrosis factor alpha-induced protein 8-like protein 2,Inflammation_II,HF,UKB_HF,rs4970991,1.0912733,0.54573284,0.946293,,,,not_matched_in_ukb
+TNFRSF17,Tumor necrosis factor receptor superfamily member 17,Inflammation_II,AF,UKB_AF,rs71389075,,,,,,,not_in_primary
+TNFRSF17,Tumor necrosis factor receptor superfamily member 17,Inflammation_II,HF,UKB_HF,rs71389075,,,,,,,not_in_primary
+TOP2B,DNA topoisomerase 2-beta,Inflammation_II,AF,UKB_AF,rs3806631,1.1328481,0.14639571,0.717809,,,,not_matched_in_ukb
+TOP2B,DNA topoisomerase 2-beta,Inflammation_II,HF,UKB_HF,rs3806631,0.92334848,0.43539088,0.912536,,,,not_matched_in_ukb
+TP53I3,Quinone oxidoreductase PIG3,Inflammation_II,AF,UKB_AF,rs1134516,1.0158851,0.30690439,0.843125,,,,not_matched_in_ukb
+TP53I3,Quinone oxidoreductase PIG3,Inflammation_II,HF,UKB_HF,rs1134516,0.98386826,0.37787514,0.872653,,,,not_matched_in_ukb
+TSPYL1,Testis-specific Y-encoded-like protein 1,Inflammation_II,AF,UKB_AF,rs61746508,0.94203956,0.42295629,0.869993,,,,not_matched_in_ukb
+TSPYL1,Testis-specific Y-encoded-like protein 1,Inflammation_II,HF,UKB_HF,rs61746508,0.94846349,0.52140804,0.946293,,,,not_matched_in_ukb
+TTR,Transthyretin,Inflammation_II,AF,UKB_AF,rs1667229,0.9454193,0.32458742,0.857964,,,,not_matched_in_ukb
+TTR,Transthyretin,Inflammation_II,HF,UKB_HF,rs1667229,1.0532438,0.44002447,0.912536,,,,not_matched_in_ukb
+TXN,Thioredoxin,Inflammation_II,AF,UKB_AF,rs146018216,0.83259731,0.1407151,0.71745,,,,not_matched_in_ukb
+TXN,Thioredoxin,Inflammation_II,HF,UKB_HF,rs146018216,,,,,,,not_in_primary
+TYRP1,"5,6-dihydroxyindole-2-carboxylic acid oxidase",Inflammation_II,AF,UKB_AF,rs10960751,1.0556614,0.52368125,0.904093,0.99639575,0.21446674,0.65405823,opposite_direction_not_significant
+TYRP1,"5,6-dihydroxyindole-2-carboxylic acid oxidase",Inflammation_II,HF,UKB_HF,rs10960751,1.2162127,0.052498368,0.495811,0.99897715,0.58407341,0.82951749,opposite_direction_not_significant
+UBXN1,UBX domain-containing protein 1,Inflammation_II,AF,UKB_AF,rs142782985,1.0649748,0.70666111,0.904093,,,,not_matched_in_ukb
+UBXN1,UBX domain-containing protein 1,Inflammation_II,HF,UKB_HF,rs142782985,,,,,,,not_in_primary
+UNC5D,Netrin receptor UNC5D,Inflammation_II,AF,UKB_AF,rs13260977,1.2739868,0.21129955,0.769429,,,,not_matched_in_ukb
+UNC5D,Netrin receptor UNC5D,Inflammation_II,HF,UKB_HF,rs13260977,1.3351173,0.25638817,0.841464,,,,not_matched_in_ukb
+UROD,Uroporphyrinogen decarboxylase,Inflammation_II,AF,UKB_AF,rs12749939,1.0122281,0.43932513,0.876857,,,,not_matched_in_ukb
+UROD,Uroporphyrinogen decarboxylase,Inflammation_II,HF,UKB_HF,rs12749939,1.0293401,0.18453413,0.778673,,,,not_matched_in_ukb
+VAMP8,Vesicle-associated membrane protein 8,Inflammation_II,AF,UKB_AF,rs3731828,0.92662175,0.070572395,0.570142,,,,not_matched_in_ukb
+VAMP8,Vesicle-associated membrane protein 8,Inflammation_II,HF,UKB_HF,rs3731828,0.93576123,0.18622174,0.778673,,,,not_matched_in_ukb
+VEGFB,Vascular endothelial growth factor B,Inflammation_II,AF,UKB_AF,rs660442,0.98448588,0.82831163,0.944252,,,,not_matched_in_ukb
+VEGFB,Vascular endothelial growth factor B,Inflammation_II,HF,UKB_HF,rs660442,1.0060991,0.94187243,0.988165,,,,not_matched_in_ukb
+VNN1,Pantetheinase,Inflammation_II,AF,UKB_AF,rs146101841,,,,,,,not_in_primary
+VNN1,Pantetheinase,Inflammation_II,HF,UKB_HF,rs146101841,,,,,,,not_in_primary
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Inflammation_II,AF,UKB_AF,rs79671623,1.0426263,0.73653261,0.909608,,,,not_matched_in_ukb
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Inflammation_II,HF,UKB_HF,rs79671623,1.1099967,0.47853461,0.930125,,,,not_matched_in_ukb
+ZBP1,Z-DNA-binding protein 1,Inflammation_II,AF,UKB_AF,rs45521631,0.94823118,0.048674876,0.570142,,,,not_matched_in_ukb
+ZBP1,Z-DNA-binding protein 1,Inflammation_II,HF,UKB_HF,rs45521631,0.92687321,0.019336311,0.441689,,,,not_matched_in_ukb
