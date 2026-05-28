@@ -65,7 +65,7 @@ Before submission:
 ## Submission-Level Items Still Pending
 
 1. Target journal selection.
-2. Public code/derived-data repository URL and optional Zenodo DOI.
+2. Final corresponding-author email.
 3. Author confirmation of funding and conflict-of-interest statements.
 4. Final reference-manager export in the selected journal style.
 5. Final figure conversion and journal-specific table placement.

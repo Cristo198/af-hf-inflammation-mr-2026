@@ -3,6 +3,7 @@ message: "If you use this repository, please cite the associated manuscript and 
 title: "Genetically Supported Inflammatory Mediators of the Atrial Fibrillation-Heart Failure Continuum"
 version: "0.1.0"
 date-released: "2026-05-28"
+doi: "10.5281/zenodo.20433665"
 authors:
   - family-names: "Qin"
     given-names: "Yangfeng"
@@ -12,6 +13,9 @@ authors:
     affiliation: "Nanning Fourth People's Hospital"
 repository-code: "https://github.com/Cristo198/af-hf-inflammation-mr-2026"
 license: "MIT"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20433665"
 keywords:
   - "atrial fibrillation"
   - "heart failure"

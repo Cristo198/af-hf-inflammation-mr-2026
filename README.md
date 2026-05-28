@@ -55,7 +55,7 @@ Before rerunning the pipeline, download or request the raw datasets described in
 
 ## Citation
 
-If using this repository, please cite the manuscript and the archived Zenodo DOI once available. The code repository is available at https://github.com/Cristo198/af-hf-inflammation-mr-2026.
+If using this repository, please cite the manuscript and the archived Zenodo record: https://doi.org/10.5281/zenodo.20433665. The code repository is available at https://github.com/Cristo198/af-hf-inflammation-mr-2026.
 
 ## License
 
