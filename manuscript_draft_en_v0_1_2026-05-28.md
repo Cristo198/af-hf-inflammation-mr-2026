@@ -8,7 +8,7 @@ Yangfeng Qin^1* and Runchuan Feng^2*
 
 *Yangfeng Qin and Runchuan Feng contributed equally to this work.
 
-Correspondence: Runchuan Feng, Nanning Fourth People's Hospital, Nanning, Guangxi, China. Email: [email to be inserted].
+Correspondence: Yangfeng Qin, Langping Township Health Center, Bobai County, Guangxi, China. Email: [Yangfeng Qin email to be inserted].
 
 Manuscript draft: v0.1 unified English version, 2026-05-28
 

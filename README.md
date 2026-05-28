@@ -12,7 +12,7 @@ Yangfeng Qin, Langping Township Health Center, Bobai County.
 
 Runchuan Feng, Nanning Fourth People's Hospital.
 
-Yangfeng Qin and Runchuan Feng contributed equally. Runchuan Feng is the corresponding author for the manuscript.
+Yangfeng Qin and Runchuan Feng contributed equally. Yangfeng Qin is the corresponding author for the manuscript.
 
 ## Overview
 
