@@ -16,5 +16,12 @@
     "colocalization",
     "inflammatory proteins"
   ],
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Cristo198/af-hf-inflammation-mr-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
 }

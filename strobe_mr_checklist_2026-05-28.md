@@ -51,16 +51,16 @@ Status key: Addressed = covered in the current English draft; Partial = covered 
 | 16c | Clinical/public health relevance | Addressed | Discussion; Target Prioritization; LPA tractability | None. |
 | 17 | Generalizability across populations, timing, exposure levels | Addressed | Discussion limitations | None; could expand for non-European ancestry if journal requests. |
 | 18 | Funding and funder role | Partial | Funding section; submission statements file | Default no-specific-funding statement drafted; author must replace if any funding applies. |
-| 19 | Data and code availability | Partial | Data Availability; Code Availability; Table 1 | Exact source links added; add final public code/derived-data repository URL before submission. |
+| 19 | Data and code availability | Partial | Data Availability; Code Availability; Table 1 | GitHub repository URL added; add Zenodo DOI after GitHub release archiving. |
 | 20 | Conflicts of interest | Partial | Conflicts of Interest; submission statements file | Default no-competing-interests statement drafted; author must confirm before submission. |
 
 ## Overall Assessment
 
-The unified English draft substantially addresses the STROBE-MR structure. Table 1, software-environment freeze, data/code availability draft, protocol-registration wording, and default funding/conflict statements have now been added. The main remaining gaps are submission-level rather than analytic: final public repository URL, target-journal formatting, author confirmation of funding/conflict declarations, and final reference-manager export.
+The unified English draft substantially addresses the STROBE-MR structure. Table 1, software-environment freeze, data/code availability draft, protocol-registration wording, default funding/conflict statements, and the GitHub code repository URL have now been added. The main remaining gaps are submission-level rather than analytic: Zenodo DOI, target-journal formatting, author confirmation of funding/conflict declarations, and final reference-manager export.
 
 ## Priority Fixes Before Submission
 
-1. Create or fill the final public code/derived-data repository URL, ideally with a Zenodo DOI.
+1. Create the GitHub release and archive it on Zenodo to obtain the DOI.
 2. Confirm the default no-specific-funding and no-competing-interests statements.
 3. Choose the target journal and export references in that journal style.
 4. Insert final figures and supplementary tables into the journal-ready package.
